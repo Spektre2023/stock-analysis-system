@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Stock Analysis Dashboard (Paper Trading)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 16px; }
+    .meta { color:#555; margin-bottom: 10px; }
+    table { border-collapse: collapse; width: 100%; font-size: 14px; }
+    th, td { border-bottom: 1px solid #eee; padding: 8px; vertical-align: top; }
+    th { text-align: left; position: sticky; top: 0; background: #fff; }
+    .pill { display:inline-block; padding:2px 8px; border-radius: 999px; border:1px solid #ddd; }
+    .buy { font-weight:700; }
+    .sell { font-weight:700; }
+    .small { font-size: 12px; color:#666; }
+    .filters { display:flex; gap:10px; flex-wrap:wrap; margin:10px 0 14px; }
+    select, input { padding: 6px 8px; font-size: 14px; }
+    .news { margin-top: 4px; }
+    .news a { text-decoration:none; }
+  </style>
+</head>
+<body>
+  <h1>Stock Analysis Dashboard (Paper Trading)</h1>
+  <div class="meta" id="meta">Loading…</div>
+
+  <div class="filters">
+    <label>Region
+      <select id="region">
+        <option value="">All</option>
+        <option value="asx">ASX</option>
+        <option value="us">US</option>
+      </select>
+    </label>
+    <label>Category
+      <select id="category"><option value="">All</option></select>
+    </label>
+    <label>Action
+      <select id="action">
+        <option value="">All</option>
+        <option value="BUY">BUY</option>
+        <option value="HOLD">HOLD</option>
+        <option value="SELL">SELL</option>
+      </select>
+    </label>
+    <label>Search
+      <input id="q" placeholder="ticker…" />
+    </label>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Ticker</th>
+        <th>Region</th>
+        <th>Category</th>
+        <th>Action</th>
+        <th>Confidence</th>
+        <th>Last Close</th>
+        <th>Ranges (approx)</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <p class="small">Data source: Stooq (prices) + Google News RSS (headlines). Paper-trading research only.</p>
+
+<script>
+async function load() {
+  const res = await fetch('./data/snapshot.json', {cache:'no-store'});
+  const snap = await res.json();
+  document.getElementById('meta').textContent = `As of (UTC): ${snap.asof_utc} • Rows: ${snap.rows.length}`;
+  window.SNAP = snap;
+  initFilters(snap.rows);
+  render();
+}
+function initFilters(rows){
+  const cats = Array.from(new Set(rows.map(r=>r.category))).sort();
+  const sel = document.getElementById('category');
+  cats.forEach(c=>{
+    const o=document.createElement('option'); o.value=c; o.textContent=c; sel.appendChild(o);
+  });
+  ['region','category','action','q'].forEach(id=>{
+    document.getElementById(id).addEventListener('input', render);
+    document.getElementById(id).addEventListener('change', render);
+  });
+}
+function fmtPctRange(r){
+  if(!r) return '';
+  const lo = (r.low*100).toFixed(1);
+  const hi = (r.high*100).toFixed(1);
+  return `${lo}% to ${hi}%`;
+}
+function render(){
+  const region = document.getElementById('region').value;
+  const category = document.getElementById('category').value;
+  const action = document.getElementById('action').value;
+  const q = document.getElementById('q').value.trim().toUpperCase();
+  const rows = window.SNAP.rows.filter(r=>{
+    if(region && r.region !== region) return false;
+    if(category && r.category !== category) return false;
+    if(action && r.action !== action) return false;
+    if(q && !r.ticker.toUpperCase().includes(q)) return false;
+    return true;
+  }).sort((a,b)=> (b.confidence||0)-(a.confidence||0));
+
+  const tb = document.getElementById('tbody');
+  tb.innerHTML = '';
+  rows.forEach(r=>{
+    const tr=document.createElement('tr');
+    const pill = `<span class="pill ${r.action==='BUY'?'buy':''} ${r.action==='SELL'?'sell':''}">${r.action}</span>`;
+    const notes = [];
+    if(r.trend===1) notes.push('Uptrend (MA50>MA200)');
+    if(r.trend===-1) notes.push('Downtrend (MA50<MA200)');
+    if(r.mom_6m!=null) notes.push(`6M mom: ${(r.mom_6m*100).toFixed(1)}%`);
+    if(r.vol_20d_ann!=null) notes.push(`Vol: ${(r.vol_20d_ann*100).toFixed(0)}%`);
+    if(r.rsi14!=null) notes.push(`RSI: ${r.rsi14.toFixed(0)}`);
+    const firstNews = (window.SNAP.news[r.ticker]||[])[0];
+    const newsHtml = firstNews ? `<div class="news small">News: <a href="${firstNews.link}" target="_blank" rel="noreferrer">${firstNews.title}</a></div>` : '';
+    tr.innerHTML = `
+      <td><b>${r.ticker}</b>${newsHtml}</td>
+      <td>${r.region.toUpperCase()}</td>
+      <td>${r.category}</td>
+      <td>${pill}</td>
+      <td>${r.confidence}</td>
+      <td>${(typeof r.last_close === 'number') ? r.last_close.toFixed(2) : r.last_close}</td>
+      <td class="small">
+        1D: ${fmtPctRange(r.range_1d)}<br/>
+        1W: ${fmtPctRange(r.range_1w)}<br/>
+        1M: ${fmtPctRange(r.range_1m)}
+      </td>
+      <td class="small">${notes.join(' • ')}</td>
+    `;
+    tb.appendChild(tr);
+  });
+}
+load();
+</script>
+</body>
+</html>

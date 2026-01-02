@@ -1,0 +1,76 @@
+{
+  "asx": {
+    "Technology": [
+      "XRO.AX",
+      "WTC.AX",
+      "CPU.AX",
+      "NEA.AX",
+      "ALU.AX"
+    ],
+    "Communication Services": [
+      "REA.AX",
+      "CAR.AX",
+      "SEK.AX",
+      "TPG.AX",
+      "SGP.AX"
+    ],
+    "Health Care": [
+      "CSL.AX",
+      "RMD.AX",
+      "ANN.AX",
+      "COH.AX",
+      "PME.AX"
+    ],
+    "Energy": [
+      "WDS.AX",
+      "STO.AX",
+      "BPT.AX",
+      "ORG.AX",
+      "AGL.AX"
+    ],
+    "Utilities": [
+      "APA.AX",
+      "AST.AX",
+      "SKI.AX",
+      "MCY.AX",
+      "MGR.AX"
+    ]
+  },
+  "us": {
+    "Technology": [
+      "AAPL",
+      "MSFT",
+      "NVDA",
+      "AVGO",
+      "ORCL"
+    ],
+    "Communication Services": [
+      "GOOGL",
+      "META",
+      "NFLX",
+      "TMUS",
+      "DIS"
+    ],
+    "Health Care": [
+      "LLY",
+      "JNJ",
+      "UNH",
+      "ABBV",
+      "MRK"
+    ],
+    "Energy": [
+      "XOM",
+      "CVX",
+      "COP",
+      "SLB",
+      "EOG"
+    ],
+    "Utilities": [
+      "NEE",
+      "DUK",
+      "SO",
+      "AEP",
+      "EXC"
+    ]
+  }
+}
