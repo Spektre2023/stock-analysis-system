@@ -1,5 +1,5 @@
 {
-  "asof_utc": "2026-01-03T12:04:26.467846+00:00",
+  "asof_utc": "2026-01-03T12:07:05.240182+00:00",
   "rows": [
     {
       "region": "asx",
@@ -1335,16 +1335,16 @@
         "source": "TipRanks"
       },
       {
-        "title": "Oracle stock ticks higher after hours as 2026 trading begins; ORCL dividend date and jobs data in focus - ts2.tech",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2xEYmFtZkRSd0Y2eHlmTnViREtUSEhTSmo3ZUxMUVdQbHFxSWRBaWdwckpXeDBSU0NIRzJiUS1oWTVZci1XY0VyVTcycnhEcXhjS0pOQjFxYTBaSFhLdDVweVlOMmVGeWRiZjNfRWFJUmVHYlNzRkhqVUZFQXJVZUF6SzQxRDVkRGhWODFMNXR1WXpTYVBQSWRQdUtHU1lxNWQ3UEM3ZkliQ3prTG0zNVUxUnFYajA3RXRLSTRQQUo?oc=5",
-        "published": "Fri, 02 Jan 2026 23:05:16 GMT",
-        "source": "ts2.tech"
-      },
-      {
         "title": "Oracle's Comeback Is Real, But Greatness Is Still Uncertain - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1pnbHA4amx0TzlXa3QyckRyWG9peTZCVjA1eXB0SnhWOEU2QmY5RmFIdk1nNDBfWVNvbnIzRnczVGNQQUlnaTZ0RFRrLW00MkpTdGZlWFhESEdyNEtidnlldDhrdUdMc2I2eTBmUjZtNEQ0STFUSGI2XzlzVl9GTm9pWWI0VXZwYnNjNjZucEdQZmV1SHVLQlVJVWIzRGM?oc=5",
         "published": "Tue, 30 Dec 2025 08:25:14 GMT",
         "source": "Seeking Alpha"
+      },
+      {
+        "title": "Oracle stock ticks higher after hours as 2026 trading begins; ORCL dividend date and jobs data in focus - ts2.tech",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2xEYmFtZkRSd0Y2eHlmTnViREtUSEhTSmo3ZUxMUVdQbHFxSWRBaWdwckpXeDBSU0NIRzJiUS1oWTVZci1XY0VyVTcycnhEcXhjS0pOQjFxYTBaSFhLdDVweVlOMmVGeWRiZjNfRWFJUmVHYlNzRkhqVUZFQXJVZUF6SzQxRDVkRGhWODFMNXR1WXpTYVBQSWRQdUtHU1lxNWQ3UEM3ZkliQ3prTG0zNVUxUnFYajA3RXRLSTRQQUo?oc=5",
+        "published": "Fri, 02 Jan 2026 23:05:16 GMT",
+        "source": "ts2.tech"
       },
       {
         "title": "Why Is Oracle (ORCL) Stock Rocketing Higher Today - Yahoo Finance",
@@ -1379,6 +1379,12 @@
         "source": "CNBC"
       },
       {
+        "title": "Arnold, Frances sells Alphabet Inc (GOOGL) stock worth $31971 By Investing.com - Investing.com Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGlaYkkxVnhuU0lHdVc5M2hGQXV0bnE1TnAzRTJ4amhvOThDc3JwQTRoekNfZmRUNi1TenNMT0NGMEpyTGo5dWlaaFp0YTJ1WVJmVFgwSnp0VHJCZ0lCYjg0aVhIOVdPcFBLeW9DVVpyZWppMG9Ud0g2QWs0R3F1bmQwRU5iQWE3T05HZnVjTmdNWURFS3o1dHZpblRZTlBLN0NfTEVQUlJLMWNvbjhNT2pLY09qTFlwQ18yUkRn?oc=5",
+        "published": "Wed, 31 Dec 2025 23:09:26 GMT",
+        "source": "Investing.com Nigeria"
+      },
+      {
         "title": "How to Make a 2.0% Income Yield in GOOGL Stock Over the Next Month - Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajVWNzFaYXVfMUw1Ukw4NTA0TUg4OE9VZnJHLUtoMEVwVjg5Z3M1LWZkd3BDdU1NeEFXV29OekpIUUhPWmlBdHIxSVV3cGlKQnd6TUtJQmJEb21WMmtiaGhCeUVjbk5RQzR4eVhPWnh2dDRTZE5icV8xS2huN1VYSzZCbHdXdGRZZkxjNWdnUUZ1TVhzbWxqdW05c203ajFNWXAyOEh2eXZudy1mSmE4?oc=5",
         "published": "Fri, 02 Jan 2026 16:27:05 GMT",
@@ -1395,12 +1401,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0p2RklPM3RrUDZ5bmRFNHUzbmRRNllENnE1cVJPamZ2akttTl9NQXJXMFFPZTRuREdPOElNQ0FURlNySktzRjVOcWFvTEE4YURrM2U2eWwxLWlMNzExWXQxbGlidVJmcXRxazhwVXJBdm5hcmhKeVI5MEM1dzBiRTNRUGR3TjdKT1VmbnlMRkg1bm13bWxxcFFKQmR3dGRTS2k5bHpmUFV5QQ?oc=5",
         "published": "Fri, 02 Jan 2026 21:25:00 GMT",
         "source": "Investor's Business Daily"
-      },
-      {
-        "title": "Arnold, Frances sells Alphabet Inc (GOOGL) stock worth $31971 - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjdzZk1udWF3VTRreldHNUxQUnBMTUJMOGtRUEZsNzNWVFM2TFI5MFVEMHpEbjdxSFUxbHRoWGczUkZkN3Y3WlljUWxRRXlmNmIzV2E3TktVNTVSc0JoMXV4OEE0SFRtekdfT1MtWjExQTN2MXRDbGJZVTNDWGFoQXI0bllTUkJnMVU3TlNkWVM4WjJ3LXA3dGF5LWxvWUhOMEViMXVaNS1TSmhuV055ZG5qMmlpRUtjd2VaRnN3OA?oc=5",
-        "published": "Wed, 31 Dec 2025 22:46:59 GMT",
-        "source": "Investing.com"
       }
     ],
     "META": [
@@ -1629,12 +1629,6 @@
         "source": "Eli Lilly"
       },
       {
-        "title": "Why Eli Lilly (LLY) Stock Is Trading Up Today - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHNjJCT0JURHN0RU1OSXduSEp1Q0xVQVNOOHh0NWtqWnR3SlVwR3RDN0hGdDNkOXFfMWNWWDRLOEQ1UThzaE1uMWR0S0VITk1LZlNMMVF2akc4N3NueE11ZEp0TWczQXpaZlppS2htazh6dXlRcG5hYw?oc=5",
-        "published": "Mon, 15 Dec 2025 08:00:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
         "title": "Spotlight on Health ETFs as NVO & LLY Cut Obesity Drug Price in China - The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzExRHI1WmN1ZmNBU2loeTJ6MW4zVjZ4VktpY056NU9mLU5IMFQtMGNGbnpfOGV6c0t0S19tQmVzcks4eWRlWjVvQkpyc0pjWlFySk10b0k4QjhBWnJ6OEdzQkJQZW1uUjM3T0JlZzloSk9OZDRScWgyc0pTVm9TckZJTmVsUUZNUG5xeUs4TzNEVlp3VFd1b3I1UG1lVTZEU0V5U2FlaTRDeGFVd1kxSFJnbzFNcko2NE9RdXBfaUR2LU5OeU8tSWhfc2dQS1p1Q3QxcjdzMXd0MktvSGZnNy1UTXBINEk?oc=5",
         "published": "Fri, 02 Jan 2026 19:29:53 GMT",
@@ -1645,6 +1639,12 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWlFpUWRPMC1rU2FTdVdGOXhCZkVVMUNtNGZhWXlxNWR4RGZXQ2hydDl6Q1lZUDh6SW1qb3QxV1dPS0xlQ2s2WUhYNTVfOUFjaHpnNzdXU1NZYm9yQjhqdzctMGpwZS1DOWJwdnB5SXhBOHhMQmFaS2ZiZ01FVFJ5U01sRGh6T3doTmZtNmVzMzB4Y0s1Uk5yaWI2dlQ1RXozUHpBZGRIZGJTMGNzYVhVV3I1OEhOT0JDb0dvemZfaEFoUGNUMXc?oc=5",
         "published": "Fri, 02 Jan 2026 04:40:04 GMT",
         "source": "AD HOC NEWS"
+      },
+      {
+        "title": "Why Eli Lilly (LLY) Stock Is Trading Up Today - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHNjJCT0JURHN0RU1OSXduSEp1Q0xVQVNOOHh0NWtqWnR3SlVwR3RDN0hGdDNkOXFfMWNWWDRLOEQ1UThzaE1uMWR0S0VITk1LZlNMMVF2akc4N3NueE11ZEp0TWczQXpaZlppS2htazh6dXlRcG5hYw?oc=5",
+        "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "source": "Yahoo Finance"
       },
       {
         "title": "Eli Lilly stock split: what\u2019s next for LLY shares? - Capital.com",
@@ -1685,12 +1685,6 @@
         "source": "The Motley Fool"
       },
       {
-        "title": "Is J&J\u2019s 45.8% 2025 Surge Justified by Its Cash Flow and Earnings Outlook? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tU3RaOXdxeXBhaUlQa1cxYmttckxaRmtZWU5UZXhaZUYwdUo0U2RmYzRpazJhRURDR0M5TFVSdE1tYnVfX2NmeGYxWTZDWjJ4MlJ2a0R5RU9acThUR0FPR3NYbVJ0YUpNWWdv?oc=5",
-        "published": "Fri, 12 Dec 2025 08:00:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
         "title": "$JNJ stock is down 3% today. Here's what we see in our data. - Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSklqVWNRYVNxNEZtcEszVzJCaTdqSk81SjZmdTFuZ3ZIV005UnFHYUtsUE9kNTV6Qy16STYxVVVGQU5kR1ZhdXFnTnc1VlhKcXFROEM5VVFzVDFlUUE0R2JHWGhUVmVuXzVDN0lrMzA5cHR2NjVoV1NnZkRpczFMZGt6OTVxOTczSUVWMVNUWW1fc0RuVnNsMTdoWTdfQTA?oc=5",
         "published": "Tue, 16 Dec 2025 08:00:00 GMT",
@@ -1701,6 +1695,12 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXI3VTU3MndqNW5hU1drYlhuMThjb3hlNUh1empsekktWlRKZHd4LUpSX2tEYXJ5eXAtNlRoWjY0WDFHYS03d09WdlVvV1pOWDVnVFU2UWJhLTkwcXpjaG1MdWFROC0tUjBUS2lxdWRLeXdqR1pxQjd3RmxvREE3eE1ZMTNSOUduOWZYV0VRc3VHcVVSQ1VXUTd5N2NXS1p5MFlxVA?oc=5",
         "published": "Fri, 02 Jan 2026 17:50:10 GMT",
         "source": "ts2.tech"
+      },
+      {
+        "title": "Johnson & Johnson (JNJ): Exploring Valuation Perspectives After Recent Share Price Momentum - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFd2SHhRUmo5Q3J4WTBlcjZFQ1ZtTEs1MU13NURPQWw0eEdIZzBzUFN1RUQtYktlRTNyNDJZNTRsbTBxeFpxOXNHclR5U3hjZWlxcEtYUkpwaXA3U2dEY1RKZE9WRHI1YVJoT1JTRHFvWlBabUpjVE9oelcyNWFSTV8tMTd4MUNacjJkeU9n?oc=5",
+        "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "source": "Yahoo Finance"
       }
     ],
     "UNH": [
@@ -1785,10 +1785,10 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "AbbVie: What\u2019s Happening With ABBV Stock? - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmxISjFPRjI3Wnl6R2VIMzdIZ2R3QW5IN01rUVJEaUJZTzBDVTJ3NXVjQUFmQ2lfbklnLURJdHRaTlF3Wlgzdkg3MFd2UXFEYWJSTjY1a2NLQVA4bWFjT1dMeVBTcHRmWHdRY0ljMFRCUW0yVGdIakx4eG9uUWtBQ3FGaVl5QnNQYlRrX3RJY1IzRVhtelVsR2ZSNWkyZw?oc=5",
-        "published": "Thu, 11 Sep 2025 07:00:00 GMT",
-        "source": "Forbes"
+        "title": "Palmetto Grain Brokerage - - Palmetto Grain Brokerage",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlNuZUkwcWRtWTRZRDNrU3pFSkFXcGpLVVhSTzE4RHJDekk1RGhUMFFuUmIwWGxtWDYwMElaZVU4alh0WV9ITkhCaXdUSUdfNUlkcjVBTmU2MGRBZkhiQTM0elhSVjFoYjhrNkoxdFlVY1Z1VkkwVllBZTBIYVE2VXdLM185blF1T19YVEhDc2pndjF5aVJuTWVGcHZDbG00aE5EbzVCaWpYWXVDWUE?oc=5",
+        "published": "Fri, 02 Jan 2026 12:43:26 GMT",
+        "source": "Palmetto Grain Brokerage"
       },
       {
         "title": "$ABBV stock is down 3% today. Here's what we see in our data. - Quiver Quantitative",
@@ -1797,10 +1797,10 @@
         "source": "Quiver Quantitative"
       },
       {
-        "title": "Retirement Guys Formula LLC Makes New $1.33 Million Investment in AbbVie Inc. $ABBV - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRkhHZ0U1NXdpOTdHNGZRa2RiaVAxUlkxMVFGQW1VR0gxYlAwdzNxU21tQlN0a1hCb19xLThQbFVFclVsZTNLX1VzbDFoVnVCbVdYYWNlQWhJdXUtRkYzWU9RRC1iMW9nZktFdEM5VWdFeVpuaEpaZHc3R29FaWVCZmJOTExtMndiQTh2a1VnNl90a3AzSWkxUVVKTVJNVkYwbWNOZ0lJYTU2Q0pjRFhTZUtvSjd2OER6Nzh1bGJzLVZuQTd2bVR1TkdFbUdCb3BMZE1TUnZTYw?oc=5",
-        "published": "Sat, 03 Jan 2026 11:48:52 GMT",
-        "source": "MarketBeat"
+        "title": "AbbVie: What\u2019s Happening With ABBV Stock? - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmxISjFPRjI3Wnl6R2VIMzdIZ2R3QW5IN01rUVJEaUJZTzBDVTJ3NXVjQUFmQ2lfbklnLURJdHRaTlF3Wlgzdkg3MFd2UXFEYWJSTjY1a2NLQVA4bWFjT1dMeVBTcHRmWHdRY0ljMFRCUW0yVGdIakx4eG9uUWtBQ3FGaVl5QnNQYlRrX3RJY1IzRVhtelVsR2ZSNWkyZw?oc=5",
+        "published": "Thu, 11 Sep 2025 07:00:00 GMT",
+        "source": "Forbes"
       }
     ],
     "MRK": [
@@ -1835,12 +1835,6 @@
         "source": "Quiver Quantitative"
       },
       {
-        "title": "Merck, Oracle among market cap stock movers on Tuesday By Investing.com - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWZkX3EyZTRRV19KLTlpTGhTX2sxb3lFNVVtVHdyR0d3RUY0SHMxOG5EUU1mV0R1MTlqcTR4ZnAyYVV3c0F2NFdHMG9hRGozU0RTZ216QUxiSlFINzRHQWxnNTVUS192NEVTTUtET1pabnBZMERiUE9GWWlWTGxQYWpuay10SDFTRFZxYmg5aW8zTGU4a2pxNnhJdUlqT21heENfSlNjeTJuNkdROUhMMGFjYk0?oc=5",
-        "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-        "source": "Investing.com Australia"
-      },
-      {
         "title": "Merck (MRK) Stock Today: Latest News, Analyst Forecasts, and What Investors Should Watch Before Monday\u2019s Open - ts2.tech",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjJnM2tWeEI2NmNGMWIxQjRleUpSSF9GREk4eUNLSVd0RUU3ZVpCbTVNakhiWDV0RFFqb2pQX0tReWJ2aGpGeHZxZ1pNX1Q5RVIyUVczb3lfb2ZfX2gxQWNVYlphSEFDaHZuc3haQVhQaVk2ejhMYXVSRkRQSWwyZjlPY3lIU285YjBZXzEtNkY1ZDBFSjJjVHVXcVFNY2RyWE5YczE3djJlblR4NEs1VF9sNGo2ZDVhX3AwU2VSRWNPdw?oc=5",
         "published": "Sun, 28 Dec 2025 19:05:48 GMT",
@@ -1851,6 +1845,12 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmVwUGxYS0J3UVBUT2lOMUFOWHhvMHZhOGNMMFFjMTFGNjE4TVd5aExSc0JvbWo4M2xLemdDRzM0OHR3cGV2ZnI1RTYzRUNHR29RVk1uRGVfVnc4d1BQN21FWDlqaG1JdmROTGdJR0VUTUtfNXpKcmoxckRjY0tPRg?oc=5",
         "published": "Tue, 16 Dec 2025 08:00:00 GMT",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Merck: A Post-2028 Slowdown Doesn\u2019t Kill The Long-Term Thesis (NYSE:MRK) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQk1iX1cyY2VSaVlrRjhTQmdrY1pmMk9EUzN2Q1pVN0FDeVVvMThMZl9fRnByTXFXSHJfZ0tJQl9KR2hISUFwNTExSTkxUVNPTThIQkZDY2NrNU11M05xT3B6NU5yMVV1cFBQNkVFMzhIX0lNanUzMm91dkFJYWxzbTM3aUlsc0tGU3REOC1UTk1nSG5DLUUxR3hXTW1vWklTRnc?oc=5",
+        "published": "Tue, 30 Dec 2025 17:03:49 GMT",
+        "source": "Seeking Alpha"
       }
     ],
     "XOM": [
@@ -1917,16 +1917,16 @@
         "source": "CoinCentral"
       },
       {
+        "title": "Generali Asset Management SPA SGR Trims Stock Holdings in Chevron Corporation $CVX - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOHAyVkgxakl0ZU91UFNGTnFSVTRjb3EzYjV1YVg4UGlScm9OOFBBTF9nTmFMOGhyLXp5WEtvZW9jRkFra1NPcE5tX0FjaWpreHJxSGRrUG1YUmRaV0Z0LU90UEpqYmpWLVVfaDhGMWplNzdaMlYzVzJuRVNRTlRwcjZLclN0dkc4UlFDd0l5Mlc5SzNTODJxenloSk5sck8xOURSSWZhTEFRaVd1eVNPQWNuSWwxVlk0RlY0SGhQNnhtZkdaN256S0RseEF6U3BwaERLVGJtRnVlQQ?oc=5",
+        "published": "Sat, 03 Jan 2026 12:04:56 GMT",
+        "source": "MarketBeat"
+      },
+      {
         "title": "Chevron stock rises as energy kicks off 2026; OPEC+ and Venezuela in focus - ts2.tech",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGpsVlNpV2xhZ2ZOMFBTYTNLYlpSY2FVS3VkUkYzQjdzMUtnSmNZRjdTZmN6ODhHTlNsS1hNTFU2elVfX2NIVVBtaUhwbktaUkw0UV94clh5a1BJemRRRG1CbTBkaVg2Y2hYTjRoemY1cnU4N1d3VFY5SEYwYm9lVWVsRmF2RC1kbWRzN0Nzd1pldXI0d3dkMw?oc=5",
         "published": "Sat, 03 Jan 2026 02:30:26 GMT",
         "source": "ts2.tech"
-      },
-      {
-        "title": "Chevron (NYSE:CVX) Trading Up 2.2% - Here's Why - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVZiOWlsdFFqYmVScjNLc19DTzBPLWhKc0JNSzExTjRxbUd2TFRlWU5pbG14QVJ3VGNZMzNOMTg2d1UwSmZzTmV4dGRLSVBabXBfUzROTTJ6WkFLNmo4RFJpbGEwQW4zWkVHVFd2aE1LY0NnZldWamxuMUxJV0QxR3BibkI3X1MwV2JuNV9Kc2RDZWNDTmJ4Qw?oc=5",
-        "published": "Fri, 02 Jan 2026 22:55:14 GMT",
-        "source": "MarketBeat"
       },
       {
         "title": "1 Stock I'd Buy Before Chevron in 2026 - The Motley Fool",
@@ -1947,9 +1947,9 @@
         "source": "CNBC"
       },
       {
-        "title": "Silver Oak Securities Incorporated Purchases 9,877 Shares of Chevron Corporation $CVX - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3laSVBVUnVWM2h1LXJlaUNfa3hLMmVWQmprNmd1U1pfcGFEOTJzblVIczRFeV9QLUR5bnI4dnphQ2FtSnk0NDh1WTR5ZkxRRzRvamxEOWMxN016ajFBNDJCaVZKR1RUZTlaU3JxNk5TODB0Ump3S1dkSGoxbkFSbEJzUVBsRENidGxia002eHA0bUFEYS1CM1ZvSFpPZW9jVFg3SDJDM1JIY24xTUhYNnYzVDdNb3RlTmF6R09MU3pZRXZJaEV4cjVjZWVId0xxWE50OGpyYXFwUDZU?oc=5",
-        "published": "Sat, 03 Jan 2026 11:48:53 GMT",
+        "title": "Chevron (NYSE:CVX) Trading Up 2.2% - Here's Why - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVZiOWlsdFFqYmVScjNLc19DTzBPLWhKc0JNSzExTjRxbUd2TFRlWU5pbG14QVJ3VGNZMzNOMTg2d1UwSmZzTmV4dGRLSVBabXBfUzROTTJ6WkFLNmo4RFJpbGEwQW4zWkVHVFd2aE1LY0NnZldWamxuMUxJV0QxR3BibkI3X1MwV2JuNV9Kc2RDZWNDTmJ4Qw?oc=5",
+        "published": "Fri, 02 Jan 2026 22:55:14 GMT",
         "source": "MarketBeat"
       }
     ],
@@ -1973,12 +1973,6 @@
         "source": "Stock Traders Daily"
       },
       {
-        "title": "COP's Australian Drilling Campaign Yields Unexpected Gas Encounter - Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmFrRWlCWE5IckVreXdrUl9RV01VcHVWMk5XTHpOellXTnROVFJkQWZXN1VLcnlhWVRWUGFhSjg0Z2NZUUZkWGxVUDlfTFRYR3NKdjdxZjJxTVoyUnBuNHE2Z0JNaHpCY3lxQmxFdzhLRFZFQWxENGVuZURpUm5iZEdNY1NUd2hseHBGNWgwc2Z1TDkzT1RyUjZHWVNnVW0tOG9FcWVmeXpFQQ?oc=5",
-        "published": "Wed, 31 Dec 2025 12:30:37 GMT",
-        "source": "Zacks Investment Research"
-      },
-      {
         "title": "ConocoPhillips Stock (COP) Outlook: Oil Slumps on Supply-Glut Fears, Analysts See $114\u2013$121 Targets Ahead of Monday\u2019s Open - ts2.tech",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZW9yZjRWUG8ya0ZEUVJ4SXNqR0hZeUZsUUo5WG9NWFdPZWZiUlFhMXg5LUpPM2E2bXJadlZBczQ1UlMyQm5VYVhiWlpiREY5Skg2bnpxUEw4aVVjb1BOUlVzZXVIbjQwT29HMHNmZS1KQVdDbWZWSjdKZnV1aTBRamJXYUM2M3d3dkFDRjdMRGZ3Y2JDa2EwRHVscG5hRzJsbEtBSXltNWFnX3IyRkp3eGR2WWVFSEQzWERSZ3VScDlJbUkxbjNDdmloY192ZTNWakE?oc=5",
         "published": "Sun, 28 Dec 2025 21:06:00 GMT",
@@ -1995,6 +1989,12 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3FyVE9hc3JybVlYYl9PSDRjUWNiakhZN1Q1dnlhVFBFNGtzWDRxbFh0MkFSTmlVZm4xRDNWaEcxWHJrYXRlVFdaT3duMElELVhiUk9jOVY2akJvdzFneEJiN09jbWZ2Si1zalBsNjNJN3ItTnhseEJYUXA5aUJhY0FwVllXT1dfN21LSGFyWkN1NjRkZnNoNEpYLUtKQzBGaEtxWTN4R0JVRG91cWxkd0FIWS1Fd2pxN0dBNEhJWkg1OHpaNnphWQ?oc=5",
         "published": "Sat, 03 Jan 2026 09:07:15 GMT",
         "source": "AD HOC NEWS"
+      },
+      {
+        "title": "3 Oil Stocks to Watch as Storylines Simmer - Schaeffer's Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTFNM1otM2lHUjNLa2pYRklFc0xIRHdrQmlTUURXcVQ0S2c3cnBiTnp0M21PVHAyYks2ZnpVTURhd09SOWUta3lRQWZQdHB2NTd0TExCLTl1VEgzTUlhMXNlOUx0Qkw2VE9tN2pBUC14dDZ0b08wS1QtSWpLQldjZ3REc3k0ZWpia25BMWJ0YVNIeE10UWZjeUNWLVdpb2RPdWZvVER1dXo?oc=5",
+        "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+        "source": "Schaeffer's Investment Research"
       },
       {
         "title": "ConocoPhillips $COP Shares Purchased by Smith Salley Wealth Management - MarketBeat",
@@ -2035,10 +2035,10 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "How Will SLB Stock React To Its Upcoming Earnings? - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEJJbmd4S0d6NWNxbURqX1ZVWUliNmxhVld2WnZjVENoRldDX2RVQ19ob19BMTI4R1RCeFpZeVNNTm1LOWM1SVpURUhsSVlHaEU2WVh3MUZvanBaUjlBdGlOSUJlb3FkQ3lrWFloazdEbnN5Um1rc200TlNTc0tHLTVEdUVHazZwcmI0Y2ZmWHBNQ2RJU0NValF6UGNDZGptTF9WWl9sMk1sTU80?oc=5",
-        "published": "Thu, 17 Jul 2025 07:00:00 GMT",
-        "source": "Forbes"
+        "title": "SLB (SLB) Rises As Market Takes a Dip: Key Facts - Nasdaq",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GUjgzUGVwcjNFN3NpUDlOWkpWMDRBYWlxUTNFVmxRVVh2dTNOdkVQd0dvNnNrNHBIcmJub1VPbktocllQQ0NCSEswSUIxcVhPR0JUZ1c3cjJJU0dHTUZFZ3dTei1MV1hjdGNBRGlDUVZpanZWczM5ZkJYRlg?oc=5",
+        "published": "Tue, 30 Dec 2025 22:50:00 GMT",
+        "source": "Nasdaq"
       },
       {
         "title": "Director\u2019s Major Stock Sale Shakes Up Schlumberger! - TipRanks",
@@ -2047,10 +2047,10 @@
         "source": "TipRanks"
       },
       {
-        "title": "Here is What to Know Beyond Why SLB Limited (SLB) is a Trending Stock - Nasdaq",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5GM2tzUE5IdW5rVTdGUEdQZDY2dnhidUhaUDU3YnBUY1JVLTh4eTV4dmRGWXpudHJSUFZ2WTg0dThlTkk2V2czM3VPbDlaNzhKeXpCSDk2TDBLQUFoWnpIc1ZVU05pZEJfVkJ3aTlSNmNqT01sWWVCYVRZN2htR256Ny1QUE5MZUxuN2tiY3p6UQ?oc=5",
-        "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-        "source": "Nasdaq"
+        "title": "How Will SLB Stock React To Its Upcoming Earnings? - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEJJbmd4S0d6NWNxbURqX1ZVWUliNmxhVld2WnZjVENoRldDX2RVQ19ob19BMTI4R1RCeFpZeVNNTm1LOWM1SVpURUhsSVlHaEU2WVh3MUZvanBaUjlBdGlOSUJlb3FkQ3lrWFloazdEbnN5Um1rc200TlNTc0tHLTVEdUVHazZwcmI0Y2ZmWHBNQ2RJU0NValF6UGNDZGptTF9WWl9sMk1sTU80?oc=5",
+        "published": "Thu, 17 Jul 2025 07:00:00 GMT",
+        "source": "Forbes"
       }
     ],
     "EOG": [
