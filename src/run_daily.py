@@ -1,222 +1,235 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Stock Analysis Dashboard</title>
-  <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:24px;}
-    h1{margin:0 0 10px 0;}
-    .sub{color:#555;margin-bottom:14px;}
-    .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:10px;}
-    select,input{padding:6px 8px;border:1px solid #ccc;border-radius:8px;font-size:14px;}
-    table{width:100%;border-collapse:collapse;font-size:14px;}
-    th,td{border-bottom:1px solid #eee;padding:10px 8px;vertical-align:top;}
-    th{color:#333;text-align:left;font-weight:600;background:#fafafa;position:sticky;top:0;}
-    .pill{display:inline-block;padding:2px 10px;border-radius:999px;border:1px solid #ddd;font-size:12px;}
-    .BUY{background:#f1fff1;border-color:#cce9cc;}
-    .SELL{background:#fff1f1;border-color:#f1c1c1;}
-    .HOLD{background:#f6f6f6;}
-    .small{font-size:12px;color:#666;line-height:1.35;}
-    a{color:#1a73e8;text-decoration:none;}
-    a:hover{text-decoration:underline;}
+import io
+import json
+import time
+import math
+import feedparser
+import requests
+import pandas as pd
+from datetime import datetime, timezone
+from pathlib import Path
 
-    td.pos{color:#0a7a2f;}
-    td.neg{color:#b00020;}
-    td.hot{background:rgba(255,215,0,0.25);}
-  </style>
-</head>
-<body>
-  <h1>Stock Analysis Dashboard (Paper Trading)</h1>
-  <div class="sub" id="asof">Loading…</div>
+ROOT = Path(__file__).resolve().parents[1]
+CONFIG = ROOT / "config" / "universe.json"
+OUT_DIR = ROOT / "docs" / "data"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-  <div class="controls">
-    <label>Region
-      <select id="region"></select>
-    </label>
-    <label>Category
-      <select id="category"></select>
-    </label>
-    <label>Action
-      <select id="action"></select>
-    </label>
-    <label>Search
-      <input id="search" placeholder="ticker…" />
-    </label>
-  </div>
+UA = {"User-Agent": "stock-analysis-system/0.1 (paper trading)"}
 
-  <table>
-    <thead>
-      <tr>
-        <th>Ticker</th>
-        <th>Region</th>
-        <th>Category</th>
-        <th>Action</th>
-        <th>Confidence</th>
-        <th>Prev Close</th>
-        <th>Last Close</th>
-        <th>Change</th>
-        <th>Pred Close (Tomorrow)</th>
-        <th>Model Conf</th>
-        <th>Ranges (approx)</th>
-        <th>Notes</th>
-      </tr>
-    </thead>
-    <tbody id="tbody"></tbody>
-  </table>
 
-<script>
-const state = { region:'ALL', category:'ALL', action:'ALL', search:'' };
+def now_utc() -> str:
+    return datetime.now(timezone.utc).isoformat()
 
-function uniq(arr){ return [...new Set(arr)].sort(); }
-function optAll(id, items){
-  const s = document.getElementById(id);
-  s.innerHTML = '';
-  const o0 = document.createElement('option');
-  o0.value = 'ALL'; o0.textContent = 'All';
-  s.appendChild(o0);
-  for(const it of items){
-    const o = document.createElement('option');
-    o.value = it; o.textContent = it;
-    s.appendChild(o);
-  }
-}
 
-function fmtPctRange(r){
-  if(!r || typeof r.low !== 'number' || typeof r.high !== 'number') return '—';
-  const lo = (r.low*100).toFixed(1);
-  const hi = (r.high*100).toFixed(1);
-  return `${lo}% to ${hi}%`;
-}
+def json_safe(obj):
+    """Make pandas / datetime objects JSON safe."""
+    if hasattr(obj, "isoformat"):
+        return obj.isoformat()
+    return str(obj)
 
-function fmtNum(x){
-  return (typeof x === 'number' && isFinite(x)) ? x.toFixed(2) : '';
-}
-function fmtPct(x){
-  if(typeof x !== 'number' || !isFinite(x)) return '';
-  const s = (x*100).toFixed(1) + '%';
-  return (x>0?'+':'') + s;
-}
-function rowChangePct(r){
-  if(typeof r.prev_close !== 'number' || typeof r.last_close !== 'number' || r.prev_close === 0) return null;
-  return (r.last_close - r.prev_close) / r.prev_close;
-}
-function sortRowsPinned(rows){
-  // Top 5 winners + top 5 losers (by daily % change) pinned above everything else.
-  const withChg = rows.map(r=>{
-    const cp = rowChangePct(r);
-    return {...r, _chgPct: cp};
-  });
-  const valid = withChg.filter(r=> typeof r._chgPct === 'number');
-  const winners = [...valid].sort((a,b)=>b._chgPct-a._chgPct).slice(0,5);
-  const losers  = [...valid].sort((a,b)=>a._chgPct-b._chgPct).slice(0,5);
-  const pinnedTickers = new Set([...winners, ...losers].map(r=>r.ticker));
-  const rest = withChg.filter(r=> !pinnedTickers.has(r.ticker))
-                      .sort((a,b)=> (b.confidence||0)-(a.confidence||0));
-  return [...winners, ...losers, ...rest];
-}
 
-function render(){
-  const tb = document.getElementById('tbody');
-  tb.innerHTML = '';
+def stooq_symbol(ticker: str) -> str:
+    # Stooq symbols are lower-case. Examples: aapl.us, xro.au
+    if ticker.endswith(".AX"):
+        return ticker.replace(".AX", "").lower() + ".au"
+    return ticker.lower() + ".us"
 
-  let rows = window.SNAP.rows.filter(r=>{
-    if(r.status !== 'OK') return false;
-    if(state.region !== 'ALL' && r.region.toUpperCase() !== state.region) return false;
-    if(state.category !== 'ALL' && r.category !== state.category) return false;
-    if(state.action !== 'ALL' && r.action !== state.action) return false;
-    if(state.search && !r.ticker.toLowerCase().includes(state.search.toLowerCase())) return false;
-    return true;
-  });
-  rows = sortRowsPinned(rows);
 
-  for(const r of rows){
-    const tr = document.createElement('tr');
-    const chgPct = rowChangePct(r);
-    const chgAbs = (typeof r.prev_close==='number' && typeof r.last_close==='number') ? (r.last_close - r.prev_close) : null;
-    const predPct = (typeof r.pred_close_1d==='number' && typeof r.last_close==='number' && r.last_close!==0) ? (r.pred_close_1d - r.last_close)/r.last_close : null;
-    const chgClass = (chgPct==null) ? '' : (chgPct>0 ? 'pos' : (chgPct<0 ? 'neg' : ''));
-    const predClass = (predPct==null) ? '' : (Math.abs(predPct) >= 0.02 ? 'hot' : (predPct>0 ? 'pos' : (predPct<0 ? 'neg' : '')));
+def fetch_stooq_daily(ticker: str, days: int = 420) -> pd.DataFrame:
+    sym = stooq_symbol(ticker)
+    url = f"https://stooq.com/q/d/l/?s={sym}&i=d"
+    r = requests.get(url, headers=UA, timeout=30)
+    r.raise_for_status()
 
-    const pill = `<span class="pill ${r.action}">${r.action}</span>`;
+    df = pd.read_csv(io.StringIO(r.text))
+    df["Date"] = pd.to_datetime(df["Date"])
+    df = df.sort_values("Date").tail(days).reset_index(drop=True)
+    df["Ticker"] = ticker
+    return df
 
-    const notes = [];
-    if(typeof r.trend === 'number'){
-      notes.push(r.trend>0 ? 'Uptrend (MA50>MA200)' : (r.trend<0 ? 'Downtrend (MA50<MA200)' : 'Flat trend'));
-    }
-    if(typeof r.mom_6m === 'number'){
-      notes.push(`6M mom: ${(r.mom_6m*100).toFixed(1)}%`);
-    }
-    if(typeof r.vol_20d_ann === 'number'){
-      notes.push(`Vol: ${(r.vol_20d_ann*100).toFixed(0)}%`);
-    }
-    if(typeof r.rsi14 === 'number'){
-      notes.push(`RSI: ${r.rsi14.toFixed(0)}`);
+
+def gnews_rss_url(ticker: str) -> str:
+    q = requests.utils.quote(ticker + " stock")
+    return f"https://news.google.com/rss/search?q={q}&hl=en-AU&gl=AU&ceid=AU:en"
+
+
+def fetch_news_headlines(ticker: str, max_items: int = 8) -> list[dict]:
+    url = gnews_rss_url(ticker)
+    feed = feedparser.parse(url)
+    items = []
+    for e in feed.entries[:max_items]:
+        items.append(
+            {
+                "title": getattr(e, "title", "")[:300],
+                "link": getattr(e, "link", ""),
+                "published": getattr(e, "published", ""),
+                "source": getattr(getattr(e, "source", None), "title", "")
+                if hasattr(e, "source")
+                else "",
+            }
+        )
+    return items
+
+
+def rsi(series: pd.Series, period: int = 14) -> pd.Series:
+    delta = series.diff()
+    gain = delta.clip(lower=0.0)
+    loss = -delta.clip(upper=0.0)
+    avg_gain = gain.ewm(alpha=1 / period, adjust=False).mean()
+    avg_loss = loss.ewm(alpha=1 / period, adjust=False).mean()
+    rs = avg_gain / (avg_loss.replace(0, 1e-9))
+    return 100 - (100 / (1 + rs))
+
+
+def compute_signals(df: pd.DataFrame) -> dict:
+    close = df["Close"].astype(float)
+    df = df.copy()
+    df["ret1"] = close.pct_change()
+    df["ma50"] = close.rolling(50).mean()
+    df["ma200"] = close.rolling(200).mean()
+    df["rsi14"] = rsi(close, 14)
+    df["vol20"] = df["ret1"].rolling(20).std() * math.sqrt(252)
+
+    latest = df.iloc[-1]
+    trend = 0
+    if pd.notna(latest["ma50"]) and pd.notna(latest["ma200"]):
+        trend = (
+            1
+            if latest["ma50"] > latest["ma200"]
+            else (-1 if latest["ma50"] < latest["ma200"] else 0)
+        )
+
+    r63 = (close.iloc[-1] / close.iloc[-64] - 1) if len(close) > 64 else float("nan")
+    r126 = (close.iloc[-1] / close.iloc[-127] - 1) if len(close) > 127 else float("nan")
+
+    vol = float(latest["vol20"]) if pd.notna(latest["vol20"]) else float("nan")
+    rsi_v = float(latest["rsi14"]) if pd.notna(latest["rsi14"]) else float("nan")
+
+    action = "HOLD"
+    if trend == 1 and (not math.isnan(r126) and r126 > 0.10) and (math.isnan(rsi_v) or rsi_v < 70):
+        action = "BUY"
+    if trend == -1 and (not math.isnan(r126) and r126 < -0.05):
+        action = "SELL"
+
+    conf = 50
+    if action == "BUY":
+        conf += 15
+    elif action == "SELL":
+        conf += 10
+
+    if not math.isnan(r126):
+        conf += max(-10, min(10, int(r126 * 50)))
+
+    if not math.isnan(vol):
+        conf += int(max(-20, min(0, -vol * 30)))
+
+    conf = max(0, min(100, conf))
+
+    return {
+        "last_close": float(close.iloc[-1]),
+        "trend": int(trend),
+        "mom_3m": None if math.isnan(r63) else float(r63),
+        "mom_6m": None if math.isnan(r126) else float(r126),
+        "vol_20d_ann": None if math.isnan(vol) else float(vol),
+        "rsi14": None if math.isnan(rsi_v) else float(rsi_v),
+        "action": action,
+        "confidence": int(conf),
     }
 
-    const news = (window.SNAP.news && window.SNAP.news[r.ticker]) ? window.SNAP.news[r.ticker] : [];
-    const newsHtml = (news.length>0)
-      ? `<div class="small">News: <a href="${news[0].link}" target="_blank" rel="noreferrer">${news[0].title}</a></div>`
-      : '';
 
-    tr.innerHTML = `
-      <td><b>${r.ticker}</b>${newsHtml}</td>
-      <td>${r.region.toUpperCase()}</td>
-      <td>${r.category}</td>
-      <td>${pill}</td>
-      <td>${r.confidence}</td>
-      <td class="${chgClass}">${fmtNum(r.prev_close)}</td>
-      <td class="${chgClass}">${fmtNum(r.last_close)}</td>
-      <td class="${chgClass}"><b>${fmtPct(chgPct)}</b><div class="small">${fmtNum(chgAbs)}</div></td>
-      <td class="${predClass}">${fmtNum(r.pred_close_1d)}<div class="small">${fmtPct(predPct)}</div></td>
-      <td class="${predClass}">${(typeof r.pred_confidence_1d === 'number') ? r.pred_confidence_1d : ''}</td>
-      <td class="small">
-        1D: ${fmtPctRange(r.range_1d)}<br/>
-        1W: ${fmtPctRange(r.range_1w)}<br/>
-        1M: ${fmtPctRange(r.range_1m)}
-      </td>
-      <td class="small">${notes.join(' • ')}</td>
-    `;
-    tb.appendChild(tr);
-  }
-}
+def horizon_ranges(sig: dict) -> dict:
+    vol = sig.get("vol_20d_ann")
+    if vol is None:
+        return {"1D": None, "1W": None, "1M": None}
+    daily = vol / math.sqrt(252)
+    one_week = daily * math.sqrt(5)
+    one_month = daily * math.sqrt(21)
 
-function wire(){
-  const r = document.getElementById('region');
-  const c = document.getElementById('category');
-  const a = document.getElementById('action');
-  const s = document.getElementById('search');
+    def rng(x):
+        return {"low": -1.0 * x, "high": 1.0 * x}
 
-  r.addEventListener('change', e=>{state.region=e.target.value; render();});
-  c.addEventListener('change', e=>{state.category=e.target.value; render();});
-  a.addEventListener('change', e=>{state.action=e.target.value; render();});
-  s.addEventListener('input', e=>{state.search=e.target.value; render();});
-}
+    return {"1D": rng(daily), "1W": rng(one_week), "1M": rng(one_month)}
 
-async function boot(){
-  const resp = await fetch('./data/snapshot.json', {cache:'no-store'});
-  const snap = await resp.json();
-  window.SNAP = snap;
 
-  document.getElementById('asof').textContent =
-    `As of (UTC): ${snap.asof_utc} • Rows: ${snap.rows.filter(r=>r.status==='OK').length}`;
+def main():
+    universe = json.loads(Path(CONFIG).read_text(encoding="utf-8"))
 
-  const regions = uniq(snap.rows.filter(r=>r.status==='OK').map(r=>r.region.toUpperCase()));
-  const cats = uniq(snap.rows.filter(r=>r.status==='OK').map(r=>r.category));
-  const acts = ['BUY','HOLD','SELL'];
+    all_rows = []
+    news_blob = {}
+    prices_blob = {}
 
-  optAll('region', regions);
-  optAll('category', cats);
-  optAll('action', acts);
+    for region, cats in universe.items():
+        for cat, tickers in cats.items():
+            for t in tickers:
+                try:
+                    df = fetch_stooq_daily(t, days=420)
+                except Exception as e:
+                    all_rows.append(
+                        {
+                            "region": region,
+                            "category": cat,
+                            "ticker": t,
+                            "status": "NO_DATA",
+                            "error": str(e)[:160],
+                        }
+                    )
+                    continue
 
-  wire();
-  render();
-}
+                sig = compute_signals(df)
+                ranges = horizon_ranges(sig)
 
-boot().catch(err=>{
-  document.getElementById('asof').textContent = 'Failed to load snapshot.json';
-  console.error(err);
-});
-</script>
-</body>
-</html>
+                # ✅ FIX: convert pandas Timestamp -> string BEFORE json dump
+                df_out = df.tail(250).copy()
+                df_out["Date"] = df_out["Date"].dt.strftime("%Y-%m-%d")
+                prices_blob[t] = df_out.to_dict(orient="records")
+
+                try:
+                    news_blob[t] = fetch_news_headlines(t)
+                except Exception as e:
+                    news_blob[t] = [
+                        {
+                            "title": f"News fetch failed: {str(e)[:160]}",
+                            "link": "",
+                            "published": "",
+                            "source": "",
+                        }
+                    ]
+
+                all_rows.append(
+                    {
+                        "region": region,
+                        "category": cat,
+                        "ticker": t,
+                        **sig,
+                        "range_1d": ranges["1D"],
+                        "range_1w": ranges["1W"],
+                        "range_1m": ranges["1M"],
+                        "status": "OK",
+                        "asof_utc": now_utc(),
+                    }
+                )
+
+                time.sleep(0.2)
+
+    out = {
+        "asof_utc": now_utc(),
+        "rows": all_rows,
+        "news": news_blob,
+        "prices": prices_blob,
+        "method": {
+            "signals": "MA50/MA200 trend + 3M/6M momentum + RSI + 20D volatility; conservative actions; confidence is heuristic (calibrate later).",
+            "disclaimer": "Paper-trading research only.",
+        },
+    }
+
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    # ✅ FIX: json.dumps(..., default=json_safe) to be extra safe
+    (OUT_DIR / "snapshot.json").write_text(
+        json.dumps(out, indent=2, default=json_safe),
+        encoding="utf-8",
+    )
+    pd.DataFrame(all_rows).to_csv(OUT_DIR / "snapshot.csv", index=False)
+
+
+if __name__ == "__main__":
+    main()
