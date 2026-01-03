@@ -1,9 +1,15 @@
 name: Daily snapshot
 
 on:
-  schedule:
-    - cron: "15 19 * * *"  # daily at 19:15 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "20 19 * * 1-5"   # Weekdays, 19:20 UTC (adjust if you want)
+  push:
+    paths:
+      - "src/**"
+      - "config/**"
+      - "requirements.txt"
+      - ".github/workflows/daily.yml"
 
 permissions:
   contents: write
@@ -26,174 +32,18 @@ jobs:
           python -m pip install --upgrade pip
           # Install your repo requirements first (if present)
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # Ensure these exist for the snapshot generator
-          pip install yfinance pandas
+          # Ensure these exist for the snapshot generator (safe even if already installed)
+          pip install pandas requests feedparser
 
-      - name: Run daily snapshot (inline, Timestamp-safe)
+      - name: Run daily snapshot (src/run_daily.py)
         run: |
-          python - <<'PY'
-          import os
-          import json
-          import time
-          from datetime import datetime, date, timezone
-
-          import pandas as pd
-          import yfinance as yf
-
-
-          OUTPUT_DIR = "docs/data"
-          JSON_PATH = os.path.join(OUTPUT_DIR, "snapshot.json")
-          CSV_PATH  = os.path.join(OUTPUT_DIR, "snapshot.csv")
-
-          DEFAULT_TICKERS = [
-              "AAPL","MSFT","NVDA","AMZN","GOOGL",
-              "TSLA","META","AMD","NFLX","SPY"
-          ]
-
-          TICKER_FILES = [
-              "data/tickers.txt",
-              "tickers.txt",
-              "docs/data/tickers.txt",
-          ]
-
-
-          def utc_now_iso():
-              return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
-
-
-          def read_tickers():
-              for path in TICKER_FILES:
-                  if os.path.exists(path):
-                      tickers = []
-                      with open(path, "r", encoding="utf-8") as f:
-                          for line in f:
-                              t = line.strip()
-                              if not t or t.startswith("#"):
-                                  continue
-                              tickers.append(t)
-                      if tickers:
-                          return tickers
-              return DEFAULT_TICKERS
-
-
-          def json_default(o):
-              # Fix for: "Object of type Timestamp is not JSON serializable"
-              if isinstance(o, (pd.Timestamp, datetime, date)):
-                  return o.isoformat()
-              try:
-                  import numpy as np
-                  if isinstance(o, (np.integer,)):
-                      return int(o)
-                  if isinstance(o, (np.floating,)):
-                      return float(o)
-                  if isinstance(o, (np.ndarray,)):
-                      return o.tolist()
-              except Exception:
-                  pass
-              return str(o)
-
-
-          def fetch_last_two_closes(ticker: str):
-              # Buffer period handles weekends/holidays
-              df = yf.download(
-                  ticker,
-                  period="10d",
-                  interval="1d",
-                  auto_adjust=False,
-                  progress=False,
-                  threads=False,
-              )
-              if df is None or df.empty:
-                  return None
-
-              df = df.dropna(subset=["Close"])
-              if df.empty:
-                  return None
-
-              # Need at least 1 row; 2 rows for day change
-              last = df.iloc[-1]
-              prev = df.iloc[-2] if len(df) >= 2 else None
-
-              last_date = df.index[-1]
-              last_close = float(last["Close"]) if pd.notna(last["Close"]) else None
-
-              prev_close = None
-              if prev is not None and pd.notna(prev["Close"]):
-                  prev_close = float(prev["Close"])
-
-              change = None
-              change_pct = None
-              if prev_close is not None and last_close is not None and prev_close != 0:
-                  change = last_close - prev_close
-                  change_pct = (change / prev_close) * 100.0
-
-              return {
-                  "ticker": ticker,
-                  "last_date": last_date,   # may be Timestamp -> json_default handles it
-                  "last_close": last_close,
-                  "prev_close": prev_close,
-                  "change": change,
-                  "change_pct": change_pct,
-              }
-
-
-          tickers = read_tickers()
-          generated_at = utc_now_iso()
-
-          rows = []
-          failures = []
-
-          for t in tickers:
-              try:
-                  rec = fetch_last_two_closes(t)
-                  if rec is None:
-                      failures.append({"ticker": t, "error": "No data returned"})
-                  else:
-                      rows.append(rec)
-              except Exception as e:
-                  failures.append({"ticker": t, "error": f"{type(e).__name__}: {e}"})
-              time.sleep(0.2)
-
-          # Sort biggest movers (optional, but useful)
-          rows_sorted = sorted(
-              rows,
-              key=lambda r: (r["change_pct"] if r.get("change_pct") is not None else -10**9),
-              reverse=True
-          )
-
-          os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-          # Write CSV
-          df_out = pd.DataFrame(rows_sorted)
-          if not df_out.empty and "last_date" in df_out.columns:
-              df_out["last_date"] = df_out["last_date"].astype(str)
-          df_out.to_csv(CSV_PATH, index=False)
-
-          # Write JSON
-          snapshot = {
-              "generated_at_utc": generated_at,
-              "tickers_requested": tickers,
-              "count_ok": len(rows),
-              "count_failed": len(failures),
-              "rows": rows_sorted,
-              "failures": failures,
-          }
-
-          with open(JSON_PATH, "w", encoding="utf-8") as f:
-              json.dump(snapshot, f, indent=2, default=json_default, ensure_ascii=False)
-
-          print(f"✅ Wrote {JSON_PATH} and {CSV_PATH}")
-          print(f"✅ OK: {len(rows)} / {len(tickers)}")
-          if failures:
-              print("⚠️ Failures:")
-              for x in failures[:10]:
-                  print(f" - {x.get('ticker')}: {x.get('error')}")
-          PY
+          python src/run_daily.py
 
       - name: Commit snapshot
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs/data/snapshot.json docs/data/snapshot.csv
-          git commit -m "Update snapshot" || echo "No changes to commit"
+          git add docs/data/snapshot.json docs/data/snapshot.csv || true
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update snapshot"
           git push
