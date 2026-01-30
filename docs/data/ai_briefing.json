@@ -1,13 +1,13 @@
 {
-  "asof_utc": "2026-01-29T19:46:56.742853+00:00",
-  "generated_at_utc": "2026-01-29T19:46:56+00:00",
+  "asof_utc": "2026-01-30T19:49:07.901781+00:00",
+  "generated_at_utc": "2026-01-30T19:49:08+00:00",
   "counts": {
     "rows_total": 50,
     "rows_ok": 25,
     "actions": {
-      "BUY": 7,
-      "HOLD": 11,
-      "SELL": 7,
+      "BUY": 8,
+      "HOLD": 9,
+      "SELL": 8,
       "OTHER": 0
     }
   },
