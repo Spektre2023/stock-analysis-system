@@ -1,5 +1,5 @@
 {
-  "asof_utc": "2026-03-18T19:54:38.187757+00:00",
+  "asof_utc": "2026-03-19T19:55:10.998332+00:00",
   "rows": [
     {
       "region": "asx",
@@ -455,25 +455,25 @@
       "region": "us",
       "category": "Technology",
       "ticker": "AAPL",
-      "last_close": 249.4747,
+      "last_close": 248.685,
       "trend": 1,
-      "mom_3m": -0.08987377330268875,
-      "mom_6m": 0.04856989143363921,
-      "vol_20d_ann": 0.21905509137443407,
-      "rsi14": 36.27289698637586,
+      "mom_3m": -0.094406613014821,
+      "mom_6m": 0.041573301948827135,
+      "vol_20d_ann": 0.21330603917489938,
+      "rsi14": 35.53993959613594,
       "action": "HOLD",
       "confidence": 46,
       "range_1d": {
-        "low": -0.013799173695221014,
-        "high": 0.013799173695221014
+        "low": -0.013437017447737737,
+        "high": 0.013437017447737737
       },
       "range_1w": {
-        "low": -0.030855890415841154,
-        "high": 0.030855890415841154
+        "low": -0.03004608442799231,
+        "high": 0.03004608442799231
       },
       "range_1m": {
-        "low": -0.06323575798619378,
-        "high": 0.06323575798619378
+        "low": -0.0615761495687005,
+        "high": 0.0615761495687005
       },
       "status": "OK"
     },
@@ -481,25 +481,25 @@
       "region": "us",
       "category": "Technology",
       "ticker": "MSFT",
-      "last_close": 392.27,
+      "last_close": 388.2,
       "trend": -1,
-      "mom_3m": -0.17385535571374422,
-      "mom_6m": -0.2293925821153544,
-      "vol_20d_ann": 0.23107418148256398,
-      "rsi14": 37.886702291819965,
+      "mom_3m": -0.1851214341191041,
+      "mom_6m": -0.2388533782988902,
+      "vol_20d_ann": 0.23406893894371655,
+      "rsi14": 35.571969942592986,
       "action": "SELL",
-      "confidence": 44,
+      "confidence": 43,
       "range_1d": {
-        "low": -0.01455630520501597,
-        "high": 0.01455630520501597
+        "low": -0.014744957192615135,
+        "high": 0.014744957192615135
       },
       "range_1w": {
-        "low": -0.032548887939649725,
-        "high": 0.032548887939649725
+        "low": -0.032970726608011904,
+        "high": 0.032970726608011904
       },
       "range_1m": {
-        "low": -0.06670537044086537,
-        "high": 0.06670537044086537
+        "low": -0.06756988245404241,
+        "high": 0.06756988245404241
       },
       "status": "OK"
     },
@@ -507,25 +507,25 @@
       "region": "us",
       "category": "Technology",
       "ticker": "NVDA",
-      "last_close": 180.925,
+      "last_close": 178.48,
       "trend": 1,
-      "mom_3m": 0.026291905383175607,
-      "mom_6m": 0.03456655992680702,
-      "vol_20d_ann": 0.34892674705889565,
-      "rsi14": 46.209598394983324,
+      "mom_3m": 0.0042763898266935385,
+      "mom_6m": 0.048094427153678954,
+      "vol_20d_ann": 0.3508361839566783,
+      "rsi14": 43.53442762705624,
       "action": "HOLD",
-      "confidence": 41,
+      "confidence": 42,
       "range_1d": {
-        "low": -0.021980319011823235,
-        "high": 0.021980319011823235
+        "low": -0.02210060223029237,
+        "high": 0.02210060223029237
       },
       "range_1w": {
-        "low": -0.04914948747756776,
-        "high": 0.04914948747756776
+        "low": -0.0494184489306172,
+        "high": 0.0494184489306172
       },
       "range_1m": {
-        "low": -0.10072647567095692,
-        "high": 0.10072647567095692
+        "low": -0.10127768262442463,
+        "high": 0.10127768262442463
       },
       "status": "OK"
     },
@@ -533,25 +533,25 @@
       "region": "us",
       "category": "Technology",
       "ticker": "AVGO",
-      "last_close": 316.67,
+      "last_close": 319.204,
       "trend": 1,
-      "mom_3m": -0.06809687766693151,
-      "mom_6m": -0.12036111111111103,
-      "vol_20d_ann": 0.3483655177242239,
-      "rsi14": 41.647434690747424,
+      "mom_3m": -0.064740697333724,
+      "mom_6m": -0.07789814253112637,
+      "vol_20d_ann": 0.3522691399463072,
+      "rsi14": 43.690964803855394,
       "action": "HOLD",
-      "confidence": 34,
+      "confidence": 37,
       "range_1d": {
-        "low": -0.02194496488687048,
-        "high": 0.02194496488687048
+        "low": -0.022190869972869953,
+        "high": 0.022190869972869953
       },
       "range_1w": {
-        "low": -0.049070433250888376,
-        "high": 0.049070433250888376
+        "low": -0.04962029373919613,
+        "high": 0.04962029373919613
       },
       "range_1m": {
-        "low": -0.10056446271723199,
-        "high": 0.10056446271723199
+        "low": -0.10169134138759921,
+        "high": 0.10169134138759921
       },
       "status": "OK"
     },
@@ -559,25 +559,25 @@
       "region": "us",
       "category": "Technology",
       "ticker": "ORCL",
-      "last_close": 153.2451,
+      "last_close": 155.29,
       "trend": -1,
-      "mom_3m": -0.17128974691758592,
-      "mom_6m": -0.500260557639002,
-      "vol_20d_ann": 0.5073230343095776,
-      "rsi14": 46.77633316596141,
+      "mom_3m": -0.17683540948847076,
+      "mom_6m": -0.4847881623038387,
+      "vol_20d_ann": 0.5110947099307454,
+      "rsi14": 48.996867064257785,
       "action": "SELL",
       "confidence": 35,
       "range_1d": {
-        "low": -0.031958347218043595,
-        "high": 0.031958347218043595
+        "low": -0.032195940449463,
+        "high": 0.032195940449463
       },
       "range_1w": {
-        "low": -0.07146103682808677,
-        "high": 0.07146103682808677
+        "low": -0.07199231144453441,
+        "high": 0.07199231144453441
       },
       "range_1m": {
-        "low": -0.14645154521236617,
-        "high": 0.14645154521236617
+        "low": -0.14754033417995474,
+        "high": 0.14754033417995474
       },
       "status": "OK"
     },
@@ -585,25 +585,25 @@
       "region": "us",
       "category": "Communication Services",
       "ticker": "GOOGL",
-      "last_close": 307.695,
+      "last_close": 306.895,
       "trend": 1,
-      "mom_3m": -0.0017033287911233375,
-      "mom_6m": 0.22509555661729563,
-      "vol_20d_ann": 0.2395379600705025,
-      "rsi14": 47.881013452768386,
+      "mom_3m": 0.0010601167759403118,
+      "mom_6m": 0.2298921973309822,
+      "vol_20d_ann": 0.2397074945281989,
+      "rsi14": 47.04805722522344,
       "action": "BUY",
       "confidence": 68,
       "range_1d": {
-        "low": -0.015089473140625463,
-        "high": 0.015089473140625463
+        "low": -0.015100152807618818,
+        "high": 0.015100152807618818
       },
       "range_1w": {
-        "low": -0.03374108768709578,
-        "high": 0.03374108768709578
+        "low": -0.033764968148469986,
+        "high": 0.033764968148469986
       },
       "range_1m": {
-        "low": -0.06914865286391922,
-        "high": 0.06914865286391922
+        "low": -0.06919759324631318,
+        "high": 0.06919759324631318
       },
       "status": "OK"
     },
@@ -611,25 +611,25 @@
       "region": "us",
       "category": "Communication Services",
       "ticker": "META",
-      "last_close": 615.99,
+      "last_close": 606.04,
       "trend": -1,
-      "mom_3m": -0.04867878488363109,
-      "mom_6m": -0.20925545571245185,
-      "vol_20d_ann": 0.2757787476140283,
-      "rsi14": 38.47494416969242,
+      "mom_3m": -0.07777524157346116,
+      "mom_6m": -0.2187336844072888,
+      "vol_20d_ann": 0.2795524734311334,
+      "rsi14": 35.66840453745505,
       "action": "SELL",
       "confidence": 42,
       "range_1d": {
-        "low": -0.01737242816818015,
-        "high": 0.01737242816818015
+        "low": -0.017610150549804054,
+        "high": 0.017610150549804054
       },
       "range_1w": {
-        "low": -0.03884593031828296,
-        "high": 0.03884593031828296
+        "low": -0.039377493723367164,
+        "high": 0.039377493723367164
       },
       "range_1m": {
-        "low": -0.07961046708586855,
-        "high": 0.07961046708586855
+        "low": -0.08069984789404527,
+        "high": 0.08069984789404527
       },
       "status": "OK"
     },
@@ -637,25 +637,25 @@
       "region": "us",
       "category": "Communication Services",
       "ticker": "NFLX",
-      "last_close": 95.1,
+      "last_close": 91.93,
       "trend": -1,
-      "mom_3m": 0.014183640823290933,
-      "mom_6m": -0.2078366694154985,
-      "vol_20d_ann": 0.5703773309658856,
-      "rsi14": 60.7058793994464,
+      "mom_3m": -0.027915829544252757,
+      "mom_6m": -0.25168905168905165,
+      "vol_20d_ann": 0.5826032799798893,
+      "rsi14": 51.76750605068782,
       "action": "SELL",
       "confidence": 33,
       "range_1d": {
-        "low": -0.03593039455248842,
-        "high": 0.03593039455248842
+        "low": -0.036700556948507684,
+        "high": 0.036700556948507684
       },
       "range_1w": {
-        "low": -0.08034280467775225,
-        "high": 0.08034280467775225
+        "low": -0.08206494014896544,
+        "high": 0.08206494014896544
       },
       "range_1m": {
-        "low": -0.16465375278640715,
-        "high": 0.16465375278640715
+        "low": -0.16818308026357398,
+        "high": 0.16818308026357398
       },
       "status": "OK"
     },
@@ -663,25 +663,25 @@
       "region": "us",
       "category": "Communication Services",
       "ticker": "TMUS",
-      "last_close": 206.74,
+      "last_close": 206.56,
       "trend": -1,
-      "mom_3m": 0.05393556280587286,
-      "mom_6m": -0.1299553909603568,
-      "vol_20d_ann": 0.2395477276330363,
-      "rsi14": 42.1317693235492,
+      "mom_3m": 0.04323232323232329,
+      "mom_6m": -0.1373564418458968,
+      "vol_20d_ann": 0.23696529831563348,
+      "rsi14": 41.94169120001258,
       "action": "SELL",
       "confidence": 47,
       "range_1d": {
-        "low": -0.015090088439229744,
-        "high": 0.015090088439229744
+        "low": -0.014927410683223787,
+        "high": 0.014927410683223787
       },
       "range_1w": {
-        "low": -0.033742463536601416,
-        "high": 0.033742463536601416
+        "low": -0.03337870501574497,
+        "high": 0.03337870501574497
       },
       "range_1m": {
-        "low": -0.06915147251634833,
-        "high": 0.06915147251634833
+        "low": -0.06840598938556547,
+        "high": 0.06840598938556547
       },
       "status": "OK"
     },
@@ -689,25 +689,25 @@
       "region": "us",
       "category": "Communication Services",
       "ticker": "DIS",
-      "last_close": 99.11,
+      "last_close": 99.475,
       "trend": -1,
-      "mom_3m": -0.10299574622137742,
-      "mom_6m": -0.13989412479389052,
-      "vol_20d_ann": 0.14118680838782538,
-      "rsi14": 35.68036258296688,
+      "mom_3m": -0.10880666547213769,
+      "mom_6m": -0.1431955211024979,
+      "vol_20d_ann": 0.13776254562584453,
+      "rsi14": 36.64739277698083,
       "action": "SELL",
-      "confidence": 50,
+      "confidence": 49,
       "range_1d": {
-        "low": -0.008893932938026526,
-        "high": 0.008893932938026526
+        "low": -0.008678224659646992,
+        "high": 0.008678224659646992
       },
       "range_1w": {
-        "low": -0.01988743863675174,
-        "high": 0.01988743863675174
+        "low": -0.01940510026298565,
+        "high": 0.01940510026298565
       },
       "range_1m": {
-        "low": -0.04075712091436754,
-        "high": 0.04075712091436754
+        "low": -0.03976862140066472,
+        "high": 0.03976862140066472
       },
       "status": "OK"
     },
@@ -715,25 +715,25 @@
       "region": "us",
       "category": "Health Care",
       "ticker": "LLY",
-      "last_close": 916.855,
+      "last_close": 918.67,
       "trend": 1,
-      "mom_3m": -0.13682580329319616,
-      "mom_6m": 0.1989577748427509,
-      "vol_20d_ann": 0.3582007252101266,
-      "rsi14": 32.00768676559272,
+      "mom_3m": -0.12863633345663905,
+      "mom_6m": 0.20856958678120852,
+      "vol_20d_ann": 0.3573004351551678,
+      "rsi14": 32.33658960223268,
       "action": "BUY",
-      "confidence": 64,
+      "confidence": 65,
       "range_1d": {
-        "low": -0.02256452472259475,
-        "high": 0.02256452472259475
+        "low": -0.022507811779898426,
+        "high": 0.022507811779898426
       },
       "range_1w": {
-        "low": -0.05045581115969645,
-        "high": 0.05045581115969645
+        "low": -0.05032899716462342,
+        "high": 0.05032899716462342
       },
       "range_1m": {
-        "low": -0.10340364256199287,
-        "high": 0.10340364256199287
+        "low": -0.10314375120920327,
+        "high": 0.10314375120920327
       },
       "status": "OK"
     },
@@ -741,25 +741,25 @@
       "region": "us",
       "category": "Health Care",
       "ticker": "JNJ",
-      "last_close": 237.16,
+      "last_close": 237.81,
       "trend": 1,
-      "mom_3m": 0.10734463276836159,
-      "mom_6m": 0.3439873059050209,
-      "vol_20d_ann": 0.17373521136434536,
-      "rsi14": 44.741399442532646,
+      "mom_3m": 0.13621595795508834,
+      "mom_6m": 0.3420428893905192,
+      "vol_20d_ann": 0.17075266435457132,
+      "rsi14": 46.09777169852565,
       "action": "BUY",
       "confidence": 70,
       "range_1d": {
-        "low": -0.010944289601078582,
-        "high": 0.010944289601078582
+        "low": -0.010756406799616166,
+        "high": 0.010756406799616166
       },
       "range_1w": {
-        "low": -0.024472175513455766,
-        "high": 0.024472175513455766
+        "low": -0.024052056797582707,
+        "high": 0.024052056797582707
       },
       "range_1m": {
-        "low": -0.050153035524460654,
-        "high": 0.050153035524460654
+        "low": -0.049292048364978774,
+        "high": 0.049292048364978774
       },
       "status": "OK"
     },
@@ -767,25 +767,25 @@
       "region": "us",
       "category": "Health Care",
       "ticker": "UNH",
-      "last_close": 284.45,
+      "last_close": 283.62,
       "trend": -1,
-      "mom_3m": -0.16608032834945774,
-      "mom_6m": -0.16284066160456767,
-      "vol_20d_ann": 0.2820537280631908,
-      "rsi14": 46.06952108400897,
+      "mom_3m": -0.1513464991023339,
+      "mom_6m": -0.16975498375340303,
+      "vol_20d_ann": 0.2812639238356704,
+      "rsi14": 45.42237742758489,
       "action": "SELL",
       "confidence": 44,
       "range_1d": {
-        "low": -0.017767714781281963,
-        "high": 0.017767714781281963
+        "low": -0.01771796179150943,
+        "high": 0.01771796179150943
       },
       "range_1w": {
-        "low": -0.03972981805577428,
-        "high": 0.03972981805577428
+        "low": -0.03961856698855904,
+        "high": 0.03961856698855904
       },
       "range_1m": {
-        "low": -0.08142189791161034,
-        "high": 0.08142189791161034
+        "low": -0.08119390106992734,
+        "high": 0.08119390106992734
       },
       "status": "OK"
     },
@@ -793,25 +793,25 @@
       "region": "us",
       "category": "Health Care",
       "ticker": "ABBV",
-      "last_close": 208.652,
+      "last_close": 205.775,
       "trend": 1,
-      "mom_3m": -0.08264673554627389,
-      "mom_6m": -0.03517987607509476,
-      "vol_20d_ann": 0.2764602438952301,
-      "rsi14": 30.279795797503965,
+      "mom_3m": -0.08000625922117399,
+      "mom_6m": -0.06809021330555676,
+      "vol_20d_ann": 0.27593925352820553,
+      "rsi14": 28.316905133548516,
       "action": "HOLD",
-      "confidence": 41,
+      "confidence": 39,
       "range_1d": {
-        "low": -0.017415358398643846,
-        "high": 0.017415358398643846
+        "low": -0.01738253909039129,
+        "high": 0.01738253909039129
       },
       "range_1w": {
-        "low": -0.038941925231889524,
-        "high": 0.038941925231889524
+        "low": -0.03886853902766229,
+        "high": 0.03886853902766229
       },
       "range_1m": {
-        "low": -0.07980719811657035,
-        "high": 0.07980719811657035
+        "low": -0.07965680115224692,
+        "high": 0.07965680115224692
       },
       "status": "OK"
     },
@@ -819,25 +819,25 @@
       "region": "us",
       "category": "Health Care",
       "ticker": "MRK",
-      "last_close": 114.31,
+      "last_close": 114.65,
       "trend": 1,
-      "mom_3m": 0.14013564731697592,
-      "mom_6m": 0.4096682698236527,
-      "vol_20d_ann": 0.24240604637750515,
-      "rsi14": 41.43752836744042,
+      "mom_3m": 0.16668362674264792,
+      "mom_6m": 0.41298989401035247,
+      "vol_20d_ann": 0.24145487059966692,
+      "rsi14": 42.47841348802749,
       "action": "BUY",
       "confidence": 68,
       "range_1d": {
-        "low": -0.015270145595554004,
-        "high": 0.015270145595554004
+        "low": -0.015210227153619043,
+        "high": 0.015210227153619043
       },
       "range_1w": {
-        "low": -0.03414508357797776,
-        "high": 0.03414508357797776
+        "low": -0.03401110186870532,
+        "high": 0.03401110186870532
       },
       "range_1m": {
-        "low": -0.06997659806462275,
-        "high": 0.06997659806462275
+        "low": -0.06970201726893197,
+        "high": 0.06970201726893197
       },
       "status": "OK"
     },
@@ -845,25 +845,25 @@
       "region": "us",
       "category": "Energy",
       "ticker": "XOM",
-      "last_close": 158.29,
+      "last_close": 158.23,
       "trend": 1,
-      "mom_3m": 0.3441745923913042,
-      "mom_6m": 0.3802755493547261,
-      "vol_20d_ann": 0.2262395008227368,
-      "rsi14": 66.40120183806971,
+      "mom_3m": 0.37975235437739774,
+      "mom_6m": 0.3724520773701101,
+      "vol_20d_ann": 0.2283537697797849,
+      "rsi14": 65.55772584618228,
       "action": "BUY",
       "confidence": 69,
       "range_1d": {
-        "low": -0.01425174895038939,
-        "high": 0.01425174895038939
+        "low": -0.014384935375747799,
+        "high": 0.014384935375747799
       },
       "range_1w": {
-        "low": -0.03186787945133195,
-        "high": 0.03186787945133195
+        "low": -0.03216569335211356,
+        "high": 0.03216569335211356
       },
       "range_1m": {
-        "low": -0.06530971835066682,
-        "high": 0.06530971835066682
+        "low": -0.06592005522641231,
+        "high": 0.06592005522641231
       },
       "status": "OK"
     },
@@ -871,25 +871,25 @@
       "region": "us",
       "category": "Energy",
       "ticker": "CVX",
-      "last_close": 199.435,
+      "last_close": 201.2,
       "trend": 1,
-      "mom_3m": 0.33134178905206935,
-      "mom_6m": 0.2500626802055912,
-      "vol_20d_ann": 0.19404980099288954,
-      "rsi14": 73.55043593548784,
+      "mom_3m": 0.37103918228279387,
+      "mom_6m": 0.2567930539071772,
+      "vol_20d_ann": 0.19635919106518435,
+      "rsi14": 75.35429276321904,
       "action": "HOLD",
       "confidence": 55,
       "range_1d": {
-        "low": -0.012223988461637152,
-        "high": 0.012223988461637152
+        "low": -0.01236946636191176,
+        "high": 0.01236946636191176
       },
       "range_1w": {
-        "low": -0.027333669156393754,
-        "high": 0.027333669156393754
+        "low": -0.027658967630631713,
+        "high": 0.027658967630631713
       },
       "range_1m": {
-        "low": -0.05601735241971904,
-        "high": 0.05601735241971904
+        "low": -0.05668401590967067,
+        "high": 0.05668401590967067
       },
       "status": "OK"
     },
@@ -897,25 +897,25 @@
       "region": "us",
       "category": "Energy",
       "ticker": "COP",
-      "last_close": 124.14,
+      "last_close": 125.57,
       "trend": 1,
-      "mom_3m": 0.31559983043662565,
-      "mom_6m": 0.3130949862492065,
-      "vol_20d_ann": 0.26243199549586865,
-      "rsi14": 72.08138375387858,
+      "mom_3m": 0.38338658146964866,
+      "mom_6m": 0.33841398422511193,
+      "vol_20d_ann": 0.26390692815936084,
+      "rsi14": 73.8644830556539,
       "action": "HOLD",
       "confidence": 53,
       "range_1d": {
-        "low": -0.016531661813059314,
-        "high": 0.016531661813059314
+        "low": -0.01662457383753947,
+        "high": 0.01662457383753947
       },
       "range_1w": {
-        "low": -0.036965919595038046,
-        "high": 0.036965919595038046
+        "low": -0.0371736771977028,
+        "high": 0.0371736771977028
       },
       "range_1m": {
-        "low": -0.0757575916217552,
-        "high": 0.0757575916217552
+        "low": -0.0761833680069071,
+        "high": 0.0761833680069071
       },
       "status": "OK"
     },
@@ -923,25 +923,25 @@
       "region": "us",
       "category": "Energy",
       "ticker": "SLB",
-      "last_close": 45.37,
+      "last_close": 47.66,
       "trend": 1,
-      "mom_3m": 0.1663239074550129,
-      "mom_6m": 0.28745743473325747,
-      "vol_20d_ann": 0.36156024620198873,
-      "rsi14": 38.493788638283014,
+      "mom_3m": 0.26721616591332076,
+      "mom_6m": 0.36993388904857705,
+      "vol_20d_ann": 0.41617826109048933,
+      "rsi14": 49.61975676838436,
       "action": "BUY",
-      "confidence": 65,
+      "confidence": 63,
       "range_1d": {
-        "low": -0.02277615465280352,
-        "high": 0.02277615465280352
+        "low": -0.026216766188493897,
+        "high": 0.026216766188493897
       },
       "range_1w": {
-        "low": -0.050929030069716795,
-        "high": 0.050929030069716795
+        "low": -0.05862247134769042,
+        "high": 0.05862247134769042
       },
       "range_1m": {
-        "low": -0.10437345273649277,
-        "high": 0.10437345273649277
+        "low": -0.12014031553573218,
+        "high": 0.12014031553573218
       },
       "status": "OK"
     },
@@ -949,25 +949,25 @@
       "region": "us",
       "category": "Energy",
       "ticker": "EOG",
-      "last_close": 137.22,
+      "last_close": 138.64,
       "trend": 1,
-      "mom_3m": 0.2953837439818747,
-      "mom_6m": 0.1355511420059583,
-      "vol_20d_ann": 0.25580129715742367,
-      "rsi14": 74.52675441035575,
+      "mom_3m": 0.3621536647671446,
+      "mom_6m": 0.1568758344459278,
+      "vol_20d_ann": 0.255301189348104,
+      "rsi14": 76.06798039103104,
       "action": "HOLD",
-      "confidence": 49,
+      "confidence": 50,
       "range_1d": {
-        "low": -0.016113967079197062,
-        "high": 0.016113967079197062
+        "low": -0.01608246324843084,
+        "high": 0.01608246324843084
       },
       "range_1w": {
-        "low": -0.03603192577627837,
-        "high": 0.03603192577627837
+        "low": -0.035961481069133445,
+        "high": 0.035961481069133445
       },
       "range_1m": {
-        "low": -0.073843473886447,
-        "high": 0.073843473886447
+        "low": -0.07369910519727971,
+        "high": 0.07369910519727971
       },
       "status": "OK"
     },
@@ -975,25 +975,25 @@
       "region": "us",
       "category": "Utilities",
       "ticker": "NEE",
-      "last_close": 91.13,
+      "last_close": 92.21,
       "trend": 1,
-      "mom_3m": 0.11610532761788117,
-      "mom_6m": 0.3050264929113562,
-      "vol_20d_ann": 0.20453005723941312,
-      "rsi14": 49.08459369050427,
+      "mom_3m": 0.133915395966552,
+      "mom_6m": 0.3114777414308063,
+      "vol_20d_ann": 0.21165337334040726,
+      "rsi14": 53.876568801268796,
       "action": "BUY",
       "confidence": 69,
       "range_1d": {
-        "low": -0.01288418254984031,
-        "high": 0.01288418254984031
+        "low": -0.013332909285872042,
+        "high": 0.013332909285872042
       },
       "range_1w": {
-        "low": -0.028809908015959507,
-        "high": 0.028809908015959507
+        "low": -0.029813291501048063,
+        "high": 0.029813291501048063
       },
       "range_1m": {
-        "low": -0.05904274180227236,
-        "high": 0.05904274180227236
+        "low": -0.061099066036488243,
+        "high": 0.061099066036488243
       },
       "status": "OK"
     },
@@ -1001,25 +1001,25 @@
       "region": "us",
       "category": "Utilities",
       "ticker": "DUK",
-      "last_close": 131.165,
+      "last_close": 130.01,
       "trend": 1,
-      "mom_3m": 0.12366144093206533,
-      "mom_6m": 0.09076923076923071,
-      "vol_20d_ann": 0.11937874675538018,
-      "rsi14": 58.295820740518366,
+      "mom_3m": 0.12475127606194292,
+      "mom_6m": 0.0735755573905863,
+      "vol_20d_ann": 0.125429606973427,
+      "rsi14": 53.49222978906569,
       "action": "HOLD",
-      "confidence": 51,
+      "confidence": 50,
       "range_1d": {
-        "low": -0.007520154184316544,
-        "high": 0.007520154184316544
+        "low": -0.007901322549910971,
+        "high": 0.007901322549910971
       },
       "range_1w": {
-        "low": -0.016815575957411275,
-        "high": 0.016815575957411275
+        "low": -0.017667894333752907,
+        "high": 0.017667894333752907
       },
       "range_1m": {
-        "low": -0.03446167578736945,
-        "high": 0.03446167578736945
+        "low": -0.036208408675228516,
+        "high": 0.036208408675228516
       },
       "status": "OK"
     },
@@ -1027,25 +1027,25 @@
       "region": "us",
       "category": "Utilities",
       "ticker": "SO",
-      "last_close": 96.79,
+      "last_close": 96.33,
       "trend": 1,
-      "mom_3m": 0.12546511627906987,
-      "mom_6m": 0.05943520140105085,
-      "vol_20d_ann": 0.19952970509574214,
-      "rsi14": 55.87489944930191,
+      "mom_3m": 0.12390619530976554,
+      "mom_6m": 0.05129324457055562,
+      "vol_20d_ann": 0.13315764933717017,
+      "rsi14": 53.70449864078832,
       "action": "HOLD",
-      "confidence": 47,
+      "confidence": 49,
       "range_1d": {
-        "low": -0.012569189972699782,
-        "high": 0.012569189972699782
+        "low": -0.008388143459811833,
+        "high": 0.008388143459811833
       },
       "range_1w": {
-        "low": -0.02810556320106544,
-        "high": 0.02810556320106544
+        "low": -0.018756458981159536,
+        "high": 0.018756458981159536
       },
       "range_1m": {
-        "low": -0.057599264474176674,
-        "high": 0.057599264474176674
+        "low": -0.0384393023447365,
+        "high": 0.0384393023447365
       },
       "status": "OK"
     },
@@ -1053,25 +1053,25 @@
       "region": "us",
       "category": "Utilities",
       "ticker": "AEP",
-      "last_close": 131.025,
+      "last_close": 128.81,
       "trend": 1,
-      "mom_3m": 0.13176988857216898,
-      "mom_6m": 0.22636652938974167,
-      "vol_20d_ann": 0.15185307325234948,
-      "rsi14": 54.01286425364048,
+      "mom_3m": 0.12429082656891,
+      "mom_6m": 0.19800967261904767,
+      "vol_20d_ann": 0.16242867736422714,
+      "rsi14": 46.64571161119279,
       "action": "BUY",
-      "confidence": 71,
+      "confidence": 70,
       "range_1d": {
-        "low": -0.009565844467775975,
-        "high": 0.009565844467775975
+        "low": -0.010232044906925985,
+        "high": 0.010232044906925985
       },
       "range_1w": {
-        "low": -0.021389878492137377,
-        "high": 0.021389878492137377
+        "low": -0.022879547960717013,
+        "high": 0.022879547960717013
       },
       "range_1m": {
-        "low": -0.04383620635975796,
-        "high": 0.04383620635975796
+        "low": -0.0468891203001757,
+        "high": 0.0468891203001757
       },
       "status": "OK"
     },
@@ -1079,25 +1079,25 @@
       "region": "us",
       "category": "Utilities",
       "ticker": "EXC",
-      "last_close": 49.31,
+      "last_close": 48.125,
       "trend": 1,
-      "mom_3m": 0.12400273535445638,
-      "mom_6m": 0.1539901708401592,
-      "vol_20d_ann": 0.1291068531305671,
-      "rsi14": 58.93999344053605,
+      "mom_3m": 0.09974862888482638,
+      "mom_6m": 0.11323155216284997,
+      "vol_20d_ann": 0.15828379551557686,
+      "rsi14": 48.691509611351,
       "action": "BUY",
-      "confidence": 69,
+      "confidence": 66,
       "range_1d": {
-        "low": -0.008132967284229083,
-        "high": 0.008132967284229083
+        "low": -0.009970941892990881,
+        "high": 0.009970941892990881
       },
       "range_1w": {
-        "low": -0.018185867706318082,
-        "high": 0.018185867706318082
+        "low": -0.022295703872428047,
+        "high": 0.022295703872428047
       },
       "range_1m": {
-        "low": -0.037269938204579196,
-        "high": 0.037269938204579196
+        "low": -0.045692595974636985,
+        "high": 0.045692595974636985
       },
       "status": "OK"
     }
@@ -1105,34 +1105,34 @@
   "news": {
     "AAPL": [
       {
-        "title": "Apple (AAPL) Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
-        "published": "Wed, 18 Mar 2026 19:05:00 GMT",
-        "source": "Seeking Alpha"
+        "title": "Apple | AAPL Stock Price, Company Overview & News - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rWDNjOGl0aWxxdkhOMjkwZHdyR0ptVVhFaVJOUDVtZW9XYlk2b3RtTkdoWmY0ajMyUE16Wm5WN0VlUkVsa24zYmhJcHdMNmZF?oc=5",
+        "published": "Tue, 17 Mar 2026 23:00:00 GMT",
+        "source": "Forbes"
       },
       {
-        "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSFQ4b0JBV0x1UkQ5SWFUbmNQWWZ5NWtHU0x3bHFyc3N3WC1LVHVoSThPamFtSHZOdFp1NUpub1MyY1RHclRQcFNsb1FyOUw5Zkh1aWtsbTVVTWFDWm8xX2Fzem5iOUY5c3pYdmYzdVFRM2J5RW9VSlRMRQ?oc=5",
-        "published": "Mon, 16 Mar 2026 00:34:00 GMT",
-        "source": "Yahoo Finance"
+        "title": "Apple Stock (AAPL) Opinions on Tim Cook's China Visit - Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHk4STFrYWJWZEVTUFNaOVNBc2I5LVc1bzBGMXp6bE1vRWxoMi1HOU4wODhWX2g1VlhMak5hb0U1bXRjNkhUX0FjV25fN0NXdEpoTGUtTnpKTGk3V0pSeEp3T0pQVlZ4THNNTkpvaFdZOEVIWkI0OFJIZ243d2tJZmdPMklQZEpsek04RXFYN2gyeUc5YThJ?oc=5",
+        "published": "Thu, 19 Mar 2026 14:04:00 GMT",
+        "source": "Quiver Quantitative"
       },
       {
-        "title": "Assessing Apple (AAPL) Valuation As Tariffs Pressure Supply Chains And Growth Expectations - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFh1c3NvbnREZEs4WGJqa0Z4VGduRWJ1dXJkeEdVWURzenhRUlFTclkyaGZqYmNWbVRDSTZpa0lQV1FPUUZjRC1IeWhCUW12SXlrRWR6cGJzQ0lyTXZRWW95VzBvVWlSRUZ0MmVTMURvNEV1YlZkdzE2OU9sNFRNaEZNOTgtb2dfSnhKNWdXeFhhSkR1TTNBWEZXN3hIeEhkU0lPNDVGTnNfUVNZQS1wVElZc0RGakl6R0IwTtIBwgFBVV95cUxNeS1VS0V0bnFEcFZHakprLWpOczhiOWowei1wY1E1OUh0WlJhMjYzbVR4ZkxsanhSYV85Tnk5UHRXNUVzOGttZzQyTThCWjNhLUNyMWNvUHU1d0hBMDgyTHlGUmV0X0FybFRyZjlsT0ZmUG5FS1FLMThjY0xKb2Z2WkRhX1FwNjVKMkFPb2RrUF9tT3FTUV9oOXlUMHVNMTZuSDdrTGwxNDZCazRHRVVyNlhRQWtlN2wtRF9zRmhNT0hWQQ?oc=5",
-        "published": "Wed, 18 Mar 2026 00:45:37 GMT",
+        "title": "How Apple\u2019s AI-Powered AirPods Max 2 Launch Could Shape AAPL\u2019s Premium Ecosystem Narrative - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU1iMTRNa05PX2QybjRlNDQ2TVVWdFJVYldRY1FrNVI2U3Y3S0x5OTdJUmw5RnFuN3FVSUNNeW9kb1E4ZXhEb1o5ZUQ1b21HU1p3bDBoZlJIaEVlT2lpVnBkbXEzakNObHlWSkIzZ01JNjJ3eG9NRXAtbTlvQ1ZLVzQ4RXZfY2lHcWdVV21aV0RuTnJxSlFZc0xWMzBaajg2UnJMQWN6M2FpSFZnSHNGZWpPX3VPWUJpY19BbNIBwgFBVV95cUxNeFo4ZXFBVkhFT2duRDlCWGc4TjFOSk92UXgyOE5tNDN1a2k4ZzZ6WHZuUmtncXhtLXBjY2UzREJuLThReE5yQW5QcEF5OXI1RW5Sdi1MX1JhcG1MU1BicHpwbjdIX1RNVXNxMlBvak01azJ4Q1JVZFJPU2oxZ2NCYUhvc0RZd0tlQnBHZVVFLXBMNnhIcWdxVXpfejBxbHFfNzRua3pCbXVBc1BZNnpCczFxMDJJYnpSUkxWRERSY09rQQ?oc=5",
+        "published": "Thu, 19 Mar 2026 01:35:31 GMT",
         "source": "simplywall.st"
       },
       {
-        "title": "Apple Inc. $AAPL Stock Holdings Decreased by GM Advisory Group LLC - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0RFUTJncWlLbXdCdjRqTEhkSXBQMlZBMGVZTjluSDdUXzFjczE0cDBJZllJbjZ1Z2pUUGJmdllBQ1BLa25UaEsyaXdoczRIT2wyR1hJazVJUWZEOXpoM1Zhc19wWTJvM2VKSDl3YWNXclIwcndKdVJnMTl2UzRxNnJVQ3RvMFJDRHk2RFF2M0N2TzBHMnE5RHljYVdremhWNGNWVkRJN1RDMi1JUUV5blJtZ2ZiZU42VkwxLWFCelZzV0k?oc=5",
-        "published": "Wed, 18 Mar 2026 10:15:13 GMT",
-        "source": "MarketBeat"
+        "title": "Apple (AAPL) Stock Jumps After China iPhone Sales Surge 23% - CoinCentral",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlYta2pyNzBuTTZrdDZDNHJzNmFDV1VDWWZfMkx6anphbmNFcG5HdVp6MzJERTZxZEVxRUVBNVNFc3M0MlNPQzBYaktoQzJHc1hRb0R2dnREV0NPb3hjbmM2WlN0U0pkelhZM0dqWTd2Q3dDdDZuV2t4NkZDaXplQTgyZlNOYXht?oc=5",
+        "published": "Thu, 19 Mar 2026 18:07:35 GMT",
+        "source": "CoinCentral"
       },
       {
-        "title": "Apple (AAPL) Stock \u2014 Tim Cook Visits China as App Store Fee Drops to 25% - CoinCentral",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1MxLUp0SzJ4WFk5cHlzVVcxVXVtQzlDeVE5MUc2RUJsNC1WQVlGdXhJXzlVc3c1cUhLbjBweGlpS0JSTkJjTVZCRjBqWm1MWXZmZFNZaDF0STdyalY4cXE2TnhuM0h3LVUtMVEyVVNfVGNKUzZNTjNNMjFyZnVmcUZLbXhfNGJfNlc1Xy03WGE2V1FiZUVZ?oc=5",
-        "published": "Wed, 18 Mar 2026 12:34:43 GMT",
-        "source": "CoinCentral"
+        "title": "Apple AAPL Stock Breaks Support and Closes Below $250 as Massive Costs and Delays Weigh - FXLeaders",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFJjajVCRV9wRHhNYTdyaFFCZmFPNnF4SGVKTncxRTNYOU9nNVpyanJrRFNzWm9kSU4yeU9ZVmhpcC0xS0lidE9DaUdtY0VWdzdpemtwUlBueENRbnJjMGNXZGRKMm9DQlBQNHpKT3dUdlQ1OW5HRm9tYVg0Nk0zaVREc0MwZXAzb2gzT2hia1ExZ1VPQVd2UTZzZmhtZGVzZzZGSlk3YVBoaW1kZlloLXNBQy05YWJPbHNiYUVJWEx5QjlGR0FYdQ?oc=5",
+        "published": "Thu, 19 Mar 2026 08:27:48 GMT",
+        "source": "FXLeaders"
       },
       {
         "title": "AAPL Stock Today: March 17 \u2014 Google Gemini Opens in Hong Kong - Meyka",
@@ -1141,30 +1141,30 @@
         "source": "Meyka"
       },
       {
-        "title": "Apple Expands Wearables Portfolio With New AirPods Max: What's Ahead? - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS252YXlBbU9DdEs2d1d3Y0pBR19PblhUN3dCeUFLUEhkX1ZVa20yZl96aUp6bVRfbXVnVjdWNzlfWDFINGI2NlpqNU9tSmhMUmlHS25iajVDRWs4N295bDRaWmNpa0pvVHl0OTQ4LVhpTkozbzZ3QllJMUlPV1llY1ZOcGlEQW9mN2EybHZsNGZDUUVXX0t2aUk4YVRSMlVOYWozNnRTWkh1bGR5MWRrRG80cHZhZnAxMk5POVlTUDc5TW41VGNRS1IzYnEwMWhVWGdvWjRFRlI3eG5WbmpvZVE1cFc?oc=5",
-        "published": "Wed, 18 Mar 2026 17:07:05 GMT",
+        "title": "The Zacks Analyst Blog Highlights Apple, Alphabet and Garmin - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWUFYZVo0SXk4SW05VkJNMUE2YWZ1aGFjakg1aGJ6YWNyOWZ4aTY5TEVUTFNxU3BHdjNHMHJUdjl5VkZRcGppQ0czaFdYbkE4RU0zdnNNempMdlhZdkYxSFNRVWtCNjhyQzMwMW1BQUhWSHVvWWZZSHhjTDVlLTlwUFFnSjFPcmVqQ2Y5U09SeXFZTHNxMFRjMzJUUF8yYVg0U1hSSGwxSkY3WGUyTFFfczRNTnF4ek5MZUExSDd2S0lfc1E1TFM0RFNGM3ltd29kMVZvUjFHMEZkUnc?oc=5",
+        "published": "Thu, 19 Mar 2026 15:15:08 GMT",
         "source": "The Globe and Mail"
       },
       {
-        "title": "Apple\u2019s AirPods Max 2 boost noise canceling and add live translation - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOU5mV1YwYUx5SC0yb01aQWdXYm16VFlnaVBaN0lqOWtZUG43ekkxZ2J0V3BHTk14cjFFd0pLYjRMSUdtWDdicC1zSFFSQWRHVUducXJFV0VqOTZHbElXU09jcllRR1RkS0JqcmoxOUJRdUtJUkMyVlByYVZUNHV0eVZDbzZMTUdQV3FyNg?oc=5",
-        "published": "Mon, 16 Mar 2026 13:00:00 GMT",
-        "source": "Stock Titan"
+        "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+        "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+        "source": "Seeking Alpha"
       }
     ],
     "MSFT": [
       {
-        "title": "How Copilot Reorganization And Partner AI Integrations At Microsoft (MSFT) Has Changed Its Investment Story - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkEybWpZZVRNeThDeENNZGdad2I4dnJfV2dia3FRd1pmUHh2V2Q1b1JRZEhhLWVWX25hLUNTMFdwWk50WDg5S0hTWjJ1eHhmNGtqdHlidHRPN1FvTFZ1eGtHVWF2OGVHWHFjOW1pZElER25oSWprTm5hekhOaFVWakM0VGcydnVQaU4tdWN3aVpoWGp4amxhNDNZX1pyaGE0OWUyOHlETWNtSjk3bGpmVTQ1WFpqQlVEbzMtLWlINThadWxOSGdJ0gHMAUFVX3lxTE9TZkRkUmZRZ2JTSlFlVzJTOFdZbXloczlXRTBWVVVwWDZRaGhZbl9ZdlQ4Z3NUd3Q4M2lTdGozTWxob1ZVSW5oMmdJMFh4eDV2MllCNHpCTlRMLWU4RS03X0tXS1ZTY2sxY2FHT3RYMEt0NG5rYlZsUmE0dzdEa2ZqbmdOdGtnVkE3ckFUX0FlYkNPV3VlcTNzaDAyMUk0R0FLczNlN0ZIM1UtaC1qY0k1Y0tpcDZQSnk2SS1BcmJXeG40R2lIaThxZ1VIZg?oc=5",
-        "published": "Wed, 18 Mar 2026 17:23:59 GMT",
-        "source": "simplywall.st"
+        "title": "MSFT Stock Extends Slide Below $400 After Microsoft Turns on OpenAI and Amazon (AMZN) - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlhlcUFDQzBhZkdXMlNvM05lR3RHY1B1cGpIbkZid25mSDMyVVc3RVd2djhtdlZoNmZyZEkwamFhVlduZ0NqQVB3XzNWWEZ6eWpZY2VUbVdReW4wWEVERXlHalFZVS1jQWF4SVNSYkZqZllIaC1QNmRqQWJCOXNyaW1kZzJENlROeGZfbGVyenlIaU5HYnpaTGExeVM0UFpyRll1RG1nNnJEajdCT1M0QTdB?oc=5",
+        "published": "Thu, 19 Mar 2026 15:50:44 GMT",
+        "source": "TipRanks"
       },
       {
-        "title": "MSFT Stock Today: March 18 \u2014 Pharma Blockchain Spend Set to Surge - Meyka",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVVSMFBxdWxmZ2RPLWNrdUhPcng5ZXVXbjBvcUkxcktfUGVjTVZHbkZqTkU1NWZBVDA4bV9ZUlJtcV9XamxncnRYQVJXQTZzUGh2LUJ1X0lCa3pfTUh3bDR6TkdGbDFRSFI2Y1B5Ujg1MExxOWExSXZyVkE4eEs3UEY0MGxIMHhwMmM1NkpCU0g0ek04Q0E?oc=5",
-        "published": "Wed, 18 Mar 2026 16:36:33 GMT",
-        "source": "Meyka"
+        "title": "MSFT Stock Slips Under $400 and Risks Collapse Over Legal Fight for AWS-OpenAI Deal - FXLeaders",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeGpBQzRuZ1NQLWlyQ1BFTzBSdHgyOG12V3Zmb2NpTS1pR3dOVWRZOUJQdklJRWJkUUktQl83b0YwNzFjR0txUW5qVlA2VHJ1c0pSWjhVSVRJTEMwdjJsMVhoOHlKcS1sbmRoQWYwV3loSDNDSFVDdGVPN1hGYzJuQk1UWjJCbko4UTVzdWlwNm5rd2pMSmhKam4ycHFMejVBY3pQbzZNTms4d2M0SkxscXhWU2RBbUlTbXp4LUR6dm5MdWs?oc=5",
+        "published": "Thu, 19 Mar 2026 02:27:15 GMT",
+        "source": "FXLeaders"
       },
       {
         "title": "Microsoft (MSFT) Stock Rebounds Modestly on March 16 Amid Broader Market Recovery and Ongoing AI Optimism - International Business Times Australia",
@@ -1173,37 +1173,67 @@
         "source": "International Business Times Australia"
       },
       {
-        "title": "Microsoft Stock (MSFT) Opinions on Magnificent Seven Year-to-Date Decline - Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGtuQkEyRnVDemdRd0szS1dKR1A4d1ZmUmFuQzlJMXlMSFkwUEI3MnlMNzQtZ0NUcTFNRk1pZmRVUEhJMktjNTZTUUdRQk1nTllHRWFkRUd3Q24tb2VYZTQ3Tzk0ajVCUHlHVnFILWdkMEc5ajhHY2QzcEM3Z0QtS012MXRpVHlPcjUydkpPaVM0RGdOOElnbkFFSVpudkNIb2RNeTRub1hZOU13WXJn?oc=5",
-        "published": "Wed, 18 Mar 2026 14:04:00 GMT",
-        "source": "Quiver Quantitative"
+        "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+        "published": "Mon, 16 Mar 2026 17:36:00 GMT",
+        "source": "Investor's Business Daily"
       },
       {
-        "title": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUlhZDZlSWNFNkd2YlFBSkJsLUtrUlB1RWtqVVN4THJIOGpyZXlrXzlYNG1VYWZQOGZUR240cU15NWhELXU1WVlzVFVtb0Q0YlpqbGVBR1cyckhISmNtY1dUVjJiUkZBTW5odU03dzdfTm9iMGpFd0dUYm1aOE9fUlRwcWN2QUFsRkxj?oc=5",
-        "published": "Mon, 16 Mar 2026 01:04:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Why I've Changed My Mind on Microsoft Stock - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUgyN05UdVc2ZUJ3QV9GRmRpRVN1LVJQbV9PLTBqQUxSbzJyMWR5RWJzMzdfME8zQW0wd1E0NFlDWFJOVU0yYkFoVE1lT3hEclZCeGZNX2Q1TGtHa18wOXBlTFVmSzlWaTRpMjA3S19vRXRSX1E1dEdCaThGaXl1cm9CQ3ltdGlhczZiTUZR?oc=5",
-        "published": "Sun, 15 Mar 2026 03:00:00 GMT",
+        "title": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy Right Now With $400 - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjVQcm5aMnJTY0VzMzFBOFQ5eWoyZldsM1hrWTZKMFF1WW5ZWU4yeHl4OWJoRDBZQkZDVVJ5RFlEc3QtQUNsejBCOVRJdnZTZWQ1elgyNlVrY0c1eXhqZ3JiRUFhTTN5OXdiYzlGbW1CTXlRamhHN3JNanlvYkJJM0VLYTJTNVJWMmpzag?oc=5",
+        "published": "Mon, 16 Mar 2026 10:15:00 GMT",
         "source": "The Motley Fool"
       },
       {
-        "title": "MSFT Stock Chart and Price \u2014 Microsoft (NASDAQ) - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTdEM3RYaDJrbEg1Q0hDek04Q2N2YmFxOURVSnZsaXFNS3VSc0VEWWw3MVlJdXFOTENOWnEtbG5LbjlPX1hsLWFQVkJfNm56ZG4xazZhRUNFdUZ0akFiYWY2bkRsWWpRa3ktZEM1WHI3eTN0Y1BvZ1pwSTRGaHp2bVNkNGZwVjFGczFmVGdQVQ?oc=5",
-        "published": "Sun, 15 Mar 2026 20:37:42 GMT",
-        "source": "TradingView"
+        "title": "Microsoft | MSFT Stock Price, Company Overview & News - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MT2g0RzdRaGRDUHFQc1ZnOGVxdmN0VEVKUFpzOHFCU0dIWjJwWEdWVHl5bWV2TFlQblZyM3ZpZDJKZ2VXSnk1NHF2TXBnbUJCb1JlUWpn?oc=5",
+        "published": "Tue, 17 Mar 2026 23:00:00 GMT",
+        "source": "Forbes"
       },
       {
-        "title": "Microsoft Corporation $MSFT Shares Sold by U S Wealth Group LLC. - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXBWbXM3UmJjazZYWmh5V0FuTDdyanhRY3l2Zl9yX01xVDRNRVpCZEoyNEs1enp5WWxfMjFBUkhZNkhkTDhaN05iWmJ2bVlmdjJHSnBQYU53MUJhaGh2YWxPOVQxMTdUNVJlYlVobjhpaHpKWmlTeWVBdjdSaGRHV1ktdkljVXdXcV9MNFI3X0hKdDRJUGxLSmRCLVNvRzdyWndwSFAtNG8wTFhYUFRYSXJFckotQ3ItZlIzckJYQlY?oc=5",
-        "published": "Wed, 18 Mar 2026 12:33:53 GMT",
-        "source": "MarketBeat"
+        "title": "How Copilot Reorganization And Partner AI Integrations At Microsoft (MSFT) Has Changed Its Investment Story - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkEybWpZZVRNeThDeENNZGdad2I4dnJfV2dia3FRd1pmUHh2V2Q1b1JRZEhhLWVWX25hLUNTMFdwWk50WDg5S0hTWjJ1eHhmNGtqdHlidHRPN1FvTFZ1eGtHVWF2OGVHWHFjOW1pZElER25oSWprTm5hekhOaFVWakM0VGcydnVQaU4tdWN3aVpoWGp4amxhNDNZX1pyaGE0OWUyOHlETWNtSjk3bGpmVTQ1WFpqQlVEbzMtLWlINThadWxOSGdJ0gHMAUFVX3lxTE9TZkRkUmZRZ2JTSlFlVzJTOFdZbXloczlXRTBWVVVwWDZRaGhZbl9ZdlQ4Z3NUd3Q4M2lTdGozTWxob1ZVSW5oMmdJMFh4eDV2MllCNHpCTlRMLWU4RS03X0tXS1ZTY2sxY2FHT3RYMEt0NG5rYlZsUmE0dzdEa2ZqbmdOdGtnVkE3ckFUX0FlYkNPV3VlcTNzaDAyMUk0R0FLczNlN0ZIM1UtaC1qY0k1Y0tpcDZQSnk2SS1BcmJXeG40R2lIaThxZ1VIZg?oc=5",
+        "published": "Wed, 18 Mar 2026 17:23:59 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Meta Platforms is Overvalued at 6.01X PS: Buy or Hold the Stock? - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1pyMTVMMllqSXpfUnducGswVkRtVXpja1dzaDB5dVZkckw5eW0zMXFkVFVGeUZxZDFaMktoT3VhSUZRNjRGS1NhaU5zeHNFOFVsZ0UzcEVUYlA1NThSTm40X1ZlLXFMR1hXbklpblRZQ1VFVk01SzdCSEpGMkw1a0F0RXY1UFRrRXhKdW1FMS1KYVdYMktyM29rQ01nWER5VW9POTZmOUQwTjloT01OSzVOanNSbjRPaklQMXRUaGo2ZllpX2NOZ1dESnI4REVsdnVVX2Q1OFhuZkJBNXc?oc=5",
+        "published": "Thu, 19 Mar 2026 18:27:11 GMT",
+        "source": "The Globe and Mail"
       }
     ],
     "NVDA": [
+      {
+        "title": "Nvidia Is Giving Apple Vibes. Good News for the Stock. - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXpaNU1xcnZkWWM3WHJBYUE5Z3lLelNwLWgwVWpOOGJ1cmdHZzJIeV9yVEtiN0I0bm5TbmRUUmkwbDY2aXZ3bF9Pal8xVDJLc01NYlBmVTFiZHM4RU1BZVkxcVVHTWdzMjYzVjhBM0ZjQ0U5R2NYaXVWYXZydnBRS1BuY2Nkb0FhV1dtVWdB?oc=5",
+        "published": "Thu, 19 Mar 2026 15:05:00 GMT",
+        "source": "Barron's"
+      },
+      {
+        "title": "Prediction: Nvidia Stock Will Be Worth This Much in 2 Years - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3U1ZW1mcDdteXhISzlHanltdkJNeWNBNTdhdWVseklsSW5GOFBLLUx4SE8tdHNTQUEzUTlTdjVMUkxlZFI4UkxDVjVuS1pRUWljVXpKc3dqTC1mVElVaDRfZUtWVXBUOGdIRVVqaU9yWkJZLW1SUDNRbUQyLTNJeF9EN2dDcmIyUTMtQmI1XzBYWDN2Rkh5ZQ?oc=5",
+        "published": "Thu, 19 Mar 2026 09:45:00 GMT",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "NVDA Stock Quote Price and Forecast - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi?oc=5",
+        "published": "Tue, 17 Mar 2026 21:15:20 GMT",
+        "source": "CNN"
+      },
+      {
+        "title": "TD Cowen maintains buy rating on NVIDIA (NVDA) stock - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFZqNWU4RGpCS0ZGLUx2MHpUM0NQbUxFQVZ2YTJjTXpFb21IaFpsMG5sX2JQTHNsWDVDSm12Nm96YlEwdWhRSGVRdHhidnhEeGYxbG1YNHU0NUhudno1R1p5MWN1bnBRTXA2Rml5RmpWYnZaZElWdzdjVkZtREhFa3pJZjVpTTdscTR1c3FxclRTX0U5dFhGcGZkN2N3R254UGdGcWhTX09QNHlUbFp6YUZ5MFJ1RXhBd212NTJUbVVRLWQ0aGRTcGNB?oc=5",
+        "published": "Thu, 19 Mar 2026 15:43:03 GMT",
+        "source": "MSN"
+      },
+      {
+        "title": "Rosenblatt resets Nvidia stock price target for 2026 - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTJPeWhsY24zOTlTSUFtOWJHeGhTbENmcHNoeVdiQTluUkZvQVFJYUhobVJnT3MtVW4tZ01WYjFMOEI1TlpfWndBRURWS2N4ZDFsT1hkTld5ZjhGNkFxVHVrcDBVMWNwX0tLd1JpNVlVRFJsdGZCQmdGWEU2WGE4LVIzNGs2UVU3dEhOSmh5c0JSdw?oc=5",
+        "published": "Thu, 19 Mar 2026 15:33:00 GMT",
+        "source": "thestreet.com"
+      },
       {
         "title": "Nvidia: Why This Stock Refuses To Go Up And What You Can Do About It (NASDAQ:NVDA) - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDM2OHRjU3ZiNHVCa0l1MjhQdS1oNld4VG1nUWpPT2hjOUtiUW53Z2k0LVZMUGJlRkJuTGlaQklZWnhtOExvZ1ZvUnFpU05pdTR4Ni1pWWJ1RTRvLWlMMG1DbEVycEFReG1GLWxZYlF2TkF3UU1RNVpWX3Z6a3JFX3lmOVYyZzhvcFNDZGRFLTdPbklFUVVoTnUwZFFLNV82SHFHbkpxVEZTSm5L?oc=5",
@@ -1211,46 +1241,16 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Sure, Nvidia Stock Is Stuck. But Don\u2019t Ignore Its Huge Cash Returns. - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanlFb2l2TGZRdTBzamJuNzFoMFR2TlBqVEJLaHZ3STBwY2syeEJqaDBDbm12cnlPSlZQck5SVUVsLUVKX0VyYUZhSXlVVFVUSTIzUnVfdTUyWmp4M3llQ0xhZVZnRVZXTk5lYld6VVIxaHdGbm44aFhzZ2lmYklrLUl3?oc=5",
-        "published": "Wed, 18 Mar 2026 17:13:00 GMT",
-        "source": "Barron's"
+        "title": "Oil relief sparks a stock rally, but Cramer says Nvidia\u2019s AI boom is the real story - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWROSUVfSE9pakw1eWdLYlh1bmRTLUZCR19JaG51SEFoSC1FcGs2WFJ6c2xpZFRoNWFIdzFjb1Nrd3NwUzhrT2h0NUplOVpLaGtndHQ2N09ySGN4Z3k1bGRGVGZEMzMtRGpkTUtMTmtobjdGS3NOdTByMFRMLUh2NkJHMjRya2wzZG9vQVlsZ05hVGZibFVwWmx6SUNEOWNBS0syVVlua1lqb21jMVgyS2V2S2Yta2xyRHfSAb8BQVVfeXFMTVVMWWhjQWZDRWtRS2Q3Y2U3eEdQREtpcGFmVUpfOE9ZcmpEMDU5YmRGaXQweXpIMDdGZ3ljVFR3NW5CeWM4azlISXFMRmdvU0Q0cnhuWE0xd0dYT284d3dMUGxEN0wtbmVHb0pJTVhPOVJtR2R2eFdFX1d5OTZQY0tyU3JpZFl1NXFEUDlQTjBCbzZkQ3dSME9oV1NlNjZBOFJZWi1mcjd5UEkzalpGNGRMa016N3dqNjlzY3psOG8?oc=5",
+        "published": "Mon, 16 Mar 2026 23:09:57 GMT",
+        "source": "CNBC"
       },
       {
         "title": "Nvidia Stock Price Today: NVDA Barely Moves After China H200 Nod and New $1 Trillion AI Forecast - TechStock\u00b2",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWhuWjBsYk90eGd3NkpYU0FxQW5ucnBEdDF1ZmlqeFBoY2VpSy1ycWtoRDJSLXluckNWWDhDRWxmVjMwOHhrcUhHSUZfOHZBRE9fTV9NR0ZmUVZfSEdYZElNWFh6ZjRrMUl4cmRkUVlOSGhyM3lNeDJGR05Cd1g2OGM3LUxodVJMOHpvMW9QWmRrVm1TclBtb2ZDaFFPdnFUUWRscGcwbGxFR25pbFlLNnY1S1FXdw?oc=5",
         "published": "Wed, 18 Mar 2026 13:50:43 GMT",
         "source": "TechStock\u00b2"
-      },
-      {
-        "title": "Truist raises Nvidia stock price target on inference demand drivers - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTd4eUI2MmxyYWpCYTBpTVVva21iUmdyc3BkTWRqWVV2M0dWQWRSSnRwc0F1dFhHZURMNFBLdjFWVjVTeTVqYWhnOTZsZWpSS0FFakxfRkFGMVJnN294OEhleU1iUGhtblhrcDRudTJhUE5mTURwYjJzdHRCbUJKY2VhaWE4Ty14UlVaNWpuTV9tMG85anRwZDJGSmlVVlI4YmRYMXMtam5zSHNlOUJnMnRvYkY2SDVoTzZUOEVEcmdJWXVNRmc?oc=5",
-        "published": "Wed, 18 Mar 2026 14:35:42 GMT",
-        "source": "Investing.com"
-      },
-      {
-        "title": "Nvidia Preparing To Cash In On China AI Market - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWklKNk16cGVaWVExWXJVUXVmUm1saDFwVW13RnU3SGZMU0RRUzd2RzV3bmZGd1FILVJQTjUxWXlfSEg0UVA5UnBzbWlzYmw3RndEdXFGTVlpSHBTVV9yWWc4ZFpxWXJhbTF3cDhlSGFldjdfcUJiMXk2aE9TbkgtaHdrb3ExZlN2VWh0ZUZVbUZkZw?oc=5",
-        "published": "Wed, 18 Mar 2026 17:17:01 GMT",
-        "source": "Investor's Business Daily"
-      },
-      {
-        "title": "Nvidia Just Reported $68 Billion in Revenue. Here's Why It Matters. - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUQxYk5rMkl5ajFxdmpKdl9QMkUtUkF4c2YtYlp6Q0o2aUNMRU5sNHNuVTFtRFhfUDFreHBTeWhyWE9rUTNCX18ySFdMZ2JyYmgyUXZXQmJXT3B1VHZYUkhIYmt1SHBqNF9VajhPTEdYT243Z0NLVE5Gb3h3dWlOZm5KZFV3WWg2TlFjQVNyUXBSMG5yX2FhLQ?oc=5",
-        "published": "Wed, 18 Mar 2026 03:00:00 GMT",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "Is Nvidia a value stock now? Here's why some experts think yes - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWdDdjdvTGZlOEIxQThYd0NYdE5sN0c4eFRfRklBN3htV1dRal93MHRzeExKbXcxNUNNOWRFa3l2ODM1WEtVZ0dzNG1yUTRvN0FYalZSd0gyRjZwYUk0cmFCUjlqYTZ4MUs2MU1fLWxfRUl0ZUE1VXl6QWZJa1NvNmRyd2pRam1PTGUxSVdtdzdwcGVKOWttcVdSUlZpRUV5cWh0TGk0V3JFMGY5UjhaYWxNNXBMb1VrcVE?oc=5",
-        "published": "Wed, 18 Mar 2026 16:33:22 GMT",
-        "source": "TradingView"
-      },
-      {
-        "title": "Cloudflare Surges 8%: NVIDIA\u2019s AI Boom Is Coming for the Edge and This Stock Is Ready - 24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3JoQkloMGlLLWd3Y2lkak1XcUlrODQ1QVUtWEJ5LXAxMVZKaXhjTVE2OXNtNTNVNGFlOC0teFAxUjZxY0Z1Z053UkE3bWkzVjA1S3pBa2FKN0x3WjZEOGRvaU9ERy1LMDFFSHZlV3g3Q3Fib3pQcFFBVHQ5S2t1QjRMM00xNnotYjZsUG5pYjhzU0hGRTRwNUYzV2x6b2RGR0w1aUlTc3F2bFRMQ05JbWpCMm1JeGY4VVBjcXlTYnNTalRu?oc=5",
-        "published": "Wed, 18 Mar 2026 18:34:49 GMT",
-        "source": "24/7 Wall St."
       }
     ],
     "AVGO": [
@@ -1273,136 +1273,87 @@
         "source": "The Motley Fool"
       },
       {
+        "title": "Broadcom\u2019s Taurus And Tomahawk Launch Test AI Valuation Gap - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXNvbVRxRE9vRU52bDR5LU9pOElUQ0NSQlo4eFZYd2w0QXctWTJ4V2UydmlpSEwzbl9maDVYZWJsbjZPWXRaOFFvUEtlUUZ0TDN4bXFRNFJCWkNmQk1oZzdvU1hFYW5Yd2R1VU9uNWwzYUp0TkVGeDhTOGhESDFxMTlhaWc0QXNYcVFTNldTLTJvZWN1RzltQ1ZLckdOcmQ2Y3NZYUtVLUZ2RDNpbGNiQ2pkeUhaNWxkZ1I3VXB4ck40V21IQ3Y3eWFuUdIB0AFBVV95cUxOOEtIRS1yVTVpcTlTN0NpV1NhY0U4emphbXVoNWlwTHBVWm14NlNEejRNSWY1Vl96Nmd0bjdiNTVsa2xFTjdUYXBxZE50Q0w1VlRJeU5EY1ltdXhhaEsxOWZqamJMZVRyUEVRYWZDbmxyUDJYa3JNTlhnYk1jbzJ6Mnh4b3hUU0pERnlOcEdvaW9rMG5zcUVLX3IxY0c0Vkx5bV9QclJzNTFCVTZRWkUzaDNSeU9yV3NSaVFvUUpPNFBrMmEyeW45cXNCd0tET3BU?oc=5",
+        "published": "Thu, 19 Mar 2026 13:19:11 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Broadcom rolls out quantum-safe encryption to block 'harvest now' attacks - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWpSdGxQYzNSRFlGQXVIQm5peWlwZXdESkExN1lBNkRkd2ZzZWZaNUFsTGtGT0Utd0lQVGhRQnY3Q1huQy1KNWlvQzNuS0poMkltSHBvdGRzUHBjdGNJdVV3WERMam1TMkZacEhwQ1psWlA5RmpWT05JWmpNUVFWQmR4V1VPUFhHRUItTHFra04xRldsTEhKUEduWjdUZElvTTZPSGQwNk0ydDdjbWtQMnF0cm9LeUNIc2RyRQ?oc=5",
+        "published": "Thu, 19 Mar 2026 13:00:00 GMT",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Broadcom Inc: President Velaga S. Ram sells $20.8 million in AVGO stock - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSExDcVVNSVl0RWVOMHI1elF5Wk5CYnBXUEdaeXFBbnoxZ3FZcjBsSUt1SUxnakRmYkxkN0hIU09pREZEdHV2TWN1d1JXOVNBTmo2RV9TWmZKUEJiY1hORXNvU3JuM1ZvZ0Jwc0hSbnFJNnZESTRUaGpjYU1OV1AzMXNLZkhxQmwyUEFiOG01Qi1ldkROVWE4dFA1QVhQaU5GN2lTXzNIYVk2YXNXeWtfcXhoVDk1R1RScWVRSkozNm50cVpqd2c3MTVzcnc?oc=5",
+        "published": "Thu, 19 Mar 2026 01:20:20 GMT",
+        "source": "Investing.com"
+      },
+      {
         "title": "Assessing Whether Broadcom (AVGO) Shares Look Undervalued After Recent Choppy Trading - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX205ZThNUV9ka1lfSkJjeHlRU1VpRGNEd2J0WnNZYWZsN09iMkJLb1Q4ZU96d0dNWHQxREIwRHRpT1VKM2xRaTN0WklFVnA2YVM4d0NaX2IyamQxTVRCVE5UQVBSMlpTTDY5M3k1MzBWYlp0ZXp0N0s1Y2lacFJmOERBREFkbXhRNUNtcg?oc=5",
         "published": "Tue, 17 Mar 2026 06:08:00 GMT",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Why Broadcom (AVGO) Is Down 6.2% After Expanding Its AI Networking and Optics Platform - And What's Next - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWJqMXV1NnVyV21IZmY1bjg0eWhTZ0RQMF9XM2R2Si1JQndQaXlhYVd5WTBWWWVSeHZ3MzVUQTdiY3FCUlc1eDBXSjB0ay0td2xobzkyTDJjUndXdjR3OEk1elotYmpVaVA2UFBwUlh2UDY5SG4wbG8xVHlFSVdBdHVTNlFuUDh6a1pRRE1JTjFoOHpldnA2a3NHQlBkWmZNQ1pmYkZkSkpkclNZczdVVEloT0JQUy1xMi1oU2V1TlNyQlFiX2xhTjBLQ2FrZ9IB0wFBVV95cUxOdTl5SzV0NnRJc3NWYXhLSWs5bFV5SWJwX3ItTFdlRGh6VGRINGxpcndyUTFvbGdYb0tFeS1NZnRIa2ZGbFhVYm5oOVBhZHRGNWlLTlY4UDZDREkxWnc3cGI5WkdnRUZkT2JWcUZWYTNPQ29KV2N2ZGVWN3ZWN0ZNUTE4NjI4QjZFcWJxNlN5TTNnektLNk5pS2JPeE04VFc0S3RpbTJmWWdFZFBSLXRwckVCVUpHc1VGNG9yRVoxS3dzX2pGU1M5VHN2MTl1Tm9FNGZN?oc=5",
-        "published": "Wed, 18 Mar 2026 00:45:38 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "AVGO Stock Risks Breakdown Below $300 Despite CEO $100B AI Chip Revenue Goal - FXLeaders",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnRoR0wwdHNLS0huNFNUWlplWVI1NHU4MHdyVkRVS0tRRk1YSDI4bFJLeDdKaGJodTNTU2NnS3dCZnJjcVlPeldNa2puZ2h1X3RDeUtPM3dSdEwxWV8wbmRNUzF5WnQ2WmF4TGNFLUtXMWxGWFphamp6R183Ri1qZnZrYUtnU2JUbDZaX1hTYkdNOXhseXE0QVo4MGNaNE00dXRLdkRWRGhBT2praDFKSnJ0Tk1udno0?oc=5",
-        "published": "Wed, 18 Mar 2026 00:02:36 GMT",
-        "source": "FXLeaders"
-      },
-      {
-        "title": "Why Broadcom Stock Has Done What Nvidia Couldn\u2019t After Earnings - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDlGUXdncW1ZeTBJSXFmNWMwS0pyQV81MThiaVNoWl95XzZKMkFVSW5KcExUSHA0ZHVoNGRtZTZKQTNlYU1rYUpoMjRkN3FiUzdsN2xjc0ZkWmp4V3NVY19ncEl5dVFRSExIZktwS1hIMFk4YV9QX24zQ0ZpVV9tSmJB?oc=5",
-        "published": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "source": "Barron's"
-      },
-      {
-        "title": "Members of Congress Bought These 5 Stocks\u2014Should You? - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTJENUI2UHlJTVNPc3BEZ1dhbVB6TU9JaEF5YnlvcjkyLW1WbGdiT3I1TnZza3dFT1BaQWk5ZHBmV2l0TXlQM3dhV2lkLWZUanlYM2JhUmRUT1BleHdxUDN2YzNuUjJXb2JqLTY3NVU4dzlrcTcwM2p0V2lEakotbVlnWDVhZDd2Z195aUMzNnRWOVJOeGc?oc=5",
-        "published": "Wed, 18 Mar 2026 13:51:02 GMT",
-        "source": "MarketBeat"
+        "title": "Broadcom Just Shipped the World's First Quantum-Safe Network Encryption \u2014 3 Reasons AVGO Investors Should Pay Attention - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNXJiZGV4TmRPa18xUjFkUmVoSmppS3FZMXA5bVZQQ1hIbXRXUVlwRy00RXpHajBDSEg0Ykh6S29VTFY5V1NpR2J0bG82SWtuazZwSVhGSDVRbXFwUzFsT3R6bnR5dExXdE1wVDh1bUYtY1gwTjZFQno1TzZkYkZ3RlBINnR5R0Q0S015LXhPTDE3ZkxTMjJfYzJibUsyZHJTR0haOE1zTHpUN0phaWVQa3pyTW5fdGpsamJuVjY2S2FTT2VoTmY1UXhUY19CUmlXZVlSWDJXYzVydEp4QTZkYzBJRjhHMThjSEFTZVZSeFQ4UQ?oc=5",
+        "published": "Thu, 19 Mar 2026 18:54:18 GMT",
+        "source": "24/7 Wall St."
       }
     ],
     "ORCL": [
       {
-        "title": "Why Selling Puts On ORCL Stock Might Be The Smartest Move Right Now - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXg3TVM1NTY0eFV5YVRsVmZWbDdPRlpqTktWclY0cUJKaEh4QzB0Z2ExamdfclZ0NDVyelM1MkplWU9LWWVWdHpaeTczOXpPcldOOXRCQlRxRm5PMW0wQzRKelplRjRFamRsNzFwanpseVJaSFg1c2Vpb2wyYnNMNHJmMkZvQ1F0RVNpZVVPbnVDTWJMNTkzeFNERFJoeUNqdC1sQWxvbms2R2tDMlZmZVMyNFFkMTZEN0dXVGxPZWpWcUxY?oc=5",
-        "published": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "title": "How Oracle Stock Handles Market Volatility - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0FuczFPTUlMVlQ3QXNncXlsUS1xdW5aOWpwS3h5MmJqNlV2eXFnVHJ0RVhQQmFyQW1oSnNSVi1mdjlhSS0yVlJCcVV3eFF2bVREaUlWSVcwdlF3aklycnhFcmwzV3pqUXktbk5BRU9MQk1LbVVqdEl5OUlEYWRRR01WcmdIcTczbElNUmtqOUVDbm1jeE9hdFk2eEdUUkFxZE5n?oc=5",
+        "published": "Thu, 19 Mar 2026 13:48:17 GMT",
         "source": "Forbes"
       },
       {
-        "title": "Oracle earnings: Solid execution secures revenue target and mitigates investor concerns - Morningstar Australia",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVdINGRxd3F0X1FBWUFhbmlpd3VaSThqOEZBUWtZWjl4WFRTUi1pNFNpXy1PRGQ2QUlReVZiMkhNRElRUWMwalR4bENEVzFlV09jdWlHLTNnM0F0T3VtWDI2M2NtOUc4MEJyZWplODNTN2ZWQ0VVSDBBLWRqU3pQZF8zR2RQUV81UVVnVWRUNlV3VGwxTzZ2LXdHR1hBa0dMX1M2OFBjN0JvWGktQnB3bmM0c1B0aFQ2S2xNTg?oc=5",
-        "published": "Fri, 13 Mar 2026 00:28:24 GMT",
-        "source": "Morningstar Australia"
+        "title": "The Bears Are Losing the Battle Over Oracle, According to This Analyst. Should You Buy the Dip in ORCL Stock Here? - FinancialContent",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTnhLaDVETG9rY05kUDNIYkpKMTMzZUJDb1E4dnQ3blFybzN0ZDdybzk4SlkxU3gtb2c5WDZRQ0c3Z09pOExpZW1ETWE3dFJUdEI2aXZfVXZTR0FHWHhaQ0pETTA1N3U3ZTlFLTNZQ3NjRVdFVnpPaVhPU0tCc2NLNGlxNENaZTdFZzBGekNXdEN0Q1RiU2QzWVY5TWhSRTl1X0ZQdTA4N29sdG9uT1JRdl9LeW9xYmtxWmluTUt4Qk1NMzRiN3FwXzRlYmRKY0hDWDlCa2tLWElsYm0tWW5HNUQxXy1BaTBHWFRYeWJ5RXQxWFpBelVIUU5XNVhlb2tRazU0QkZCUTVvZjJGQ2JV?oc=5",
+        "published": "Thu, 19 Mar 2026 15:53:00 GMT",
+        "source": "FinancialContent"
+      },
+      {
+        "title": "Oracle\u2019s \u2018Di-SaaS-ter\u2019 Leaves the Stock Too Cheap. Buy It. - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBscldOQUJBaEtHaER1aTNCdExyTzhSRVFOc3ZXSWJwNURGNEZlanZsaWdwRlJTU0VhaU9jN3JiS2lIU3VBWFk3UGRFSDltNUxkQ3p4Qko3TnpLa3g2aWpOQk0xazE4LWtYYlp4UlNKWTN3bWxXaXBpSw?oc=5",
+        "published": "Thu, 19 Mar 2026 12:00:00 GMT",
+        "source": "Barron's"
+      },
+      {
+        "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Oracle Corporation of Class Action Lawsuit and Upcoming Deadlines - ORCL - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQakJrbndBV2hKbUtjRndJenNNeExld3VmdzlraW9jRVhDN0JwT2RzQS1DYVY2Nmg3Z21xcFQ0Qk9hYi1QcXl2T2VhNDRsMGJFQzliU0hYOWJzVF9uN21wcHJpZHF4NXQ5TEJ0d211TVpaMVNwVjNtZFU1VnlNel93ZlJnbEpycTNxbTZzdTRfdElTZ0lGNGl5eklxbERxMHRfd011Wkpncm1iR1VHazNYeGpkSWtyQTROYmpqdFh3YlBiQXV5bDVjYzJzenZMNzRSQXJqM00zM3hfdDVIRHhWbk44WUVEU0ZndGFwSllQTE94bnZkLW5xck9mY3hXdWtzMmo4XzI4c0pVTkl1UllWM0o4NTZqMXRsRi01dmRud2RBRkJvYkUyQzdLTjI4RGdhZm1vaDdiRkNuUQ?oc=5",
+        "published": "Thu, 19 Mar 2026 14:00:00 GMT",
+        "source": "PR Newswire"
       },
       {
         "title": "Stress Testing ORCL: Historical Drawdowns and Macro Risks - Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVRTSjJSTENLOG9PUGpoZ3lBRzkyM09PemJ3Q1gzaGpiNEptSHdNaUJyQm9vM3lTdzh5UHZXOXh0R3ZnUEpONUhKRmkzb1RyYnA5V1NvQjVfR3o0ZDhRWTkzRU0zUDk5VHYzSHUwaEZrajZHbC1ySUdmRkpGa2VXUUZmSTg5NDdpZC1GM1l1c2d1SFk1Q1BUVExZMkdIMnRDUDBKeXV0c2p1R3NRQWNxbVQ3dklsYzRtUEE?oc=5",
-        "published": "Wed, 18 Mar 2026 12:37:47 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFIxQjJPWG4tX2QwMENhbHhzc05aUlRuaWJkVnVKZHdkVDJGOFAtdDhncWFYM2NxdU9zX2tyRzI2cTA4OGYxTGEteFZ2WlM1R0M2Z3hFbDhRNWxZb2hESkRaWkJ2Sy0zV3lnYndwSGRQSFZHRTYxNHFBQ3pLaUd5Vk9RNEZuTkRiaFVISVBYTWZaNEs5dnl2QTZZQ2JTWjc3ODFTeDZfZDhSS3lYd2oydTNHcXdPdWFBejExTw?oc=5",
+        "published": "Thu, 19 Mar 2026 09:51:02 GMT",
         "source": "Trefis"
       },
       {
-        "title": "Oracle (ORCL) Stock Declines Despite Boost from OpenAI Investmen - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTFWdC1FQm1kWHBQVHZobGJvazZ2UFVVbGwtcVprbExqRFdZSnU2RG5tRUg5U1pBbVpfMm1QSlBrdzh4aTAyY2xZWExJdkFuT0lnNmI1aXdlTUp2aEFDd2c1MGdQaTJaRmZEOUw5ZTNpbjRJRGVTQ2QwUklPWk51UkFwbVlxdmJldUZSdy1uTU5Rb3pfTFFHdmY1TjVtaXlJOVY4OQ?oc=5",
-        "published": "Wed, 18 Mar 2026 13:22:15 GMT",
-        "source": "GuruFocus"
+        "title": "As Oracle Reveals Higher Restructuring Costs, Should You Still Buy ORCL Stock or Stay Far Away? - Barchart",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWRLZFVRXzhfX0RvWWhqTVZTVUtpSTByNmpqaG54bHZDZGk5a3dEbmgzQnl1VU1kM3E5NXBmNXJJTmVuN2EwalVYSHRtdmVRbkhKRWdwYms5X1ZwY1RWUDByTGdyTG9tQWQyc1JnZUd1N0E4ZlIydFhGai0zbjZoY1dqU1pQc3drRFcweFptU2EtNEJtQU56WktSX1ZibHZIek5ibmpOWlcwTXJ2ZVRLZjduVDhLLVZIcE8xR0x1aloycy14UVB2aDhxT0lpQ256Snc?oc=5",
+        "published": "Tue, 17 Mar 2026 14:00:02 GMT",
+        "source": "Barchart"
       },
       {
-        "title": "Oracle's \"Halo Effect\" Is the Real Deal. But is the AI Growth Stock a Buy in March? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmplTnBBWUVmZDlhZUt0ME1EZzhrUWR5NUNaOF9YdDV4MzVjTlQ4QmYzNzNjZV9EOUlpS2dfeHVNZWhiZk5FR3RlYjRXeDl2U1J1UEU0b2VhZTA3bkR4YThwS1ZjV3dSQkFOT0xQVlBLaE9HMGozeTR1TXFsUjNZQ0pXRWNuVDFia281ZERyTmE?oc=5",
-        "published": "Wed, 18 Mar 2026 09:30:00 GMT",
+        "title": "Oracle (ORCL) Stock Drops 20% in 2026 \u2014 Is This the Best AI Buying Opportunity Right Now? - CoinCentral",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaW03YzkwSURBRFlaNDFMT3YwdzRXNmtxYmo0M21lNmhpZlBLZ1JtSEZfUU91ZHFuWndXS0kzaEVJYzVMQlIxX3RyM0d1dGtJWnkwdU1IcEhEUmFCZUpnZ3IyX3JEdldIUEhHcTdieTFNZVJEaUkwaGpjVXhsX0xOdHNoTFI1YWdlRy02dUdWbEptUDV5aWFyTzhuLTI2OHVacjQ3akl0SnQ3YURx?oc=5",
+        "published": "Thu, 19 Mar 2026 15:22:13 GMT",
+        "source": "CoinCentral"
+      },
+      {
+        "title": "Oracle Just Posted Its Best Quarter in 15 Years -- Here's Why 2026 Could Get Even Better - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjhjV21hRmJWN3Joc1I2Q196VVp4MXRqOXR3NnFwbDdVUEk5aTJTSm5ob0xHeGlxaHFKVWZFbWtSMWFOYXl4dEQ1bTJNTGhmV0ZBN1VmX2JXOUR1T210Tzh6SWY2dzJYVkYxWlJsOEFhZkljc3F4aUVMRFAzRnBycms3ZVlZX2NSTkZEZTFwdWM?oc=5",
+        "published": "Mon, 16 Mar 2026 14:01:00 GMT",
         "source": "The Motley Fool"
-      },
-      {
-        "title": "After Earnings, Is Oracle Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ29KVm9LRmQ5UjFHQVRJa2UyU2U5NWxSNEYtX3JfakhKSzdaNi1tUTBBcmVlMjBsRFZIZzBQNEp6eFhscWEwVUtKVElzbklFU0lCZnpTblM1UHc0NUF0aGxKOXFYX05WWTlIUHlRcHJZdnZRc0dUMjhmUVhoa0Q3RG80Rk9LUjUwbEhGVEpmeVNPVVlWSVVjMA?oc=5",
-        "published": "Wed, 18 Mar 2026 10:10:47 GMT",
-        "source": "Morningstar"
-      },
-      {
-        "title": "ORCL Stock Price and Chart \u2014 GPW:ORCL - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xLV84V0NmMG5VSEpadEI2aV9JWkk1Q2tmbWxaakVPQ2k0dC1vU3hJQnJnNXg4MjFHVGkzVnZOd1htUDhnaWx4QVc4UEluZU1EemVrZmxnMk8?oc=5",
-        "published": "Mon, 16 Mar 2026 10:30:04 GMT",
-        "source": "TradingView"
-      },
-      {
-        "title": "Here's How Much Traders Expect Oracle Stock To Move After Earnings - Investopedia",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFgwRW13ckdRM2liYXo0VXM0ZUhyZjIzb2pGVG1xX3hWVnF2ZXBsMDJieHQ2Rm5FcVdOdjNkQnFnUWRhSmpxRERQTzVUUVNkOTZGZEpFYUEzLS1EemxMMnZNUXFVV2Zlaks3cFRtNnlvVmNocjJtX0FzZ0g3cEw2MkxZUDNXUDhpYUhUaVZWQjlES0l4RDk3UGFjR1ZUTkJIM2t5OEVFSkRyQloxdWJXWnpB?oc=5",
-        "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-        "source": "Investopedia"
       }
     ],
-    "GOOGL": [
-      {
-        "title": "Alphabet Inc. (GOOGL) Stock Price, News, Quote & History - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5",
-        "published": "Mon, 16 Mar 2026 17:25:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "GOOGL Stock Today: March 16 Gemini opens to all Hong Kong users - Meyka",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWp0ajNrNGt3Y051eG1tWERCRmxPTWQxbmNnYkN6Nm5NUmJrd1FBZDdwRzZvT1lMWE9MMFpTUU1NWTVWeEhvcFhockVZM2ttVHZJWWExWWtRLWl4UkE1YWQyZDBhRVBiRVVheHQ1UndDb3Nlcm43WHMwOVdlcnlFS3BadEN4bVNnendGTmlfSEFJSUI3MUE?oc=5",
-        "published": "Mon, 16 Mar 2026 12:41:14 GMT",
-        "source": "Meyka"
-      },
-      {
-        "title": "Alphabet stock price forecast: $310.89 resistance in focus as GOOGL trades down - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXpuMl8yaU5ZRlc4ZTREc2lJZGw2MG8xcXpFYVQxNTdHYnJ6NW5ocW5rY0ZnWHJhbEdCbXJTVGpMdTV6cmd1dmI0LVNhdzVJVFB3LWYya3FTQjUydzRLaGoyNEdBS2M4bnRzOFl2UTNmV01pN2hGa0ZfSk9yaWw2Nmg3MTYtQW84SGRvc0NBaXByLThDbjA1T0V5T3hQelU?oc=5",
-        "published": "Wed, 18 Mar 2026 17:14:07 GMT",
-        "source": "Traders Union"
-      },
-      {
-        "title": "Why Meta Platforms Is A Better Pick Than Google Stock - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTm9aZmhEaHhaLUN0dG0wYWx2SlA4d3BSMXJTRTNhM2RJZ3NBcVRHUGdRM1Y4ek5Wd2FlbG9RSVhHazNfdGllbEhXOE5xR2dyemdtcUtIQ2s1STNKT2NfdGo2RjNIay1SZnJzalN2VzRxcUcydW5qLWxrU3U1dWxQNkNDNE9nWnZiMHAyeEhwYm1BMGh0YTJ5VzZXZ1RkYTdkNGcySmpnajRKQ1pHZzlZMl9n?oc=5",
-        "published": "Mon, 16 Mar 2026 14:23:02 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "Alphabet\u2019s Data Center Cooling Push Puts AI Capacity And Costs In Focus - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGtDamZZeDFEMWpfUHhlRGVkQWZZMWx0cGNGU3JHS0lpWDA3UW0zZG5XNTN0QTNBdE9NbEh6cVh3WUJVWUgxN1F5Wk1aQTZMNFllbzFwWFhFRllJZDFCOU1wLUp4Q09zR2Npc0xndUM2WW1ZeFNsRW9HNUJfM1dKaGhhZmhwOGxlTjJsaDR2alluRjBpMkVlN1F3WjZ3ZFdhc2VyYVZXem5OMThWdlNZZV9odjFuakliNnRGS1pxN2tNWEXSAcgBQVVfeXFMTmd1ak13elJ1N3pHYlBYVHRfeHc3RVB2cFp0LVVoX0lhaW96bEFCaVZHVEdSWDN1NklXdzBUV1ZicXlnS0tIMTJmVlBLTFRtVkN3LWNYYlpSSFdrLTR0Z0lteWNLQTlfSkVXZGNzRUNEVEtfZGNFSE8wNV9jeU9Fems3TWFucGRSak1rNFFGRHZqZmVsMlF0S25UQ0JDT3g3S3Vfa3YtMmw5eGFvQUN1bG5ZYjBLYjZJX0Zqcl8wOW9PS1FlSGY4Rjg?oc=5",
-        "published": "Wed, 18 Mar 2026 09:33:43 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "GOOGL's Wiz Buyout Expands Cloud Security Portfolio: What's Ahead? - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdl9Md2ltNVpTSGF4ZFRuV2drSTlPbmZyLWljRzJVc0JqUVNxZDZJUDg0X0dLX0lfQXU3cVg3ZmJReERQX2VNR1lpNFZjX1p1a0FobDNYRjVrRFNHdmY0Rmg4ZHY0Y2RuQmp5OXZ0TjZERFlJMlNQSjZ2OUpsei1mR0JYa2ZSckhwM2FBTVdvUkR1RFJqZmtnbWF4ZUtKdTFjVjlrUm5ZeEZMSEVPVk5Cd0Nza1d1WWlHcmlaNFVhODdyalRJZ0IyNlJOR1hjbHc1bmkxeWlNTU9LN1VSMVlV?oc=5",
-        "published": "Wed, 18 Mar 2026 18:12:41 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Alphabet CEO Pichai Sundar sells $9.8 million in GOOGL stock - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzN4Y2preTRnbENhT3lnVlZXUWdyMWpvejU0aUpOZEVmdUlzZkxkWkN6ZnJUdlNMRVNzV0plNjFqQWNKMVBndHRKOU9CeGtIYlJEWEdUaEZ3V1ptQ2tjeXJlY0FOa09VN1BOdjVjR254S0gtQmd6TVVGYU1XX3Iwd3pRQ1hrVEJmSExFQ2hEMXIwbm5zOWtjZGhNTTVXc3NoUzBIZmJXbW5PYWp4UHBXQk9pTjMtbWk5VFdPY043SQ?oc=5",
-        "published": "Sat, 07 Mar 2026 08:00:00 GMT",
-        "source": "Investing.com Australia"
-      },
-      {
-        "title": "Google Stock Ticks Up as Fitbit App Gains the Ability to Store Medical Records - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDlXbEN3dkswdTV5bnBvRkN3QVNCeG9RU2JiNjFqOWxndVVkaHpUekdRQzBfOWFpYm05T180VzhZQkZ2QXZOUWsxRnJpSGYzb1lMSzExcTE2MGxKcGVKNmJSSl85STVNY1Zja3pnR3Rlbml3MmhtRlh1UmwzVlZzeHlfX2NVSlhvbDhqRFptQnVEMFpyX2docnYtemlHWFFTYlRHOVlCMEpHZFd2?oc=5",
-        "published": "Wed, 18 Mar 2026 01:44:43 GMT",
-        "source": "TipRanks"
-      }
-    ],
+    "GOOGL": [],
     "META": [
       {
         "title": "Meta Just Signed a $27 Billion Artificial Intelligence (AI) Deal With This Under-the-Radar Stock. Is Nebius a Buy for 2026? - The Motley Fool",
@@ -1411,22 +1362,16 @@
         "source": "The Motley Fool"
       },
       {
+        "title": "META: Meta Stock Steady After Company Pulls the Plug on $80-Billion Metaverse Flop - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWUl5a05BaV9TTXJ3bkZmOWw3bGtoaVVRTGQyUTljcU9wdGhoM0pQa0ZLSVJiTThfYnhDRDhnSVFBSi1DWWlEdjFWYTM5TnA2bFZobEZLVDJqRlNmMXJPR3h3U3dxaTZOOFh0ZVl3dEV2dXA1WktIZ1dGYzhGcC1JWnJET0JkVXRrS3RoM2ZTdDFfbDlZaDFjUG92eEJ6UFRaemVld0pMSnJEZ2E3dk9iaVVrYnRZbWJ0M1Rkb2JLUlZ2RTVxdzdOWFJ1WVQyN0t5QVVZZEVNd1BDdw?oc=5",
+        "published": "Thu, 19 Mar 2026 09:06:41 GMT",
+        "source": "TradingView"
+      },
+      {
         "title": "Meta stock climbs nearly 3% on report of planned layoffs to offset AI spending - CNBC",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3hSV2VSaGZWX3VEWVQ1a0VVZFhtZmFraTJqLWMyd2hBSWlCcG5ISldocURYWHp5M1lrZWdPS0JheVVSakRyVnowTkkwOFlqc0tiZVBVZXR4ZW1FVUtBb3VwT2xFVzJfNmZZalMzODJjejlXUEF0d0NINHRNOG1CY1BHLUxPSzY5MlhmRlMzRdIBlAFBVV95cUxOeEg3MEFEalZScWRheEktTlJ6S01jNHI4ZzhpNzF5Rkc5b1laanRGcWp5Yy1ac2tHVGRveldtLXhsMmo1d2gxSzRCYkQyMGt1YmNHTUxyZS1lODM1WjhnTlJQeGJocUJvWE5qOExHUUhQdzc0dTNnOXpqc3diNjJCRzJ5dThNVGdmMVQzdlVSZjdERjNn?oc=5",
         "published": "Mon, 16 Mar 2026 10:43:23 GMT",
         "source": "CNBC"
-      },
-      {
-        "title": "Meta Stock Defies UK Rogue Scam Ad Storm - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfakRVem9jMnR5cTdQNVBaeWVVQlFYaTR3YmpPakNVeFJoQXNiejVrOHFuNXkwMVlsUEM5dG1mY3pmTXRDZ05fZWhQTlE4elVmNHV6U0poaG41S1BCOVNEb0J5VklKcDhnYVRjNlVqdzV3dEVlaWJLZVZ3?oc=5",
-        "published": "Wed, 18 Mar 2026 12:25:23 GMT",
-        "source": "TipRanks"
-      },
-      {
-        "title": "Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGh3XzR3c0JlOFhxTkhiMDBIUjZyMzQ4RFBPVlZXU2RINnhFLXVCZV8ySGc2dXFJSTFkbnRBNE11aUFHT0QwbTUwV0xZWTlUOFZWbkJyQU9uOGtRcmk2cWx5blh1RXZWeld6N1cyd0ZtWUxiSHhIUnVZaGxuTnpXSWR5Qm4xZWk1NHdCTzRrSnctYUxQeTdTSFdaTWZ4cmlmclRKZ25B?oc=5",
-        "published": "Mon, 16 Mar 2026 16:46:00 GMT",
-        "source": "Investor's Business Daily"
       },
       {
         "title": "Nebius Stock Surges. It Got This Huge New AI Deal With Meta. - Barron's",
@@ -1447,13 +1392,37 @@
         "source": "Business Insider"
       },
       {
-        "title": "Bank of America resets Meta stock price target after earnings - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXVVVEg5QUQ3dW8talQ0THVEUzUzdVE4LTJQWE1QYjRuZEhqZ3NyOXdSUEp4MVoweTczdTZvSjhRRGJoamlUWklieDBiUktvTnJCN3FINlNBc3NzSmdxX0p0Q1hIWWVpemozWl96aTJnMkY0MFlYZWtWSXNpVXhCalN2elVvXzB5LUExcG42ckVQRDhrY0NFUk1DcmQwRUk5LUl2N0s5QQ?oc=5",
-        "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-        "source": "thestreet.com"
+        "title": "Meta shares jump 3% as Mark Zuckerberg reportedly mulls cutting 20% of workforce to offset AI spending - New York Post",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmtNR3gzNnJhcDFZMGR1MGI4aFpBeWNjbUNub282OG9tdHhBNUtUMVpFY1p4Z3d5VVpNRUtMS29oNXl4dGlIWDJoSzFpcHF0QjZZYTF0VGVwZmRaR19JZmpTRGYyS2tEdmZpa1l0T3pnaDV2MkRveU9NbXhSN2phbkJ1cUt1bnVRR3Z5TXBNRzFYTW1adHNHaUwydHBfZFR5Z1I0aEU5eUR3WWM5dlJSS2VXMHR5bmdU?oc=5",
+        "published": "Mon, 16 Mar 2026 17:00:00 GMT",
+        "source": "New York Post"
+      },
+      {
+        "title": "Meta shares jump 10% on stronger-than-expected revenue forecast - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Vdkh0bjZWRkNOcWdsS0VRbldVeEFlMFd6RDZHODhaTTZmYmZqZHMtdHhlRXcyX2QwY00zNHlacnkzR2htNV9Cc1NqMHdFYmVLNlRKM0I0ZGN4eHhoY01JUnBmaldlY1NKU0pXSHZ2dUlIMTDSAXhBVV95cUxPa2xWa085c2h2MUE3Z1hEaUlseHFiTHpkellRMzd6Y1JmbXlJSm5kWmZWMllUNk9qRnN2S09PUzA1QjZiQ0x5YzlGdDE1TW80MWhTTmpiQ1ppWkdXdFh4MFEzVi1Nbm5rc1hDa1ZBLWhuRWtqQUdudDE?oc=5",
+        "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+        "source": "CNBC"
       }
     ],
     "NFLX": [
+      {
+        "title": "Netflix Stock Today: NFLX Climbs on Citi Bullish Call as Streaming Leader Eyes Price Hikes & Buybacks - International Business Times Australia",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTl2N01rNFJhSzJDU1VvakVaTTZwZmx6cVlKbUlyU1dzN29QM0psN05tcHU4MEphOU55ZjBZYXQzc0hldXAzR0FqSkkySE5jWVgzQkhJS3c5d3NabG9WbEt1cUlfUkJfcE5xZHl1dXY5RTBYTkZvT0Q2dDdnYktXOUNxZWpwa1BTV081TEpuakZoVFNGMVRuVXBsZ3FPNmxvQnZQTm1VdUFkcUJCZHZOMGNCR2RyU0N2dzVoMzRvSlV0LTdoNGc?oc=5",
+        "published": "Thu, 19 Mar 2026 08:01:22 GMT",
+        "source": "International Business Times Australia"
+      },
+      {
+        "title": "Why is Netflix stock down today? - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpjdU5tWDRSYXMzMVlQUk0xNWYzLUJUT0g1alhNeThQR2NvZUR1ZTZzcU9CTFhtcmNaWmdYSzJBNjVqaWIzSzJNN0J5QzVOeFdfbzlkNFZUM0JjN3A4SE0zRXpwTlVvUEFWdDVJQnhiQ21RQ0N6V1JWSDJGNVR1UHVpaExyeDlRT3B6dzNIdjJua0xKUDZGNQ?oc=5",
+        "published": "Thu, 19 Mar 2026 15:58:13 GMT",
+        "source": "Traders Union"
+      },
+      {
+        "title": "What if Netflix Becomes the Next Trillion-Dollar Stock? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3N5ZHdVNF9fRW1SeVBnYTFkTGRNVHpGVXprZldjT1czakZlLUlpZUpvaHVxZUpaZHNFc3NMaURLNm5BVWRhcHVnVEE3aUFjc05HVGhHcjlESi1FRjVURUI2M1JVUkhjd2RUY3VqdkE2R01IWndsRDVhb2hZTC05cmE1RmxPXzVoVUhiblhxSHdrZjA?oc=5",
+        "published": "Thu, 19 Mar 2026 19:06:59 GMT",
+        "source": "The Motley Fool"
+      },
       {
         "title": "Is Netflix, Inc. (NFLX) A Good Stock To Buy Now? - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUYUJUbXpLUi1ObkFlN2xGYmRMLVNkbDhIYXZteFlzZnZxclJ4Zl83N0F1bjJsQ0Jpb3QyZ0E1d1ZySWp4bnBlbWMyejZnOW90VFMyTUpjeWstTTRnUVI3dDdGSWtYQXYtbzFpUm1rZ1N2R0pRa01Oa2M5UXg5QQ?oc=5",
@@ -1461,22 +1430,10 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Is Netflix Stock Going to $200? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EdDZKel9KQ210V1JSdmQ1c1ItS3JWd1ZSUjlRS2RlMDhaYXpUa1M0bzMzODRUV0pzTXhjeWd3V2E0a1YxQUFUMHVuWURQclZ0Yk5iQi1CazNVWTNEQTA0VTRJTkdlQ3M1TUprT2JJQXQzV19RN0xDcDhSMzE?oc=5",
-        "published": "Sun, 15 Mar 2026 15:45:00 GMT",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "Netflix Stock Closes at $95.31 on March 13 Amid Volatile March Trading - International Business Times Australia",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGg0OGUzYTI2VF9xSWZWMGhYc1paOTA2RjVxaWo5aXlKek1Fd1Fyam5TcWszbXlUWTF4eEZvRGVpSk5ITl9Ja1I3R3BLRkZZa3JjRm9UNFNDWFpEVEJBT1VUMGhvZkN0UnVvem9HdnYxZFFMa2ktRVQ4MnRReDQ3VDR3RnFoVnZuRUpDRkJlY3lHcjg1T0w1MFJ4YUlzdw?oc=5",
-        "published": "Sun, 15 Mar 2026 14:02:16 GMT",
-        "source": "International Business Times Australia"
-      },
-      {
-        "title": "Netflix Oscars And Franchise Expansions Put Valuation And Momentum In Focus - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTNRVXZBUGItMnNwc19QZk5VTHhhRmlSR3p3SEdWTG9RWXp6R21BUFlUdHRNS040OFk5Y0E2YzgzQUVUNnFHX3pyS3lmMU85UE5PX2FjM0lma2IyTHpyS3lkRUFYeV84MUJEQ2ZLRFR5b3gweWZtRVpSelI5dnh5SGl3cnp4R3ZTWU1VNjRidzFwSjUzVE1DVUstQmlFWkcxR0dRbEY1OTlfUUpwaTItWmFyODAtMmE4U3kzMW1BUTPSAcYBQVVfeXFMT28zV0RISG56T29FWlZrQ3o2M21sY3pDc0ZOV3ZzeXhBMDZFcHZvTFJqbWtSZXhocVpBSHVDVVN0MFRQd1dsOXJMNGl2NmtSVFVhLWxvZi12RzQwdjczZ1RsNmFGM1czLURzc0ZOQl9TeVlCLWRRYXNUc3VNUFpLZTc5RXVBWmQ1MXM5MVRpTVFrdjRKcHFJVEkxMjFTcWhOQmFjMk1tQUw2VUwzQmdzS3RLVFN3ak4zMEtyMWdSYTBtYTlLQ2xR?oc=5",
-        "published": "Wed, 18 Mar 2026 10:10:31 GMT",
-        "source": "simplywall.st"
+        "title": "Netflix Retreats: The Streaming Giant Faces Its Toughest Balancing Act Yet - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmNPdHpHQ1c3ai00aUt5YUVIbU1VUUVBVmx2eTl4Q3FYbWN3cktPbEJkYjF4MXRfb2VsbDZNTzFMTU0zaHFOd1N3MXRUTTNlVXpHeW4wTDJnSkx6akYyNDR3TEEwOVVaQ20tNVdhR3dtbnZKNm1ZS2YzTDN0WXgyWmhHYjZuNXRFYVNLVndRdnlmYlVzakJUbGpGb0hhbWNhRE9uckVDOWRYbm9yZDZjVWVCbUI0aktV?oc=5",
+        "published": "Thu, 19 Mar 2026 19:26:51 GMT",
+        "source": "24/7 Wall St."
       },
       {
         "title": "Netflix stock surges as it walks away from Warner Bros deal - Al Jazeera",
@@ -1491,16 +1448,10 @@
         "source": "Investopedia"
       },
       {
-        "title": "Netflix (NFLX) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFBNcXNENVJ6WDJ6YktMdUpER05WX0lhVjh4dWxlMjh5OUp5VHhxQ2E0X1hyRWp6RW8yZ3JjcENGZmtSVkR0VkU3SDVWUzFOYmwzVU1OMm5aRV82a2dyTjhEQjY1ZktrTGJkU0hVYkxoei1HS1hGQ255RGY5UkhvSi15WFpRcUFZUFhOR1I3S0MwdlRCUENaSS1Pck9JX3lRbXc?oc=5",
-        "published": "Mon, 16 Mar 2026 17:18:58 GMT",
-        "source": "Investor's Business Daily"
-      },
-      {
-        "title": "Ahead of earnings, is Netflix a buy, a sell, or fairly valued? - Morningstar Australia",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR00xcmtXamdEeDRQcG1HVGlMWkQ5NXF0czdLUzJ5SFBDOG5MZXQzc1BncFdvS1lNQkcyS3pxaVVaNmpTWTNGRlJTcUdaYkZIdUd0c0RHQzRIUEcwNGdwMlVGOEZ3MVR1RW1kbi1NUHlRZjJLR05nWmVubTVSbG5aQ090ZnU0SGVmc2tWTkIyRG44Zzg?oc=5",
-        "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-        "source": "Morningstar Australia"
+        "title": "Netflix (NFLX) Stock Slips as Wall Street Weighs Spending Surge Against Slower Growth - CoinCentral",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWN3YU1HNVFFeGoyZUFZcktvNFoxSlNHNTA2ZnZPM3RMdEdXbVBmVVBwdGY4SHZOTWZ2amVYQVZTNjc2YTVPcGsxaEhqeFQwd09DUk5tQmZqY1AwOFl6N1Foc0NuMlZBOHJHa0dwMENQNGpOeVB2SHNfNTlsWVd2dGFtSW8wM2pmdy1LZHJQWUN0QjltWEtqYzdMbUI4MzMtSHdDdXRVUElJdldM?oc=5",
+        "published": "Thu, 19 Mar 2026 18:25:28 GMT",
+        "source": "CoinCentral"
       }
     ],
     "TMUS": [
@@ -1511,10 +1462,16 @@
         "source": "Trefis"
       },
       {
-        "title": "T-Mobile (TMUS) slides 3.2% as investors refocus on near-term execution and spectrum-buildout risks - Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUU9JaG9IT0FLUW1aT3l5a0hzejBsQVQ5dEpUaGpiTXpnNHJ0empVbEVMVFpuVzJDS21WNnFwRGZVRUtXNERXU3JhRjV4cnNGLVRYOW8yVXFtcXk1NzcxWDhCMkJFdDk0WHFnQ3hPY2hzT0s3WjZmUWNWdjh5ZU9YQjBOcXhlb2pqOFBYbHpsSEhPYXVLdkpwVC1hTXhqdlF1VlpYemxRUjRBOTlURUpEOVYzYW5xYWVGbV9hVVJXUFV5eXpwaGM4ZUV0T21TTTFqWmJrMA?oc=5",
-        "published": "Wed, 18 Mar 2026 17:35:00 GMT",
-        "source": "Quiver Quantitative"
+        "title": "Analysts Offer Insights on Communication Services Companies: Trade Desk (TTD) and T Mobile US (TMUS) - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTFpTY3VLMmdaME5qUnJ0RmxsdGE0QlZkQ3NHQXNqRS1qYU9sZEpsaDhQeC1SU1l1RWhGc3YtMm9uLUl6dDlNWFcxUDBYclBYWlVBc0FqYVJkdHk2T2ZtelBFWHJJUEJBMWZrdlc4MXY0LUFhWXJPV21BVVRYeExYOGJ5cGxfUmJNQWs3ZTQtQU5EbldnYUNvVXNiVkMyWXVDOERPQkkwNjlOY1ZDcVhCN2V2eklXdHVzazVuVkhtdHpKM2xNUEtiYURqbWNIbVA0MU8yeDlSZi1xTTZGRGdJLVVGZjNXQnRjdm9nZzQ4OU9vNVZUWjk1WE02VXZCbGs2WGloZk1XTjk1b2c?oc=5",
+        "published": "Thu, 19 Mar 2026 08:12:08 GMT",
+        "source": "The Globe and Mail"
+      },
+      {
+        "title": "Technical volatility, Danske Bank investment: T-Mobile stock slides 3.11% - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVFTYVVwdXFBNC1HaE15cnpWZGNuZjZwSkE3cHRTUzFfMEEyazlCTjZtcVd6NElrR2FTaU1SMU43MFpZbEMzQjRkcjR1dnMzcnFMQ3BLc1haY1hEYkpFODRMeTdURHN5TDZjTWZTUmdIZnliR0w2RjhsWTBLZjB3U3Y3WTVSVlg2cHV6MGpDOXEtSjYzU2JUZElKdno0NTQ?oc=5",
+        "published": "Wed, 18 Mar 2026 16:26:09 GMT",
+        "source": "Traders Union"
       },
       {
         "title": "T-Mobile NVIDIA Edge AI Pilot Adds New Angle To Valuation Story - simplywall.st",
@@ -1523,10 +1480,10 @@
         "source": "simplywall.st"
       },
       {
-        "title": "Analysts Offer Insights on Communication Services Companies: T Mobile US (TMUS) and Magnite (MGNI) - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2I0UTlxZExnMVB1WGZJS19WYXBWUEs3SWFHemphd2xIVkpWaWlSd1ZZVVpSREczN1J6YUlHM2s4Ulc0UTBuY051MURQREExQUoxcG9LdktKVFMwWl9mTjdjeVk1dWxtZUZjYkJNTWRQU29nOTdjMnJMRWFmd2JRVURjdk52VGVNVm9OWWFVUjdTNTVJdnlWMmhUaEliTjhCcjBITzNNZE1KRVhxMFFIczUxTE5BNzlGaHp3cF9wX0RWbXk2ejd4R0s0Vng0SHZscDI2V0dLSG9ucnBqdlpqQTFKUFZ2RkZ6YzlwSi1MNHVmbElaTFUxa1liMDEzOEw2M3dxb2xWeWU?oc=5",
-        "published": "Wed, 18 Mar 2026 10:47:13 GMT",
-        "source": "The Globe and Mail"
+        "title": "T-Mobile (TMUS) slides 3.2% as investors refocus on near-term execution and spectrum-buildout risks - Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUU9JaG9IT0FLUW1aT3l5a0hzejBsQVQ5dEpUaGpiTXpnNHJ0empVbEVMVFpuVzJDS21WNnFwRGZVRUtXNERXU3JhRjV4cnNGLVRYOW8yVXFtcXk1NzcxWDhCMkJFdDk0WHFnQ3hPY2hzT0s3WjZmUWNWdjh5ZU9YQjBOcXhlb2pqOFBYbHpsSEhPYXVLdkpwVC1hTXhqdlF1VlpYemxRUjRBOTlURUpEOVYzYW5xYWVGbV9hVVJXUFV5eXpwaGM4ZUV0T21TTTFqWmJrMA?oc=5",
+        "published": "Wed, 18 Mar 2026 17:35:00 GMT",
+        "source": "Quiver Quantitative"
       },
       {
         "title": "NVIDIA and T-Mobile test AI to monitor cities, power lines and worksites - Stock Titan",
@@ -1535,54 +1492,54 @@
         "source": "Stock Titan"
       },
       {
-        "title": "TMUS Stock Price, Quote & Chart | T-MOBILE US INC (NASDAQ:TMUS) - ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdVpEa1hHZ0U4d3hLSGxWRlNBZXZ1Q1NCRWhuREJVc0VjTEF1eTVMbHBnSmpUdjd4RnQ1TWd6UlVyTzUzRWN5RWJzMlRkM0xCT0t5X1J6dktOaTRRNVh3?oc=5",
-        "published": "Fri, 13 Mar 2026 07:00:00 GMT",
-        "source": "ChartMill"
-      },
-      {
-        "title": "T-Mobile US (NASDAQ:TMUS) - intelligentinvestor.com.au",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0xmN0NYNEQ5eVozN2gyM2k2OUZuSnFVamIySk9wTmdocFpNYVJiTGZHLXdtLTJJR0EyaHVzdDZ6c1Jvbnc5ekRrSlFDYjNoWmxZWlhqWTlFb2MzUGQxMzJxbDhjOTRwamJkcHdoRDJVLUZBUUNJdGUzOEFRRlBlZ1lSNjRwc1dNV0E5WWVNOUNET3M?oc=5",
-        "published": "Sat, 12 Jul 2025 23:58:02 GMT",
-        "source": "intelligentinvestor.com.au"
-      },
-      {
         "title": "TMUS: Citigroup Maintains Neutral Rating, Raises Price Target to $225 | TMUS Stock News - GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGxlMmVtbWZxQkxUSlV6VUw1NEVWOFZCT09NZnRRem9YSHZwMm01VGEyNzNrVmZtSUlBd0xFMWt4bkFnYzZKbGYzQVJBcDJMcDl6UWl0dHA2eEdVMTN0ZlBHX3JNQ0ZoQTdjaXdjQkVaX0QzVmhOUWstWVdFSnNlejBhM2hfdWRaNUV3a1l4OG1CUGEzYVhJNlZtT0VLVnZBQVI4enY1X0k3WFRIbFpTc0ItdjNUVnQtMm5oWmJn?oc=5",
         "published": "Tue, 17 Mar 2026 17:01:22 GMT",
         "source": "GuruFocus"
+      },
+      {
+        "title": "How (TMUS) Movements Inform Risk Allocation Models - Stock Traders Daily",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkkyS2d6aDRGMklGcmhoNFpYUnR0XzMzazcwZjVMQUFrTGFNQ0JvRDlva01rVHJJVUZyQloxRDJqN05KbmhvMDI4MUVIa1lsc25ZaDJTY0l3VDRvVjR4TW5WSWQ5ZkpYdV92TjE0dnJCM01UZnZ2SU9wQzdRaXZjUXFkOElIMV9UVWNOazBtdFZROEY4Vm95RFJkcEswX1VCM1liaVFFMDFiRWhnenZwd1oyTHNJWnlDTDRlVUN6Q3NUOExSOWc?oc=5",
+        "published": "Tue, 17 Mar 2026 00:56:01 GMT",
+        "source": "Stock Traders Daily"
       }
     ],
     "DIS": [
       {
-        "title": "How New Leadership And A Unified Entertainment Division At Disney (DIS) Has Changed Its Investment Story - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBGU29wU1lVclpoMEZRd2tSWF90M1ZqdnJzNmlPM3BOUEFGQktxMWQ3VVVHRXlvcWtCYVY5cU5ROUVBUUVPVmRubFVuYl9zdDJ0c0JzZWhRNWFTTUtkTWx1eWFJX0VGMm1HX3pOY2RiQ1Q0NTJaeENNZkt4clVsQWZiY0JqUXBtcXVsZXBaSXp5SjJkdGlJV1R4Q2NybHJLLWlVMmlMSzFBRlZuNkhQQXQzMURXZVJ0d3hHTFVrVFJUd9IBxwFBVV95cUxNbHR5NzQzblhXbTZfbnF1bi1fNWJEU2dDQjBDS0F2MF9IX1JPcFVzUHJOVTFQay1ZajFtdUtWT01TVDdXZGR4MVRNLWQzb1VITndVbjhZamdmTXB0cHpEVDlvdHZ3aUpUUjZWQ1ZYVnJJUGlnd0pNaTFwQVVhZWVGaEdIazYzM01EVklEYmJJNnVoT0pSVjQyWENzTEZQQVdLbl82WWZlS1phT2d5emR0WnNIb09HaG9IM01uV1JyVm8tTy1Od3lF?oc=5",
-        "published": "Wed, 18 Mar 2026 16:23:32 GMT",
-        "source": "simplywall.st"
+        "title": "DIS Stock Quote Price and Forecast - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DcVFEeFNVVDJxcjFqb0VhYlQ3d2VjZVg2SWU1cGFCMUVnUDN5dEdfaGZEMXlmbDJhSTh2T1ItTlpUVl8yb1BoXzNsMnFEeDA?oc=5",
+        "published": "Tue, 17 Mar 2026 21:15:18 GMT",
+        "source": "CNN"
       },
       {
-        "title": "Disney Gets a New Executive Team As 'Iger Era' Ends: Does That Make DIS Stock a Buy? - Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXRHaC1SdlNJX2hvMzhqdVNNbnQzYURVNjc5aFpEYThtRTA1ZnAyR0laR3RQaUZSYm9rRWJrcWxoSWRTSEJPWHdFZ0k0Y2hFMHpnVHFVaUg3MkZJdGt0aGxQdUI2Ul9qR2hOV0NlT2NuR0M1T0RjRDhvQXBNcVd1VFNhYkdtR3hNQlBDeHBnYlNRSm9GYkhNbmpMN0Zyb1Y4bzl2cDN5VmxTSS14eDV3U0dWVUJkeEVacFBjbU9naVI?oc=5",
-        "published": "Wed, 18 Mar 2026 15:28:56 GMT",
-        "source": "Barchart.com"
-      },
-      {
-        "title": "Disney (DIS) Stock Rises as New Leadership Focuses on Parks and Streaming - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRm9oY0ZpY0RXWXZvVDZGLV91UGRJSWxYM3dNejJXVldhSnk0WTNRbzNiRjBQNGtXczE1Q0VSd1Z3T3Z6dDRjOTZRS3pEWHpvaHgxTWtXaThYRldoZTNZTHNTSnNHNm8yd09jX21BVlJrUzJleXVaWlVFSUMtTEpiNW11QTh5ckNSaTNaZkplX2I4UXZsdHRqVWhTYWJkTjV0TGo3VTgtTUl2VDJpU3B3?oc=5",
-        "published": "Wed, 18 Mar 2026 13:22:16 GMT",
-        "source": "GuruFocus"
-      },
-      {
-        "title": "Disney Stock (DIS) Gets a Price Target Cut as CEO Bob Iger Steps Down. These Challenges Remain - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNk9Xa3l2XzlMT0R1YnQ4M0VBTTVCSUQ3aDFUQVMyUWgxWk5QYm5jS0pYS0c1R3p5elhPcnRDR2VVcjNwZGoxVGtJWjVRUUZHSzgybnRZVE5PU2Q4QXBCQUszVlpNbmRQeXREakJLclFZa1pfNEdMYV9uRnBzU1hscVJPQV92QmpHOFJLUVR4UV9XX04wSlNYSmZjMWFHdkNiR2RPRGlKWFlFMERMSGRzOUdiSFcyMXZEU0JhendB?oc=5",
-        "published": "Wed, 18 Mar 2026 14:51:12 GMT",
+        "title": "\u201cDigital Centerpiece\u201d: Disney Stock (NYSE:DIS) Dips Despite Plans to Shake Up Streaming - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXpqQXhUSFFTRGVRNTdVckoyd2ZjdXB4MHJjQ19pZHg2aTNjbVdvUk05enJWMFc5QVBTc0trR19pWExMVGZuUUlaQ2pYRk1HTzh1X3ZjaWdtekFUeDdCUTQ2RlBFSDZ3eFJUTDR4bnR1bXNFRXp3RmZBNnotMjhLZ1pJRHVrS291Qm81d1dtd3lfaGtpbDh5SktGVGFpSGJqbGVUc3ZqMXFYRXV6OGdpaA?oc=5",
+        "published": "Thu, 19 Mar 2026 16:41:15 GMT",
         "source": "TipRanks"
       },
       {
-        "title": "Walt Disney (DIS) Stock Moves -1.45%: What You Should Know - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Xcl9RQVNpc2w4cnRieVBHVWVjNEE3THgwNllDU2JBSGMteVdkdklTdlFxd0xHZEhsMDJjaHktMjdlbVM5Tmg4X0FTZmJlaXZQcmg1QUJoYkJYV1YyMFNoaVduVTdlZllEWDdGN1VVSnNEWXRmMGFXQVk1VVFIZw?oc=5",
-        "published": "Thu, 12 Mar 2026 21:45:04 GMT",
+        "title": "Is Disney Stock A Buy After Josh D'Amaro Takes Over As CEO? - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWl5TEdQVU9uR1g5ekJRdG4ybU56WWJoeTdLcjJCeXFDVzIwZ29Dbm1sNkh2T3NQcDM1LVgxbHBLWkp5QzVMcW56RThib3VRYkRGTGJXRkxPOFgwSk9hbTZPUm5rZXZXV2JSeHBvWFlJcWF0c25TNUwzcjZvYlA1QW5ueHZGeU9nVjN0UUdrd0R6bVA4MzlzZWVwa1R3TS1IbHpZX1NaN25zcFJMbHJjOTFUMmZvNXIyU1E?oc=5",
+        "published": "Thu, 19 Mar 2026 14:33:00 GMT",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Is The Walt Disney Company (DIS) A Good Stock To Buy Now? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ES281YVRZZ05aOGozeUdQSXVyV09MNFRZMGV1azRDbEVtb2lXUWhmQzd3LVFzM3RUdVJaazROUm1qVmJfRUJpOEs4bms2YlNWRnFhWlpoSFpjRE9aMDRnLTlvSHcwQS1VMUhqbjU0NVcwSmJUbDVWZEY5blhJUms?oc=5",
+        "published": "Mon, 16 Mar 2026 00:34:00 GMT",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "DIS Stock Price, Quote & Chart | WALT DISNEY CO/THE (NYSE:DIS) - ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtSm4tZjdhODlYSmN4Rkpkell0X2xyaTNraVEzcnBhMUNpQWJmT3ZaNDBuOFdORlAyVl81dEFzbENDQm5HNlpsLVpYbXZtY1NUYVNNS1JOaG9CWEM5dFE?oc=5",
+        "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+        "source": "ChartMill"
+      },
+      {
+        "title": "How to Play 3 Major CEO Transitions in Early 2026 - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWU5TNThqWFdPc0tydWpiVGpoNmpJWjFpTmhwN09SMXI4N3ZOeWFhRE9qT0wtUHIyTXZaSWpUOWJiQUkybWJwRzZoc2NRVk9CQ0piUjJhUmtGTVNTT1RDYmtzdnhaNU9kNjNObk4xblBMMkhJMmNYRnNiVHhmbndCYU1vWWRZQmtkUWthalhIXzI?oc=5",
+        "published": "Thu, 19 Mar 2026 12:46:37 GMT",
+        "source": "MarketBeat"
       },
       {
         "title": "Disney\u2019s Bob Iger Era Is Over. How the Stock Did in His Time as CEO\u2014and What\u2019s Next. - Barron's",
@@ -1591,219 +1548,29 @@
         "source": "Barron's"
       },
       {
-        "title": "CIBC Private Wealth Group LLC Has $270.04 Million Stock Holdings in The Walt Disney Company $DIS - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQXzg0X2dhUkt3MWs2LVhDTlhRY2VLNHhCWV82Q2lKaFN0R3V1Tmc0ZzR6MmFqZl9MYjRwQjFENGNEMUNFbThXcW9NRzhWeVFSRzBaWTk0d1ZpV1dTeWVlT0Rwd0lXLXlxOFhSdk1vZWttc0doQlVUWUNRUXNZMFNTaE5tbnRnaS1jY29jNW0ySHlPRk0weVJRRFVpYUVlYkhpbWpsazNYaXNha20zdFgyS2haSXFYWnR3ZV9idFZKMDlHRS0yVlhzVU8tMDBuWjVRTy1MUkNEVS1QQUZmX0pVdDB1dzlrakQ1clE?oc=5",
-        "published": "Wed, 18 Mar 2026 09:38:47 GMT",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Netflix vs. Walt Disney: Which Stock Will Make You Richer? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaERqV3hNUnpNel9Wa1poR0tlZndqUWEzNnFjSlhoREtiaW8yUFdrMDdCLXphNWh0X2V4UmZDUzA0bllxWG5PZXRSMDJ5SEFtM0d5cDhqZmNESENtQ2Z6Ui1ucUJjQmFGUlhFUTE5ZE8wTHJMZWpHNzFnYmktVWNPdDhFOHBOSEs3UEtQSU9wcHJ3cmR6?oc=5",
-        "published": "Sun, 15 Mar 2026 18:30:00 GMT",
-        "source": "The Motley Fool"
-      }
-    ],
-    "LLY": [
-      {
-        "title": "Why Eli Lilly (LLY) Shares Are Plunging Today - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FMF9QZzZhZXkzM3B5VkNWZjZXYzhRekFCRHJYejhFaDVrY25Zd0VwQzlDVGt3TER5LWhTTnU0UWFXbklpRFVGaXBTdS1OS0MxcV85WXpzcVJCUWthQXdVN21mR1RyUzFsbGNKY1N4UjRIR29RNGZjRi13?oc=5",
-        "published": "Wed, 18 Mar 2026 03:17:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Why Did Eli Lilly Stock Slide 6% Despite Strong GLP-1 Momentum? - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY284aDRNcHltVnNjQ1c1SGlwSFZVeHBkZlNRckM2bHF1Mm9HbU1SSV9BMzNjUk1yaDFGWC1TZmpoNS1YdjJYbTF2NXlhQ18yVHJ3TTZBSkdxcjF6Y2QzY2Z0ZVNFWmRMTWRYRTI0ejJFZ0RzT0VOd01QQXV2cklvdnFXVXl1cEZyWEI1UzctN2VLeDNWb0NMU0dzTFliaFhaVW9HUFpvNnlyWTBSNE9mYkt4SkpXYm9w?oc=5",
-        "published": "Wed, 18 Mar 2026 15:04:00 GMT",
-        "source": "TradingView"
-      },
-      {
-        "title": "Eli Lilly Stock Gets Downgraded. It Faces Stiff Headwinds After Strong Run-Up. - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXVZcDdUMG5TSTNDWmstYUpwR1ZQV3V6RUZlQzU5ZFpCTWhzN2RjQTJzLXJFdHRxcnlGQ0lGMlpMYVBVV2hhV2pVVnV5a0hFWDhsQWtvZDRwSHk4VGlnTjMxRUQxaWtmeF9OV2duZXVkUFl5bVFrVDZ2QmlJSzc2cDhwTFM3QjB0THhnNGVWM1cxYjlOTVZhb0N2TnpJdEk?oc=5",
-        "published": "Tue, 17 Mar 2026 18:19:00 GMT",
-        "source": "Barron's"
-      },
-      {
-        "title": "Why Eli Lilly Stock Just Dropped - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2dJSmhWWlJfNjFzdFdJSjYwMXkyc1FRc1BtVjFYN1pSSVlmTXZXOHBhdmhNNkZwWEtEQXBUNWdLMUlEU2RSTHk1MEFPYWNhYkZCaE5rMWtGV1FMZTZOdHJ6Wk9wY3h5Sm5VcjF5ZmY3X3VMUzI3dHR0SmRsbzVJUw?oc=5",
-        "published": "Tue, 17 Mar 2026 17:56:00 GMT",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "Eli Lilly Falls 5% \u2014 FDA Oral Obesity Pill Decision and Novo Nordisk Rivalry Weigh on Shares - 24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1NQSWlfVEZTeDU2NVotYVhSN2ExeEJ5eVFEWm1NOE5rUnVCZk9Qc1hzdHZEaEJtSldmZXBRVXlSQjhNbjhrMmtXS2JfRDhYWWR0SVZzazRLNHlPWFpMWGJnT25NTGFGV3ZVSTE3VjZDTDJxcGZsT1hjT3RsazJBUXF2RUo0Y0VScmhER2Fxb1FjUHlwQUtCU2dsUUctblQzdjBvUWtjOWNGWjJ0a0E0MTdYcG5LTDgwd1BPa3pULVJNV0k1TjhJSjFHUEswQQ?oc=5",
-        "published": "Tue, 17 Mar 2026 16:27:23 GMT",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "PTC Therapeutics or Eli Lilly: Which Stock Has More Upside? - Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObE4xczIwMEFOTE1sTWl5MWtEWlBpVFE5cHVNQkNBZXVvUmpiQkRIQnJXM01jLXFzN1VDUkd3eHdUM29IQ0NOXzlIbXFzYnM0aEFyTElqWW1EdXNFelRyVUlLVy0zYjhjRm9pR0RmbnlNSXcwQ18xbURkaXltZ2pCWmtuR3lYd1Zvck9XYWw4YWhIOW5nR2JfOV96VUVYTHJXem5vbTFXZzVNRkVZOGxBQUZydDNpNUtn?oc=5",
-        "published": "Wed, 18 Mar 2026 15:33:38 GMT",
-        "source": "Trefis"
-      },
-      {
-        "title": "Eli Lilly Pediatric EBGLYSS Win Offers Counterpoint To Recent Stock Weakness - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckwwcmJCLVExN0tlNUM5a0hudVQzNm1nbEplMmgxQzFTNlNKNmltbXJ5UHNIQ2M4c0w0NW9rSkM1OXc3bjJaSnlnbzNYWW1WemU5alBKbDJoVHFmRmwxWFJMZWFCaXpxQUotMjc2TTN4NVRGSzhMMXNMaE9hWk5Zb2FzM1g1cUltclRyd3Z1UjhGUWxoWmxwajNGdEVfdUNkOW9RMjNJd3JVbUtSanoyc2o3Si0tV2ZoZS0yaTFDOF81M05NRU03dnJUOURXNDF3anNWTWxkMNIB3AFBVV95cUxQZUpud3pQajNmS3cxOVdmMnEwbm00WmFWdmF0aVU3UjNxWWFkN1prLW9wTkxpc0g3aWRYX1lpWVlEa3EzcExWdlVPbkJuTEk1RTBaX2tZeVNSUnFKdDFTbGxJR2hFSGQyWVA4SmcxY2FDa3NYQ0QzejB3eElVRWFPa3M1NHFvQlpwZ21FM3BWcFh5SXJLNFdKQk00eXlOTUlOcXByUUhxSF80YXRiX3l3S0llclJGUE54dzh3TTBaaUM1NWZWa1BvM2lpdUxnODNSaE5raWdob2o0aW1s?oc=5",
-        "published": "Wed, 18 Mar 2026 09:33:43 GMT",
+        "title": "How New Leadership And A Unified Entertainment Division At Disney (DIS) Has Changed Its Investment Story - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBGU29wU1lVclpoMEZRd2tSWF90M1ZqdnJzNmlPM3BOUEFGQktxMWQ3VVVHRXlvcWtCYVY5cU5ROUVBUUVPVmRubFVuYl9zdDJ0c0JzZWhRNWFTTUtkTWx1eWFJX0VGMm1HX3pOY2RiQ1Q0NTJaeENNZkt4clVsQWZiY0JqUXBtcXVsZXBaSXp5SjJkdGlJV1R4Q2NybHJLLWlVMmlMSzFBRlZuNkhQQXQzMURXZVJ0d3hHTFVrVFJUd9IBxwFBVV95cUxNbHR5NzQzblhXbTZfbnF1bi1fNWJEU2dDQjBDS0F2MF9IX1JPcFVzUHJOVTFQay1ZajFtdUtWT01TVDdXZGR4MVRNLWQzb1VITndVbjhZamdmTXB0cHpEVDlvdHZ3aUpUUjZWQ1ZYVnJJUGlnd0pNaTFwQVVhZWVGaEdIazYzM01EVklEYmJJNnVoT0pSVjQyWENzTEZQQVdLbl82WWZlS1phT2d5emR0WnNIb09HaG9IM01uV1JyVm8tTy1Od3lF?oc=5",
+        "published": "Wed, 18 Mar 2026 16:23:32 GMT",
         "source": "simplywall.st"
-      },
-      {
-        "title": "Eli Lilly Stock (LLY) Gets a Rare Downgrade. HSBC Sees This Problem Ahead - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1F0S21NQnVtT2diQk9CbFZXUGJrLTRiMmpqTjRnSHZfdG8ta1R3T01QdmlhOEU2Vlo2S2w3TnRtSE5PNnU4bzkwbEpxa0s5Zjdxd1NmVDNnSE81X0tOLUFUMTE1bHVkelJuWmJRUUhhQWVhbE9pN2xuRHRFRGE5MFJBd2FxNjFKZS1hanFsdEN0Wl9GOHhGcVNPZzBZM3drWGc?oc=5",
-        "published": "Tue, 17 Mar 2026 15:26:54 GMT",
-        "source": "TipRanks"
       }
     ],
-    "JNJ": [
-      {
-        "title": "Assessing Johnson & Johnson (JNJ) Valuation After Recent Share Price Pullback - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVU5wcXYxa3dpcGZvVXFaWkdadElENF9sYUhRQlVOcnFmb0RMWnE5MjFGRlg1cjJjSG1wcDFObExlaTJJNXh1SExSOUd0SjFieXV4RTZfMWVNRHhGNXEzMFI1d3JxZkVxZ0hWX2NHT3cxbzlaYzNRQ3o0T1JtS2dfWEp3MU1LeWtSTzF0cExNdWRzVDV6Rm5ybF9xemFwMEQ3LXlHRmRIZGZXa0hTRXJoVjhTZXY5NmVGNkkxYlJvYkdkYWR5N01BbFRYZlJ0d0thRVB5Z095RlFHQ0ZKenVLajZB0gHnAUFVX3lxTE1pV3NQMlkyeXJxTEw2QXlna2F1VzJ5WWRBb2VOUFdNRk1ZeS14eXRDYUN5ZkNOSnUwQko4cDNvcnBwOWlyeUFFX2VRcDQ2a3dCMFRkbnBVU0IxTUhSUFlnWnFlaEJYLUhPbHFnX3FlTXdsNmJoQUNTMWVRNXVMcGtvbFBmM1ItVWhCVzJHQVZ4VVZFa2NQM3pPYlhVNTQ3MGVDTnd0Z2RMTW5NX0w3eXRwQ2dTQmNqZlcxUnhfZnc3d0I2NEFqeTJWMlVFRFJ3ak9VbXIwTVg5UEVodjRIYkZGcVFxVmo5RQ?oc=5",
-        "published": "Wed, 18 Mar 2026 03:40:34 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Johnson & Johnson (JNJ) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQllFdmRGdHFYOGIzTmhVNldCYkl3Vi1GQkgzX2Z2bHlLNXJqampZOU1RUmxFSVZHQ2tJcFJiRklucFlOQldrdDU3dHhPNmRmOXBXTmhDNXhzeWRGWWQ3aVZyTmpWSHl0TXRiTnRPNGtYTlJrMDhzV1Jid1l1T3AwRjRVeXg?oc=5",
-        "published": "Tue, 17 Mar 2026 21:45:02 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "4 stocks to watch on Wednesday: T, M, MU, JNJ - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcl9vUVhERmtMMTdMUHlkQWI0YThseVFDMU1nRlhyeXZqYkN1U2tjdlUtcGQzbXNfemVDYXdxcUlxVnZvbFZLaW5iY29KYTFYUHhPSTctZ2FpNmtGZGg2OHlablU2TkQycFpDSmtVLWZld2NOajBaY1dyd3k1aFdFLWVQdzFJZw?oc=5",
-        "published": "Wed, 18 Mar 2026 12:55:04 GMT",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "J&J or Merck? Key Factors Investors Must Weigh Right Now - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaEREWEhfekNEOGdHZVJIU0xvU0I3QW84VThfeFd6U1h4REs0VFFkOU1LWWVlRXBnUlhiZkhvMjZuelNlYkQ4N0ljd0xVSmplUXVaQjI3aWNSLWFXOTJTdUdwYmp6VEFTUnlKajF3aUtCOWhCejJoWFhIZWJLejVieUZCS1hDaGU1c0hRMGRhbk1ZQ0U3QUJ6U1F0VGxEWmFHZlhyVXZvNEphcVI1cUEzYUlsNGZ6YVVSNFFXUFc2bFFRZ2JMUkF0Q0E2SjVvREtxVW93?oc=5",
-        "published": "Wed, 18 Mar 2026 15:15:10 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Johnson & Johnson (JNJ) files 13F amendment showing $555M in holdings - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmw4a1FRanpmSjVpTmhHcXU5UnZfclJHNWZXbnl6UlZJNXZJSmZ1X0VIN3RWZGF1WGdyQnZ6ZU96cF9VYnpzUnNOLUtDWG55U2hGdGR2dkdjUVFPdVRvUkxIZkdyRUlWTmFyd1Y3YUtKZDIxcWo0ejhIYUdVYnZnRTBJSjFZS3Rib0pfWkFrMmx6cTJwLVpwb243eW0?oc=5",
-        "published": "Wed, 18 Mar 2026 15:57:35 GMT",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "After A 55% Surge, Is JNJ Stock Still A Buy? - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkh0ZWRqbDFSYnQzOUxURzg3bDB4djc3eFpXQjZXcW5IYzUtZGJxdmtuN3RtSF83Q2R0Rzlwbk5xMkItajNqN2lETFNBNHdpTjBreHZWbmRudnZ5TWFXV3JpTDNyaWlncDlieGJTOWY1RWxsUmJ5NmxMRnl2REVlUDhWYWFzLTcwYlN2RzZsaUlHREppWkJjUDBMUUNXSktVSlE?oc=5",
-        "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "Johnson & Johnson (NYSE:JNJ) Stock Price Down 2.1% - Here's What Happened - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlIyZDhQQlJNYmZkdXM4RkROb0VxYmc5RHBaTEVVVFgtS0ZOYnQwOGpkNzZWSmVTYTVWQ3BrY3ZSSzVLUGJ2WDJhQkJNdThFSTQ3OU15d0JFX2pNTnpYbDc5WjRWclhuQVNDanZURGx3TUZKZmwxMzFSX2VPcEtUcjZmelVtS3pPdGJGQm5fLTRkS28zQjR5eTh5a0ZENUQwemxrZ204X2ZSZmFUUlNGa3hlajBrSXBV?oc=5",
-        "published": "Tue, 17 Mar 2026 21:57:46 GMT",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "$JNJ stock is down 3% today. Here's what we see in our data. - Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSklqVWNRYVNxNEZtcEszVzJCaTdqSk81SjZmdTFuZ3ZIV005UnFHYUtsUE9kNTV6Qy16STYxVVVGQU5kR1ZhdXFnTnc1VlhKcXFROEM5VVFzVDFlUUE0R2JHWGhUVmVuXzVDN0lrMzA5cHR2NjVoV1NnZkRpczFMZGt6OTVxOTczSUVWMVNUWW1fc0RuVnNsMTdoWTdfQTA?oc=5",
-        "published": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "source": "Quiver Quantitative"
-      }
-    ],
-    "UNH": [
-      {
-        "title": "Where is UnitedHealth Group Incorporated (UNH) Headed? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXdFSjc5OS0tVlM4SmpwSWpudHVPU3FLTDlObHdSVU5GUlJhZUxralMxUnczWXJPYjY2V1FUalVZNmFkck5KZlVacnlmWWlMUHdJNDVmZE1wUFB5ZVEwcXo1ZndXSnlnWHVSUHk5Ujh4OGNKRUozNnc3UjNaVHMwYXdtWDM1QzJTWEdJT09mODU?oc=5",
-        "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Is The Bottom In For UNH Stock After Its Dramatic 23% Slide? - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnVzalR2NldnQ1R0V0NlQnhINkNPZkdlVmZNbS1wemNIVk5HemxXWkJPa2hUbW1wVVJHVVB5UVc2d2J4ZEF2RVRhS2RpREZzN1ZPY2k2R2tQUFpLRndSUzlacnUzRDYydmVkQl8xVm45c0Z5TFJ6UHpPNEtSaFlZdkdQMXRRaFRVX1A2alJObE9OMkVVbHFLVzlpM3NlQzZ4UHhHZy1QaHFhN3VfdUt5TWJvRmRYZmF0?oc=5",
-        "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "UnitedHealth sets April 21 date to reveal Q1 2026 earnings - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU9McWd3eFhSRWg0SnRzRHczay1kZHBzNjhWUVNnVjladU56SGhLYlY4UWgyT3laazNnaWhkNFlTZG50VVFUcllzZHYzM2JrQUN1SkF0dkJZcU0xNXVXMnpKNzYyTXhHTXlMUnl1Rld5Y1hVUGstMU1XMjFEbXBUVzR6YUJHN2p1cjEweXpoQzI4a3BkYlN6VTNEWGltS1FzSVE?oc=5",
-        "published": "Tue, 17 Mar 2026 20:32:00 GMT",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "UnitedHealth's Stock Might Not Rally Until This Number Improves - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmw0UVVDaWR2a1VacW9JcWxZUmo4NkFzTGItOW9qS3h1SW1obVRKNU1hOFZ6dU9oY3ZaSlpqc05UTkhPUHhUbFdVTEVrXzVZaHR5NFdNN0VPV2VBdlZYVGxrQnlGZm5vc1Z1QVBSYnVQemFlNENYcmNDVGFiVG5FWWZKRHREWFhCZk80Ynlya0V3eUl2NDZTVg?oc=5",
-        "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "UnitedHealth: A Golden Buying Opportunity (Rating Upgrade) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnc3TFM2NmRVLVp2aThyN1VIaW5FZXdFMGdvVDE3WG55R29MMUd3LTU5cVg0RGNud1lldzBSYUxwQ0ZKNXMzNnI1eXBhcTJDWHk1NVZwTlRBRTNkSWJta19TLTZHQW9qNjJfOG16dkIzeHpiY3haNi0yS0VzY1UtZy1RdkZBdkZWTzRVS2h3?oc=5",
-        "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "UnitedHealth Group Incorporated stock rises 1.2% amid dividend payout and analyst scrutiny - AD HOC NEWS",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkZHMm9RT2kxOUtydVFpSTd5R01mSkc3TE16VGtNYmNTVGEySG42a1hkSHNVSjFPaDREMlZDeDZLdHd6TU5MTm16UE9RenBsdGh0b2xVUFV1T3dUTGFVd1REWS1XZTNwbDg5a3JwNVhRdGZ0YUVtUmNZSndTY2NQWnlVSy1HZTYwNS02bDQzWU9RMHBfSHUzRXhacVBKTTNEVElPQWlySEtEV0g4QjFObnVlQkZVOHB0elE4LTIxMFNvTmRGZmpR?oc=5",
-        "published": "Tue, 17 Mar 2026 06:30:44 GMT",
-        "source": "AD HOC NEWS"
-      },
-      {
-        "title": "Danske Bank A S Invests $195.30 Million in UnitedHealth Group Incorporated $UNH - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnJLdHFwYXY4WUlsV0x0UjNmYlM3QVlqVEh5S2huaFl0SFFZeDVsTENhQldJaEsxX05IUDBpSGNDTkZLWXJnT3RNYUtnaEtFSHVUMWFUYlIySVFoUmpRVjl0QUY0bkN2Q1Y4aUhvbkVaWHRDOGZzSlZtSVpYakN3bzdwUUpmQTJka0FVaE9uQmxRb0FLS0pOZ0JSbldZWkktUVJMd2QtWmZ5WWlIbjhtQ3lhcUdnMmdBYmR4TmlCZFE3VGhVZVkyZGJSby1qa2FuT2kw?oc=5",
-        "published": "Wed, 18 Mar 2026 10:37:20 GMT",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "UnitedHealth Stock: Here\u2019s the 110% Upside Case - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuX2dSWEotbzNOOXExd2k3RmlpRHFESGRGMzV3U1BsYTdORTZYZDB3ZF9jRm42N2pyV2U0NjRHTi1nTkxtenJsZGJPaS1vS1NkVDJySmswMzFaamlWY1g2NktySHZHSW43M21WeS15dEs1RFVGZG5QV3J3?oc=5",
-        "published": "Sun, 15 Mar 2026 07:00:00 GMT",
-        "source": "TIKR.com"
-      }
-    ],
-    "ABBV": [
-      {
-        "title": "What triggered AbbVie shares' latest price pullback - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDNVNTktMHEtelh6TGVsYkJzS0YzZEVUZnZDanRvUGRVRF9kR2xmSkJQMXlCX2pVOXM4Q2xEanMyWWc2V2JURERfNjhKUEpWMlFXNXNrd1RNU3JTeE9vWjhSVk1OLU5OTHlZSjA5RkJqNlFySDVtY2pSSkt4LV9Jc21oVnRIbno5Q3FBeVZRZ3RFNzRuYk1pMQ?oc=5",
-        "published": "Wed, 18 Mar 2026 14:49:31 GMT",
-        "source": "Traders Union"
-      },
-      {
-        "title": "SPY is down 0.6% today, on ABBV stock price movement - Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXE3YWpOUzc2ekdBeXZaamNfbkFQNzJoZy1icDZaYVlLT2lRWjVIalY1VC04blpSY0wtZ3B0NjdHc1dkbmM2SDk0czlNUUNCV1loM1J2dXBNZDVYNG5UMThVckU0UmEtbHNLT1QyaDhiUm1JUVhVSWJnMHhiZlBxVTJWdC1GN2l1NUx3SV9lcFNHVlk?oc=5",
-        "published": "Wed, 18 Mar 2026 16:16:00 GMT",
-        "source": "Quiver Quantitative"
-      },
-      {
-        "title": "AbbVie Stock: EPS Set to Jump 45% in 2026 as Skyrizi and Rinvoq Dominate IBD - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0k0LWJtb1ZfWXVKR3BxR3YyejVSb1FIaVYzSmVFNmlhb1RYRDE3eGp1NUtMZFBsdUR6VGFKeFBzLTZVVERVeW1IeHFMajI4Y2s3QVJmbG8ySlhpd0dXYWl4T2s3RmVsb0lBbUJjMG9wSEZVdHc5a1JXUFVhbW1fN1ZzTUVJREFZSHktODAtMUFoc1BqSkxrREJyYUp3Qk1qdkE?oc=5",
-        "published": "Wed, 18 Mar 2026 12:41:14 GMT",
-        "source": "TIKR.com"
-      },
-      {
-        "title": "AbbVie Balances False Claims Act Risks With Alloy Antibody Collaboration - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUm1QNUhKUTdnWUdLOTgxeXdTQkRMSXQxd1d0bWdwdWRFdzdQT20tQ2xTTk9UbkRWNlgxb3RBQkh0bWpGamxpWVV5WEdMZkFyQlJyN2JuMy1DWmRiX1JnN3BOd1JMQlNRUnJ3SWVObXoxNXA0eWRydURzUWozcmdzdWxSNE5jLUY0TlV4aDZfaDA2cGRYcnFLdkxaZnVsX0xqVGVjR0ZvSDNGQWZ5eUN5azdEeDJuc0JjNk8wN3dNX3E4SGxxT1ZPdXhMeEstS1FEemFFT9IB2gFBVV95cUxPVmV3UXhLTjI1S2RPRUlCZ1lkcEZsc1dHNUE3M3dQYWdLRk4wZWFGUHJZRmRXXzRaX2FLcFVUVV9HUDJGMnJSVldyVWlucVpKTmQ1WGdPMHp0V1hNLUl3TkdOdDlHRUtnTFNEdFNzS0JvekxfYjdsTFN6bXNPb0x5OWxxS2lIdjNQbS1nWDF1S1UtY0hUWE5aVWtiV2pIMkZ4WU03dmtRSmdGZkMwTEwteTRtU1p2eDdXcFdWZlBuZUNCZVd5b1BwdHNzbmcwdEYzdG1jdVRpVE44dw?oc=5",
-        "published": "Wed, 18 Mar 2026 08:30:47 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "AbbVie (ABBV) Stock Drops 5% After FDA Approves J&J\u2019s Competing Psoriasis Drug - CoinCentral",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnJRTHNUSzRIeGdpSkE5bG10MlFVTE5oUW1ZM0JZdGtEM1ZOYnNIQThyYVFhRTRNSGIzbGt1OVJiSnp5b2JVeU5HcW9ieEs2LTFwMmdJTVBVNFE4MGkzb2w0MUlPa3pULVRmUUt0dk1MOVlrNnVjSTlZTVpYRG1Qb2RwWmQ2MzlKbUtJdWo2LW9ZNmJuUGdhRWE1bm1fX3M?oc=5",
-        "published": "Wed, 18 Mar 2026 17:52:22 GMT",
-        "source": "CoinCentral"
-      },
-      {
-        "title": "AbbVie Inc Stock (ABBV) Moved Down by 4.60% on Mar 18: A Full Analysis - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlF3RXlpNlB4QzFrXzltazNGWktnalVQdV9XQ1JsMlo1V0pVMzJRaFBIN2NobURWREs2dmI1SzJVZllCalhVTmpyRjRHR1NlYVVTckFoZFFCWkctQ24tM2wxUkxyTUFCSi1tWXliV3FnSHlUcENmUGktYklvYXRUMGRIQ2tSR0taNTM4?oc=5",
-        "published": "Wed, 18 Mar 2026 14:16:05 GMT",
-        "source": "TradingKey"
-      },
-      {
-        "title": "What's Going On With AbbVie Stock Today? - AbbVie (NYSE:ABBV) - Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWU1ucEk1WHRva2stU2FUdThYU2F4YzZKMVRIVzVKVXlBMFlmMktpOHVoSklFWUVIaE5ZSGRrZXJjZUJlbGROQTFOX0U0OEtGeVdZSmpXcnVIdU5UNXNzVERWWXNPVWR3eXhtRzk0elRvR3ZSUzFXNHlhRy1vMHdVblZsbDY3Q3N0cVlyZUcyUlhabkpCTjRFZkZDTXN2RDJK?oc=5",
-        "published": "Wed, 18 Mar 2026 16:26:00 GMT",
-        "source": "Benzinga"
-      },
-      {
-        "title": "J&J\u2019s new psoriasis pill to rival AbbVie\u2019s Skyrizi: BNP Paribas - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmUxRUczTjF4MHV2Vk9UNHY1b3F0OGRpdmRRbEgwNTZVaEpVTDFjQmwzSlJ3bHhCSTE4eGNVTVhlckNUUnlWeWh0MTNaMXZvSmtXNndVWWo4eElMdU1tTmEwRkg1QVpNVVJKOVNVbl95ejVmckdOWXpDb2pqX2wyUWRELU4?oc=5",
-        "published": "Wed, 18 Mar 2026 15:06:19 GMT",
-        "source": "Seeking Alpha"
-      }
-    ],
+    "LLY": [],
+    "JNJ": [],
+    "UNH": [],
+    "ABBV": [],
     "MRK": [
+      {
+        "title": "Assessing Merck KGaA (XTRA:MRK) Valuation After Recent Share Price Momentum Shift - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVThCR0xaNXF6MTBZYXR3dURCZEk1U0E3dlZRYi0ydkFncXNLaGFUN2NwanhCbjNBR01QdkVXZHlnUFRJaVB2NWtGcVNSUEE3eFdLZWtZdXV4ZTZ5SG01VGt3V3FEdmFaZ2xGa2xTRjZrUm5sOVYxZk1KSHVpSktnMmMwYk8xRGFsLXdvcWUyLUtoWGIwMWFlUXpsQkFCcEJVLXNjUmJKc3JWZnc5MmZOU2c0cy1CN3J5eW1hcWhxN29QZ0pOSjE5NURWVVowRzd2VVY1aUM0OEYxTDI2SHlZQ9IB5gFBVV95cUxPOFRSc2xrcElJTk4tQm1tbmltTVFKdVVUWkRhSE9mOXZMcXdpUzRnak1vbzdhVE13V0FDZV9nSGJYamh2d2JMRzhoajRSQ2dad3VxZjFXOTl4TnBIdlVwc0doWVIwUUFXOFpOODhfU3dEMXdRbnp4QWNaMGtxYWlaSTNWckVpdnh1Y1BtRngzZEk5WmRDR0RTRnZIUUU5MGN4bGg4Y0JYVHN5MmFmMzdNdTBDTU9qY0FqNFFWazA5Z1VIVEotU2NLOTA4Q0hDbU4yUEtGWUN4WGxBaXZBNUNCdjhWb0g5dw?oc=5",
+        "published": "Thu, 19 Mar 2026 19:15:19 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Merck (MRK) Stock Moves -1.18%: What You Should Know - Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGlBMlZ0VllrNnhDWk5wUnlwSGIycEVNcWkxV2pYaUhfUFFxNDhZY1N3alhVRU15dTEyT2dHTGsteDhsd3QzczN5Uk5MNkhzMWdGZHk0c1VCUlZDWUI0TXJmZVA4UEw2c3AzaDB0TUhRaTJ3VDdOYjFycS1HdEtOSVZ6WFk4Y2VvVnhvdjBLUV9FU0Q2WjdZc1pQUW5wTUVseTRYNlFB?oc=5",
+        "published": "Wed, 18 Mar 2026 21:50:05 GMT",
+        "source": "Yahoo Finance Singapore"
+      },
       {
         "title": "Merck and Its $70 Billion Pipeline Bet: Why the $182 Target Price Looks Cheap - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTBQTjNPdmxaa2tTNjRPY3dERC04RUlFU0lYc3E1cW9DOEhiSjFkMjVUNGtZb1FxMDZ1STVDS2tCTWtYbUhJUU1pdDhlVWE0eVBDbGJRMkF5WHhIRlZ1ZzA5RkhBd0VPZmcwVFN1aVpWNGtSRGxhTjdRekRwaEVkQXYtcmljV1pUVWlNdUdfckhpTFZkQ1F5TXk2WVVudXB6Tnc?oc=5",
@@ -1817,110 +1584,55 @@
         "source": "Forbes"
       },
       {
+        "title": "Merck wins FDA nod to expand Bravecto label (MRK:NYSE) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekE0MFVGRHlYN18xMUpzU3ZWV01wTEZpTmtIVTNiZkhFNlJWVmpFRnA1bXo1eW1YbTRzMWZDRDI4dFFpOUdaZFJaQ3hseVZlQy1acXhwd1FrV2d4YXlOZlNXdWwzTGxGMTF2SE5QT0JoS2pKUFR5TGRZakZHYk45SEt5YUc?oc=5",
+        "published": "Thu, 19 Mar 2026 12:16:36 GMT",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Merck (MRK) Shares Drop 1.18%: Key Information You Need - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83SG83Tjl4ZXFwbWJQZ0lYQzZZaFE5SDNIbnJNLV8zcGhpWkEtRzJGQ2VVWWZudGRsNG9CWHpLRFJsUm5RTzB3dFhvQzZrRktBYWpkcW1fSEpCQnduWE1TazNDOS1BZVHSAWdBVV95cUxPN0hvN045eGVxcG1iUGdJWEM2WWhROUgzSG5yTS1fM3BoaVpBLUcyRkNlVVlmbnRkbDRvQlh6S0RSbFJuUU8wd3RYb0M2a0ZLQWFqZHFtX0hKQkJ3blhNU2szQzktQWVR?oc=5",
+        "published": "Wed, 18 Mar 2026 23:10:00 GMT",
+        "source": "Bitget"
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Merck, TotalEnergies and Union Pacific - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ1VmR2FzVzhiczFTNEU3ZHBtR2gtR2ZiRWdmMkZvUnJTdG5CNzQxSVE3ZUpQYV9mcWtpM05TaGM0SmFOTkxhR0JkaHZ0UzVqSkstV244ZW1vbkpOQjNxbGhpT2hPRjBqLVdTaDBvNHAyOGxkQnBlTzNST1NBbjgycUN0RVhjVUl4dGJYZG9FV2c2M242d0pxYnBHR3J5Snh2SU9FMXoyS0hvTHVFSDhsLXlhSjlqX1BSbkZpeThQalNYRGFZRzVONVlsTzdHVkU5b0ZyTVIxaVdDVHBKWXFKTzQ0WHFyeV92TXc?oc=5",
+        "published": "Thu, 19 Mar 2026 14:58:59 GMT",
+        "source": "The Globe and Mail"
+      },
+      {
         "title": "Wells Fargo raises Merck stock price target on drug potential - Investing.com Australia",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamNOYmd0cTc4ZDhobFVEdEV1eWlfeThhQnlMR0E1OXpORDFpVFRkRzV1V3RSWFJfMWFFbGpzZ0stTlRBMzEtOG1LTEtDODgxMWgtQ3VTcmhtS1duN2NsS3RPWUQwbHNVV2dGQmxmQ1c5dTFTOW5VUUZFS1ZreGw2cWN3aGpWdDZaTzN0blM4OWJXODhtUVN2S2ItbTVWdFM1MmlHM3V2YUxLaHY0V3dRN2llV2NiY3FpdGxnbg?oc=5",
         "published": "Thu, 12 Mar 2026 12:39:43 GMT",
         "source": "Investing.com Australia"
-      },
-      {
-        "title": "J&J or Merck? Key Factors Investors Must Weigh Right Now - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjJTdVJCRlJIeGtiMFVUTjBPMU9MUGlwTGpVeEd5OTFobEUxQW5oWWdGV3U2VmxNUmRYV1Jna2NSWVlfLVp1SGczbUJFTU11c2VJOThsNWlZeEItazhhQXZLTHNuZjlnZkV2cHA2NFZoRkdjUF9tdTRaS09WQ2hRcU5WcUZ4NFYtblhWVUx1N015ZFN2WUNVdm9GYktkWmpGaWl2RWdiY3VwcWFNd1VvYlFmVHg0ekZjYlotSVdMbUVycjRhb1NraS1xX1dCVlh4dG5N?oc=5",
-        "published": "Wed, 18 Mar 2026 15:15:06 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Merck's Stock Gains Modest 0.38% as Analyst Upgrades and Pipeline Momentum Outweigh Vaccine Cuts and 105th Volume Rank - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsOU5tZ1JIbkVJVks5SEFEd3U0M19xOXl2LXRaMW41bWljal9KOWZtYUNCWHhLQm50YjBlVnVqMFZkdzhqbFZFb1VROHk5MXN5djc5UUY2LThXWjREb2hnMFlOa9IBY0FVX3lxTFBsOU5tZ1JIbkVJVks5SEFEd3U0M19xOXl2LXRaMW41bWljal9KOWZtYUNCWHhLQm50YjBlVnVqMFZkdzhqbFZFb1VROHk5MXN5djc5UUY2LThXWjREb2hnMFlOaw?oc=5",
-        "published": "Tue, 17 Mar 2026 22:58:32 GMT",
-        "source": "Bitget"
-      },
-      {
-        "title": "Will Flat 2026 Guidance and a Steady Dividend Change Merck KGaA's (XTRA:MRK) Investment Narrative? - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1lPLURKZWItXzVCTktFMldjN3l2SjQxTVk4SFNZd0RYdHh5OEl1eFdhQkN0ZG9QTEtCVlhXMXJuQnR1amxlZUUzQUhZRU5zRmRMVTBCMlY2Y0RpNFdoaFJ5TDdSeEtzSmZYbFRtT1JpVG9XY2VGWWlxV2dwR3E5MWFXTUNtRENwa0xHNy1jQXVwQm1uSFN0QlZHd2RGcDRWQUZWQmZpOHgyTENhSHBrWllNTC1MbzFxWFhISjVpakp6SjZKQ2FwdUNzZzdHc2s5dkZDclpvdUd3NUtya3pfb9IB5gFBVV95cUxPRDVnNlUyNVFPVVNCQWhVd0FsNkFtTmpvSEc5QS1LTGFzMlVLTjV5ME1iNGdhb2NZY2h2M3lrRXZPZUZlSFpFWmttcU5Hc0RaLVZ4d3J1MXc0dWt4UE04b3ljam1BeDhRaUhSekxWaDhhYTQzTXdzeG9halVjdGhDay04aFJWX2UyRW1fT0pQZUI5NktjVDl6cWFLNWlPZHVXNFJuVTYzX2pULU9Ib1lDX3dPY0NYcUUyMk9KbkF3WGlVc29WNEFVUnRFUkhReWkyYlJlLVRKSVVRWVBLX1pta1hPZnNpdw?oc=5",
-        "published": "Wed, 18 Mar 2026 02:29:27 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Merck Stock, Up 18% In 2026, Ticks Another Box. Is It Now A Buy? - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1hMN2NoLXoyMDNTTHhjTkJMQW5uOFR4Yjk5LTJ1UXJSRWdkWmJ1eWU0dXM0WkRqU0Z1TTFxWUUwcW1sVXBNcFZxWXFEOTJDQVpFdHhhVjRsYjYxdjlGZko5V29xMTVrV0VnaWFsSDBYU0NZeEdtakthV0w2UldqSVFMTGJRcFNoWjNBeHFsNzd2b0RDTTZKZFFRcw?oc=5",
-        "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-        "source": "Investor's Business Daily"
-      },
-      {
-        "title": "Merck & Company Stock Forecast 2026\u20132030 | Future Outlook - Capital.com",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MWktOSWJuTjNTbU1EZWVEUHlJeUdBNWc3ak9TN0RIMTFCQVRNZmpZdTRDMXl6aHhobXNoTTc0a0VNWGlhdno3RVlCVzdKazdmV3hxV1l3WTN4Tm9MeDQyY0UwbjJOWUtBUXdKbWtrSFBBZXdMSEF6UmNlQ3pBZw?oc=5",
-        "published": "Wed, 18 Feb 2026 08:00:00 GMT",
-        "source": "Capital.com"
       }
     ],
-    "XOM": [
+    "XOM": [],
+    "CVX": [
       {
-        "title": "What's Next For XOM Stock? - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXJNTlF4VEFEaDlvSTJ0bXJtc3dvUkc5Ymw1T0FfY2REWXZCM3dYbkxzNkRyNVYzUVk2eUVXNVN6d25QbWI2dHdlV0ROaWlYVTRKZFB1X1dyTTZGOWk2MGhCSFdSTzMyVURqalhQNks5OVQzT3ZKa29RN1MzNXVmRU1HSWFpcmoxaTdN?oc=5",
-        "published": "Fri, 13 Mar 2026 16:02:57 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "XOM.SW Exxon Mobil (SIX) +35.04% intraday 18 Mar 2026: volume spike, trend watch - Meyka",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTlzcHR1LUpRV21NZU1jU1lvVXNlOGdsUHcwUWE1a1dObVI5a09aUDlYOTc0d2NWcjNXRmhZN01MV1l3dGNiZ3ZQZVpIeUM3UVlFR0lWelE3SjhfblZGWUx5RGdKZkp5MFhVaWs2VWFGcUJpMjY3TEgxNUgtZlNwRjRXQnRzY1NmdUg1ZUhHN3BmQV9ER1JfZE1XekRVZ3NFbnZj?oc=5",
-        "published": "Wed, 18 Mar 2026 13:30:14 GMT",
+        "title": "CVX Stock Today: March 19 Suriname Shallow-Water Drilling Signals Upside - Meyka",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVk1emNIcW5BdkRSZnFaNTlBZW5zNHdvMUdBcWZraHo1MkplRzMwRTdkQnFjX2NiZmxva01RVFpDZEY2MkRNZWNNYXd3dDFERW91QVVWc2U0SGVZUDhfZnFBUm5Vb2xBRDdUOEh2LTdESmJfMHp4N19XM0VrTExDcnEydXUwN0p5djllZlF3OE42NWVpck1XdmlZN2J3NlpDYkE?oc=5",
+        "published": "Thu, 19 Mar 2026 05:31:25 GMT",
         "source": "Meyka"
       },
       {
-        "title": "ExxonMobil (XOM) Stock Rises Amid Energy Sector Gains - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkZ6Sko1TmRhajNXbGhtcTNraHhIaG9xajkyam94Qmp6SWpoenEwaVlua1BoVDJVYWZURkVLclVSakdJVzhfLXBMWmxjb3kycjBXVVR6bW9FLXlFZDktSUVuamZaQ1hLdkJnV1ZWNEl5Z1FiYlZZdzQwQzdZMmxNQU1SVDBUdTFkMlZ5TkFTQ1V4UzdJ?oc=5",
-        "published": "Wed, 18 Mar 2026 13:22:16 GMT",
-        "source": "GuruFocus"
+        "title": "Chevron stock hits all-time high at 202.19 USD - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDNhUGlqaTUzcGowLUFVUV9yMjQ3U0E2cnh1NUJDeEtmS0RsY2FnanZzUjFjeXVyMlEyMXh5RkxvS09iaGpIT3gtOGZvbTdYMnZacTVqTXpHaml1XzEzZU1xZFhKVko1WS11cVpFeDNHSExXaDJkNWY1YkhianhmVTVqN2ltLWE2T2YzTnFoblhlLTVOUzdBTFJNTVBCR09IdldF?oc=5",
+        "published": "Thu, 19 Mar 2026 18:27:05 GMT",
+        "source": "Investing.com"
       },
       {
-        "title": "Exxon Mobil Is Up 28% Year to Date. Here\u2019s Where the Stock Could Go Next - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSklkaWFrQnktcjRZbjk0ZE5UNjdJNHRHT0h4TmRlMURFbkNEMXV2V0ZPQ0IySEdPcnYzR2I0bEYyRFNybTJCOVlBU295c2xjLTdxMFEyTVI2cTJoeWpXUUszbUktd2tWWWVxMS1wSkJOMi1tU3RydFNJamtJc01Lc1JUZGJ1a3VPQkJES0RFci1EZnE5WVMtUXdCRQ?oc=5",
-        "published": "Thu, 12 Mar 2026 18:39:55 GMT",
-        "source": "TIKR.com"
+        "title": "Where to Find CVX Stock Data: Real-Time Prices & Historical Charts - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FUFBIOURsaFpXWGVnX2RYV0V3RVhFMWhERTZCMU9jRFEtRUM5WEhzYXVjaGtwbURfbnVKcVUxcjY5WlhFRnNnN0J2QnotcHdNUUVoNGo4M3B1NUhkd1HSAV5BVV95cUxNRVBQSDlEbGhaV1hlZ19kWFdFd0VYRTFoREU2QjFPY0RRLUVDOVhIc2F1Y2hrcG1EX251SnFVMXI2OVpYRUZzZzdCdkJ6LXB3TVFFaDRqODNwdTVIZHdR?oc=5",
+        "published": "Tue, 17 Mar 2026 11:43:51 GMT",
+        "source": "Bitget"
       },
       {
-        "title": "Josh Gottheimer Exxon Purchase Draws Attention Amid Strait of Hormuz Oil Shock - Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0E1VHFJcW5KQURVX2JxcC1lU0RqR1BXbjJRbGgteUpwVnhkNVVrNWl1SVRwaHRkT2xQLXNnR2VqcFJFaVE0Si1CZHpwTGZEaXQ1Q3VxWHBUclFBR3BQUTdXdnJkSmtmMnBHcGR1VC1LaWtoQm42SGpEUm11dVlhNThoRk5kVHIwdWo4MVFiUGNta2pfaFFIOGpTLUZlRWl3aUFZRkFsVEg1cW9fLTZLZw?oc=5",
-        "published": "Wed, 18 Mar 2026 03:44:00 GMT",
-        "source": "Quiver Quantitative"
-      },
-      {
-        "title": "Exxon Mobil Stock 5-Day Winning Spree: Stock Climbs 7.2% - Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMF9fVzZ0bVRmVk9mOEw5QmVnYUt2SW1MM3Vod3F5SHk2ZzM3Z0Z2RTlSN21iWXVabklycnZPbEdaazFFY28tODhGdXd4TnVmeTNyT2VTX2lPdEpndmZlaTR6ZDU1cFJnc0k5THBsSVN6U0xpV0hSZkNPRUNSWDNpVmNKaHFyMUFWUWxOMXJpQ2lrVVU3WE9FMnJ6SDMtWXRyWjNMb1JRSVBtZ2hlaHIwUkk3SV9lRjR6cWphUzhycmZmdw?oc=5",
-        "published": "Wed, 18 Mar 2026 12:04:10 GMT",
-        "source": "Trefis"
-      },
-      {
-        "title": "What Comes Next After This Energy Stock Popped More Than 25% On A 'Tremendous Run' - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTGR1TVpjQnN3YVhoZFFQMTJLWm9JYjBObGk2QkxickdiT3loU2xNM0ZFODlGeUVqQUl1VnJfa0pCbjdoSUxCLTJTYWZ3cVlYRWpJaE9TVlVjU0s0OWdWSEFXNWVwQW9SakFOV2xHVFB1UlZaSF84?oc=5",
-        "published": "Fri, 13 Mar 2026 18:01:00 GMT",
-        "source": "Investor's Business Daily"
-      },
-      {
-        "title": "Is It Too Late To Consider Exxon Mobil (XOM) After A 44% One Year Rally? - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnJMRV9VOVQ0YXZZM0xzTGRqdTFqX1BGclQ0cEFrenp2MWZyQnp0MmE1TDZpb01HbDBhNS16dThIcWJiMmlJVWNJWUVVZHp6Xy1qYXZaeGZ5M3hoanNGNWYybkdKZ0FlaFhuRGpXWjRxRkVfSE5zTUtPSmhNcVl5eFV4TEUtVXBZMEc0enE5a0ZmbmExNXVCRUl6anV0VVdJQmtBWklQN25ieHo3YTZ1MnlRNFFUdFJyMUFSaXRON3c4T0XSAcgBQVVfeXFMTjRMeTR2b25keUFycTFSczRoY19mUno5bHFPQi1UY0FsUFlPQ09seGZDdjdLa2xrUGpiWFhyTGdVbkdPSWRmTWhGRnk0dEFyOG1IMHlXYjl4c2daNmNYNm9KeUFEcjRaLVdzTEdXNWltdlBEV2VkY0xqRzQtcHV6SnZZWTRGLW5LNnJpeXYzWVRXbElqeDh0UVdodDdTYXR1dm5lODR5cXJ6azlwNE1RVFNBOW1ES0xVSzlyb3RmZFFHYzFfTUp5Y1k?oc=5",
-        "published": "Sat, 14 Mar 2026 10:59:49 GMT",
-        "source": "simplywall.st"
-      }
-    ],
-    "CVX": [
-      {
-        "title": "Chevron (CVX) Valuation Check As Strait Of Hormuz Closure Lifts Oil Prices And Investor Optimism - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmtBV21jdGVhS0tnQVRJLUUwUnVGWm1FRVRZSnNtUk1hODFHTDV1NHF5NVJ5VU5UTWJoWEM3VE15cm5ZRVE3aVcwUU9UN2RwYWVaVWVHcUwtYVAxRlJHSXJWenh5RWZRSksyYVVEMnlrR0FtTzdHbTRpN1JQSTNpZ001VHBnMElERVdIWHBFUVBDSHVoYktiR0tPUkE4TVZmYV81VmFjQlN1UlAyYmU5TFhBaGFLelEyeDdwN3Nn0gHDAUFVX3lxTE9jdlFHZGxXT2J6ZVJjbXBjZUgxcU1mcnU0SE9wUHVnTzN4T21wMXc0aFFLNHlQeng2R2JPUy1IbmgwYV9MajdqLUhfUE5wUkExWDdzVGpGY255aWpDdVkxX2pacHlEdDVMVHRRQTQzQmVEd05yV2Vyc2FrX3hPVEtCRVhHTkgwdXdYMXl6TGhjaHA2cmRIdXVMN0NJZDhYNV9PUXF6My1UbVhjOVdLTVA4SXVHeXNsUmxjQmlwc09WRzdTNA?oc=5",
-        "published": "Wed, 18 Mar 2026 09:33:43 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Could an Oil Deal in Venezuela Boost Chevron's Stock? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0o1YVdDUnVTU1pCMzVJNkJ6TjM0QlF1R01GdndpbG1iTEJvSm5RWTlkazNqNnZSV19UU0hkaFc5MV9rOHZMeExpMnZLRklnSkw1RUFELThzSjVLbEl1azdQZ043d1c3QmtUZDZIUUNKMzNTT3ZUcEhhNnZXVXZzMVNaS0xSSF95NF9BS0stanFxTlA0c2IxWg?oc=5",
-        "published": "Wed, 18 Mar 2026 11:30:00 GMT",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "CVX Stock Quote Price and Forecast - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MaTZwb0FqZ3Z2ZnE0Z3JRWHBSSEp2WVE2akwyUGVQd2xQVnVkWkVaVlJNSnNXNGx0S1pNVnRtbkRnTXdPVzczMXgwSkM3bFU?oc=5",
-        "published": "Mon, 16 Mar 2026 09:01:33 GMT",
-        "source": "CNN"
+        "title": "Chevron stock price forecast: Overbought signals as CVX climbs to $201.99 - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTdiTjZNd0JRU3djVmFleVV2RmpSU2RnT3pyVF9XQ0VySzg5bGhOQ0pQWHczaWVvRV81OVdScklvVUN4RW1Lazd6WHg4WWM4eld2b3h3amVLWVVTLUotbUlHdXU2bFJGNkVQWjNjaWFkcnFid0NmbkQ0WTdlZklJcXBYWS1kNHhvS2FjWF9IR1owT1hPdnMwYW5jSWxCUQ?oc=5",
+        "published": "Thu, 19 Mar 2026 14:47:22 GMT",
+        "source": "Traders Union"
       },
       {
         "title": "Does Chevron Stock Have More Room To Run? - Forbes",
@@ -1935,31 +1647,19 @@
         "source": "NAI500"
       },
       {
-        "title": "Caterpillar and Chevron Anchor Dow Jones Shift to Texas as Stock Exchanges Launch - Disruption Banking",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUElEWUQ1MG90dXJmR2V5WGRBZVZodWRsdElRZE9LamZVQUl1QkJlTkdyMmhVc0JTc2lVaEszNTFIcGNyQXNxWTdkY0pKanRLdk5OSjBwenUtYmNhRDYxbGZpUmtwWDdmRGdZc2hoZkYyNTg2czBqM3FZQ2hmWjhxeWpkRnF1eWhqNnFweGxpTUxRM2xjZ1ppTjdDem5KOUlOQllHd0xSUWFzZENmMERpMndyelRlcHIxb3k3aGl0cmYxem1FRVE?oc=5",
-        "published": "Wed, 18 Mar 2026 15:20:21 GMT",
-        "source": "Disruption Banking"
+        "title": "Chevron (CVX) Valuation Check As Strait Of Hormuz Closure Lifts Oil Prices And Investor Optimism - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmtBV21jdGVhS0tnQVRJLUUwUnVGWm1FRVRZSnNtUk1hODFHTDV1NHF5NVJ5VU5UTWJoWEM3VE15cm5ZRVE3aVcwUU9UN2RwYWVaVWVHcUwtYVAxRlJHSXJWenh5RWZRSksyYVVEMnlrR0FtTzdHbTRpN1JQSTNpZ001VHBnMElERVdIWHBFUVBDSHVoYktiR0tPUkE4TVZmYV81VmFjQlN1UlAyYmU5TFhBaGFLelEyeDdwN3Nn0gHDAUFVX3lxTE9jdlFHZGxXT2J6ZVJjbXBjZUgxcU1mcnU0SE9wUHVnTzN4T21wMXc0aFFLNHlQeng2R2JPUy1IbmgwYV9MajdqLUhfUE5wUkExWDdzVGpGY255aWpDdVkxX2pacHlEdDVMVHRRQTQzQmVEd05yV2Vyc2FrX3hPVEtCRVhHTkgwdXdYMXl6TGhjaHA2cmRIdXVMN0NJZDhYNV9PUXF6My1UbVhjOVdLTVA4SXVHeXNsUmxjQmlwc09WRzdTNA?oc=5",
+        "published": "Wed, 18 Mar 2026 09:33:43 GMT",
+        "source": "simplywall.st"
       },
       {
-        "title": "Chevron stock: Technical strength and institutional buying fuel price gains - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHhwZ3JrNlpxSlR2cC01Y2ZPNnBfcmd4QjYyeHhFTjBYcmpZNlIzelJmTnN1UjlxbU4tamFXS3BuS0RIcTFGWWVMSGt3VU1nanl6b1IyOHlPcmJzYjFhaGh6SS1heks2X3JKalJMbnAtMEVLUVVIMXF0SWh3UGtYNl9HYi1CWV9XQi1nWFI4cGZtSHhkS2JEeWFBSmg4OGc?oc=5",
-        "published": "Wed, 18 Mar 2026 15:02:07 GMT",
-        "source": "Traders Union"
-      },
-      {
-        "title": "Why Chevron (CVX) Stock Is Up Today - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0lTazFjdE1BZUNXREhVTVhEb0ZIOGJxQl9WRlZVdkZwb3NwOWdTOVBudnFueEtsVzFSWU12cUFKaV92UHlRVVZ5Z1FnYl9acDlBSzBVWmRSMFhjWDE1MEFEeGJncHRNckdSVzVQZVhiV2JoVGFmVXM2NTdTVTdMUS1ubTJSM2NRa2pzOFFzbWl4Wm5GaVdNNmJB?oc=5",
-        "published": "Thu, 12 Mar 2026 19:40:48 GMT",
-        "source": "TradingView"
+        "title": "Could an Oil Deal in Venezuela Boost Chevron's Stock? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0o1YVdDUnVTU1pCMzVJNkJ6TjM0QlF1R01GdndpbG1iTEJvSm5RWTlkazNqNnZSV19UU0hkaFc5MV9rOHZMeExpMnZLRklnSkw1RUFELThzSjVLbEl1azdQZ043d1c3QmtUZDZIUUNKMzNTT3ZUcEhhNnZXVXZzMVNaS0xSSF95NF9BS0stanFxTlA0c2IxWg?oc=5",
+        "published": "Wed, 18 Mar 2026 11:30:00 GMT",
+        "source": "The Motley Fool"
       }
     ],
     "COP": [
-      {
-        "title": "A Look At ConocoPhillips (COP) Valuation After Recent Share Price Momentum - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHFqc1RkcFhnTW4wYU92bU9DU1huYlV4WlRlV0VOZVN0SmlMMzJFbVFURzFqeUJobFctNUpFNlRhMm9EZXJnaGRCSk9NcElTMXd2Um5BY2hGV19HZE5SUjZNd2EtY2RIa21YekVHc0J6ZkJHUTNWYmtZOW9NQmR2WEJWZE1jZ095ZHE4WWpFYk5teE5faWp4NDJmaEJtczAwSFZIVTc0RHE4a1ozN0dlRGROdjVBNmJ4bmRTc2c1Z1htSXF3bWhz0gHMAUFVX3lxTFB6cmRkUnF4eURuUUZNM3Q4VmZpOGF0QWNvU2I4dGhsaGg4Zkl1Qm0yaWlTUDEzc19RVkZHY2Zta0dCMDZiYjJodVJIZGp6S2ozd3hDY3dEMFpoWlVIY0s4UHc4MUo3Z2tEMmctX0tLX3cxNmpnTXVIckxuU1gxbU96S2Y4cXVFX1RYV0hQOFBNNndPUGJ1RjhOX1FjNVNGSHVZVXJvUjlJZWxSQmFXbWE5X3RVd09JNG02akpST3ZldW0yOWJWZVNIU1VlTA?oc=5",
-        "published": "Wed, 18 Mar 2026 03:40:34 GMT",
-        "source": "simplywall.st"
-      },
       {
         "title": "Is ConocoPhillips Stock Going to $200? - The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjJVaFY1RXdHRk54QTNQRjF1am5LWmRIb1p6bU51VlpadmZvQkJxVXBONElBV0ZDOHBaTXFQNHhDOWZXYjNqd01CblN6YW1ocm5DdGc1SDB5cUZpczFSMFJWU1M4bjRpQTloTmlYRnpWOW5WUGJxTUN4U2lRX2JrSTc3cTVJZw?oc=5",
@@ -1967,103 +1667,54 @@
         "source": "The Motley Fool"
       },
       {
-        "title": "Rose Kelly Brunetti sells ConocoPhillips (COP) shares for $1m By Investing.com - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzRFUVZ6ZEEzNXR2enUxaUU4VUEyTEtXRnFpNl9KUDZhMFd2a0dnU0xnXzg3Vm5XMVFvRUNEcmxIQW9IcEVqcm5KZEtPSjZxbU5hN1RTT2xtdFJoRTBYR3FtcThyTGwwWFprQ1ZaR0hzZzc2NUs5NHJMVHA3SGNmT29yYmU0N2pzVWR2d2t6SVZmWUtVekRvM1dTMGtISFBMTXJsd2J0U0RONXhLUHhEcXh3VGFSdDdCaEp3M21NNA?oc=5",
-        "published": "Tue, 10 Mar 2026 22:06:49 GMT",
-        "source": "Investing.com Australia"
+        "title": "Northern Territory cop reunited with dog rescued from floodwaters - Stock Journal",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUo0TUJ3Y1dsMGFLMWU2WWh2SzQwZEQ2WkwzVUZTMndqdWpla1ZfNmpkUE1xeWl4dkY1RmVRWTNtMldacEdFSW91SERrZk9XQTVhQW1ubFlKZHUxWjBmeWRkUEstZEtUTUJkY3E2OXZ1UE5mX3FqTlZCd2FEcmxoYmRYMWUzODc4eW1JcEo1RUVJc0F6NEpPelQzOTUzYjg2V1JDMG1vc1ZoSjNIQ3h0emhR?oc=5",
+        "published": "Wed, 18 Mar 2026 03:57:20 GMT",
+        "source": "Stock Journal"
       },
       {
-        "title": "ConocoPhillips Executives Engage in Significant Stock Transactions - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUsxUDJscHNhTXZJZ2IyejdOSVJ2ajJKZE1IeDF4YkVWb2Fmd1J1QzdPbEg2UWdtSzU3cGRNR0thOEc2ZzBpTy1wbWhhX3FDaU81X1Z0X2Q3VWgtZk85N09ORFlIZ1NVclpOamxGa2tMaWpUcEthT2g1dDJzQVVXZDdCaWtCOEEzb3h3N0hBaWRBVVluem9rdjRya0tMNWdGVnFJMTJlSmFOUmhmQXVFai1hZ1d6WWcydklnT05qNnNKRWlkcElv?oc=5",
-        "published": "Mon, 16 Mar 2026 20:10:01 GMT",
-        "source": "TradingView"
+        "title": "Does ConocoPhillips\u2019 (COP) Permian Sale Talk Reveal a Deeper Shift in Its Geopolitical Risk Strategy? - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemx0akg1RDIwdldmWm5NMW93ajUxcGlVX1I1NWRpWlFaMDNiVUt0b096TUpXLTZXYUV5UlRnV252TFR1eWRROFYxVXcyZjM1Tlo5NlYtSmU0T3NLemZWTG0xdzNTRlhNVW1YM041d3lhbEhDVVRLRVJHd3pxNFVaOHBrZ19hbml4bi1zWkJ3REdKZHJYZzlkdEdZY3NfaExsbUpfbGExNk5GZHROcUIyajdWLVhYY1VjVEh6NmlWeGw3ZEhUZ3ZZ0gHMAUFVX3lxTE9WM2daU29kZmU5TDRKVnlIR0g3dms0V21MY0xObng0ZG5XM2JNa2FtdmcwLWxQdkx1bUNPUkNNcWNZaElEaDR0aWJYSFI5aTFsTGR3SGxpbjhNQXg5MEw5bW5FLVBSbDlnMndxMkZsdXA4djhCZ3p1ZmxtTWpzRWhZNlJ6c0tPSjFQaUtGLUxRaFNkcVV1eGVuSkRBa0lKaW9xdzNNUEJobjBzaThMbG14SGtoMTJCeE9IaUNzY2JnYV9mXzlRNGZYMEhXRg?oc=5",
+        "published": "Thu, 19 Mar 2026 06:10:34 GMT",
+        "source": "simplywall.st"
       },
       {
-        "title": "ConocoPhillips Stock Moved Down by 3.02% on Mar 4: Drivers Behind the Movement - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlRVNWltMWZObFRWZ2NsLUE2TF9xeHgyV0NBN1RpYldUUGd4VHk3UHo3VXZIWEhfbVdqOHJtUUI3SWstb2FadF9OTkNhR09pd2xFck1EMkVaUUVvN1dRc2Fxb2tyUjBoLTBKQS04R3FRNS1yZW1LbnRWN2FaNnRMcg?oc=5",
-        "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-        "source": "TradingKey"
+        "title": "ConocoPhillips to post Q1 results before market open April 30 - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnNYRDZuY1pKMjlKNWpBekxUYmVOMW1jXy1IczBTNFJwSHpsSHBjejVXZXQycTZPUzBZSEx3SVBDTkU3UGhydU5nSnFfb1pyRWpBbmYtQnpzMFp2Q1JHcjhTZFFkaGtMOVVoeUZRRWJmZ0xNYmkzMl83N3JaMjd5V3BNR3FobGUwWG1VZTJHZ0UzWnRrZVhoWU8wN3RSbjlZZzVSdTBuVlVOTVZHanNYd2dfN2NvTHhESm80?oc=5",
+        "published": "Thu, 19 Mar 2026 16:00:00 GMT",
+        "source": "Stock Titan"
       },
       {
-        "title": "ConocoPhillips stock jumps 4% as oil spikes on Iran conflict \u2014 what COP investors watch next - TechStock\u00b2",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdk05S1J6dVptWUhsZTBGZkhqU003SEk0dUJNSFhFQ3l2cmxNUWFEX3VBOElndVVxTFRkaldDaFNsWkg3Nko5SEg5UDFKNGpvUWM4aGxxOEN6U3pXSENqM0RrMzVDcnZJMzRub085TUpPTWszNTdRU09fMHNfa1g0VUlIdjZFSFdpQk1neEI0ZDFTVHFDbHZxdmJObklNWGNQNWhVZ0JzaUUzSXpEYzNN?oc=5",
-        "published": "Mon, 02 Mar 2026 23:45:00 GMT",
-        "source": "TechStock\u00b2"
+        "title": "Why is ConocoPhillips stock up today? - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0VBSnJyVnJtUjFsMHoyUDUwem13aUxrY3RtMHpjVm9SdDJOQ2lVajVPTk56Y1lOQUdHOXZGM1I0VXpsTDd4RjM1alFzR0E3TTdDLUlsSHlTcXJlaUJZWmNFcUduaHZnb1lUX21MLWZTLUFVZXpZYVBSRFFDZFpDZl9FR3NsUzk1ZVE0XzZLc19FcXdjWk9vX1BKMEVMRTJoYTMzMGphVQ?oc=5",
+        "published": "Thu, 19 Mar 2026 16:51:17 GMT",
+        "source": "Traders Union"
       },
       {
-        "title": "ConocoPhillips (COP) Stock Hits 52-Week High While Insiders Cash Out - CoinCentral",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc25MUHRHNXVnOG9fMlladjczNnNOZzlueWtPcXJfTHJ0eWFYR1pxeDQtX3VKb2JVQTVHRjcwVXh0clBGZnphZFBuMy1JbDFZSnp6QzVZZTNOT2NRLXhXRkNwRGJ5T0R1QXJhU094Z3FqQ0plMHlwaE5rM19SQVQzTWNVOUZGTG42LV9mdThDdmtHUWJDUnc?oc=5",
-        "published": "Tue, 17 Mar 2026 16:58:55 GMT",
-        "source": "CoinCentral"
+        "title": "ConocoPhillips' Stock Dips 0.47% with 30.47% Volume Drop Ranking 102nd on March 16 2026 - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUjJlOU1WVWR1QXJ3VTdpZ2tzRlpKdFY0VDdYekVpRlpMZ25kMzVLZUVSVHd6TmlmY1ItTmdpSC0xUk1hMWZ4MDRRVlNyQ3hRRF9Ebnp1aTBxZFBPeno1a1Bqc9IBY0FVX3lxTE8xUjJlOU1WVWR1QXJ3VTdpZ2tzRlpKdFY0VDdYekVpRlpMZ25kMzVLZUVSVHd6TmlmY1ItTmdpSC0xUk1hMWZ4MDRRVlNyQ3hRRF9Ebnp1aTBxZFBPeno1a1Bqcw?oc=5",
+        "published": "Mon, 16 Mar 2026 23:08:37 GMT",
+        "source": "Bitget"
       },
       {
         "title": "ConocoPhillips (COP) Stock Gains UBS Confidence as Willow Project Advances - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHIxV2lTcFA5U1VnVzlWdndONlJNTm9ISUdaMVlhRWZjbGR4ZTdYQVFzX0dzNlN0OG5PMVFlUzRSdXRqT3lJRUE5ZFpZaEF5Yk5RTWRoeXVITk5PZEViMTktOU12QU5VaFB2c1QzWHRsVm5YQTVyVWV5S1Z6bU9paUZBYTFoM00?oc=5",
         "published": "Fri, 27 Feb 2026 08:00:00 GMT",
         "source": "Yahoo Finance"
-      }
-    ],
-    "SLB": [
-      {
-        "title": "SLB (SLB) Laps the Stock Market: Here's Why - Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1OHZ4WEdNdWl4UXMwdHg1RVlFVlFRV3Y1aHRmV1BaTzBJRlBmTDNsOU1ibFFxdjVtR0Q1SzVGUkpKd3lBZUFZYVdhQ2ZzU05GSllXUXRvV25jSlBUQTBVWU9HZmxZR1lYbXkxTUxVZFFqaVhRZ2lVVmdBek03ZWc?oc=5",
-        "published": "Tue, 17 Mar 2026 21:50:04 GMT",
-        "source": "Yahoo Finance Australia"
       },
       {
-        "title": "BMO reiterates SLB stock Outperform on Middle East disruptions By Investing.com - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzFuaTZKTU1TRFlfSkVoSHl6cHhLT25ZUy1NMjU5aWp5S3prMEFYTlhBSkd5MDFad0dYUjE4TE9BLXk0TkJIYXFvcTdZcDBnb3FRUm50ZUM4cnJMUURVcnQ1NmI2elNFTTZrdHZoVmo5VURMMDhaaHpVR0ZFVDFLZ09yMDhCYjdLUjhLSjlocXFCbUpYMWE4LTFiSlluU0theUZXQVZ0cUhRZURDUzRsSEdieUt5RmN2UElCa1RR?oc=5",
-        "published": "Thu, 12 Mar 2026 15:11:40 GMT",
-        "source": "Investing.com Australia"
-      },
-      {
-        "title": "SLB OneSubsea Expands Subsea Tech As Shares Trade Below Targets - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWljRXZLblplUXVCMkVDRlAxYm1CSUpqV3h3T1lwS3ZsSTlLMTlIMkRaQkNlaE40bU1yNXc2cUhWdmdLaVVOU1Jyd3pqM2lVbzZpV3dSYnlsZnJsaTRuSGhwOHU0ODZJYVluRUdmdVRSZkpYdTBNb2xiSkQtZ0Y2TVNEM1M4UXpKT05ZS3R0WFlDc3pUZWJfSmpidUpBel9EamszcDB4WF9JUE5rekpENjZtQ0dFUmNx0gG-AUFVX3lxTFBxWUVTSWpWc1ZoMDhqQjJrMS1Tbk8yc0Z1M0EtZjRHdjVSLW8yelg2Ri1rUHdzRDl0MjFXeERaQ3Y4a0NOLTJRZkltQmtVVlppZkVaMTY4SE9IMUpaOHB3YmpGNjdSMU1TTWpyRUdmRUR1WXBTaGpKRUpWSUxvQjIzNXo0ZE5ya2dhQkpwdUJ2TXJWS1NYSEpmWVhHQ2dUQTZ3a0RXY2diRVBQazNNWjRDSTBpc25zamFwUGF4eXc?oc=5",
-        "published": "Sat, 14 Mar 2026 20:26:06 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "SLB Is Up 43% in the Last 6 Months. Here\u2019s How Much Higher It Could Go in 2026 - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3p0RGpKNGVXX1NXMGx5ZmpSekhlc21vQUdvcXFGWUNMSTVLU3ZOSmZSWE5DRjFxdHp1aXVGeU1wS2h2VWMtaVphcnlWMmszN0NLYTZtVFQ4dUQ3N0ZoTGMyVW1FcldqSFktNXVmRVBOdlp4SHg4cXpTTVY2MEh1Um1JNklFYVEtX0ZJa1lfRUFoTEM0ZUlJNHJsMEFqdDJLV0hR?oc=5",
-        "published": "Sat, 28 Feb 2026 08:00:00 GMT",
-        "source": "TIKR.com"
-      },
-      {
-        "title": "One of These Oil Services Stocks Is Pulling Away From the Pack: Baker Hughes, Haliburton, SLB - 24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcE1BRTZBcnNSeHIzY2ZHbzJRSV9PNTFvM1h6M24yX2dFMndzRGQ3SUprSnFKZmd4VmVCWDcxZmRRRFNDazBHQUVteV9BLUFTMmNva05wb3dGSkNGQWFVVm5ISzdxenYzLWRGV2dWWVo1ZUxEU1JuQW10RWhaUXRFUWFseE9aWm53bEc2ZlRPY2FNQlJhenVoTUpqbnZYTENjWjlQdmFrYlF4bmcyQXkySUd1RGNQODRidExvbGxlRmM1bEIwOTgycDNjVkJFLTQ?oc=5",
-        "published": "Wed, 18 Mar 2026 11:40:31 GMT",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "This Is the Best Oil Stock to Buy Now, Says Goldman Sachs (GS) - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnBtalhhTGFtdWhVRHIyWnZQYTE3SmdkMXluUW9hQlBmYnlVTm9RNlRQWEVuNC00SHZKZGx1cVJ2NkNzQmFSNGRSdW5nYW8tU19sUEdQa2hJTE5ucHNVbzVfOVpETVM0YjgyemJnNVN6UUdXSUM1TXBmYi1jWjV2TzNFaUVSX19OeTM1bjJTdUJMRW5oWVdnSlk0dDYzdw?oc=5",
+        "title": "ConocoPhillips Stock Moved Down by 3.02% on Mar 4: Drivers Behind the Movement - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlRVNWltMWZObFRWZ2NsLUE2TF9xeHgyV0NBN1RpYldUUGd4VHk3UHo3VXZIWEhfbVdqOHJtUUI3SWstb2FadF9OTkNhR09pd2xFck1EMkVaUUVvN1dRc2Fxb2tyUjBoLTBKQS04R3FRNS1yZW1LbnRWN2FaNnRMcg?oc=5",
         "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-        "source": "TipRanks"
-      },
-      {
-        "title": "SLB stock price near $51 after-hours as oil jumps on Strait of Hormuz fears \u2014 what\u2019s next - TechStock\u00b2",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3Z1d0g1RWk2OXpvOWJNbVZpeHNHRTlzNzl2WWZYM1FwZ1ZUSERxMVF6VGlaOFRnQnQzTG1RMXQxMGVMVTh4eGZNV2diRUo0bi1Mb0FTdzV4QlRtZkRYUUVkVVlTR0huZkFkTC1sVWdkNWNLWHR1QjMwOTBRZTdNTGk4bmFmaDkzR0R1UUxrQ1FYWkJ4QUNKVTNuZC1IUXJ1SjlIQWVuWWR0QQ?oc=5",
-        "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "source": "TechStock\u00b2"
-      },
-      {
-        "title": "SLB: An Interesting Proposition (NYSE:SLB) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Gel9GMHBPTmpxZDZyTVZEc3g5NnJZYk5KbHE0UmVEdXJ4ajE1bnRXVzhOUURNcTRSR2hOZ3U0YmVUMzR5UjQwbzRESlBpZGdZcVhjRkx5cGRTS2ljWnVZN3MzR1cyeGhTOFZDaXNIaFQxSEhFTTQzTC03SQ?oc=5",
-        "published": "Mon, 16 Mar 2026 09:34:59 GMT",
-        "source": "Seeking Alpha"
+        "source": "TradingKey"
       }
     ],
+    "SLB": [],
     "EOG": [
       {
-        "title": "EOG Resources Stock 5-Day Winning Spree: Stock Climbs 6.1% - Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkp1VGlwSVJuVXN6alduVUpCQWZNWVNaNm1XWGhDMVJ2ZXJzTV84VVkwWG1EanJCX24zT3g3dnNOYUVETXkwUmk3RWIyWHBHc2tOQ1kyX243aWtubVhDQlRaS2JpWWxRWnRRUW43cWctZDVzSURxSEFPZEtqNGRwWTRSd2pZX3VMVG1JY2paNGFyQ2RERkxidVZUUEtHcGhYcWEzekJIWFY5R3QtRWVMYlBZOGlHM0tlVlg3TkxxOHd1RVEw?oc=5",
-        "published": "Wed, 18 Mar 2026 12:04:10 GMT",
-        "source": "Trefis"
-      },
-      {
-        "title": "EOG Resources: Near-Term Boost From The Iran Conflict, But Fundamental Risks Are Rising (Rating Downgrade) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjBFbm9lQUs0WDBFTEEwdHZEVi1KbUhwZVRRUTFmVkhIM3B2dzVrV3Jua0pXZWpHNGF0N3VUaFh2SGpPV0JnWlhfVl8xQTVPZlFzN25hTmhQdy1yUWNhZlpuVVNSbXctVUtITWY2RFdqY0d0VWR0STV1LUNjZTkwbktMbG90cGF5UGdWdmtyWFB4b0pjc0JEbFpKdExlX1VMMGF3NnJlSWpwcWQteGZYNG5ZWVlQTG8xb0E?oc=5",
-        "published": "Tue, 17 Mar 2026 20:06:10 GMT",
+        "title": "EOG Resources: I'm Buying American (NYSE:EOG) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJLS1jNTI2b0lXRG9PbGt1aUZjcmowV1VEc1JEUkZDZWZGbWthWkpHaVM2czdMa0xiNGJUdF9xMkRrR1BId2hhX3YyYlhjYjRGa0ppN0VSWHNSLVNuTjFMaHNrb2lCWW9SYnBGTUZHdl9abjZRZm9kdm0zbk95Zw?oc=5",
+        "published": "Thu, 19 Mar 2026 12:00:00 GMT",
         "source": "Seeking Alpha"
       },
       {
@@ -2073,34 +1724,40 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "EOG Resources stock hits 52-week high at $134.42 - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzQ4UWFKT3pSd081Z2M3NDFzWG1CRGEwQUtyUFFJT3JPWWU0d0pKWERPVFNpTGNkNU1Hek9EOHlsQkg2TlE5VGdtQ3l5aF9ET0VRUU9HRzBLOFR6dEFlSVFkNWpIU0FGV1RrcFlpdTN1aHhYS29fX0liQkZxTDQ2N1Q0UjJkWjNGNjdzV2ZoVXF6WmRvX0piV09DUDc1dV9Sd01r?oc=5",
-        "published": "Thu, 12 Mar 2026 19:59:55 GMT",
-        "source": "Investing.com Australia"
-      },
-      {
         "title": "Is EOG Resources (EOG) Still Attractive After Strong Multi\u2011Year Share Price Gains - simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamlQMEwwbGpVNXptM0ZpX0dlVEc1b0w0R0hyMUJMOF9HQUNYcUNMTWpKOVdIR1N3bFJsUXlWTDgwV0RPcE5LeHI4RnZ6aGUxZnJZM1dOY3hneGJTOVJ1Y1gxcHBHVkRYT3VNd0VWeFJZanVPXzdCeWhxZVdReEJueHVmOVA1ZGJpbDVTV1JYVWdDZGZpWk96d3lBVkw2R1dvWGJ3Yno3NUFiTGJyOEVnb0p4WXlCRGhUbE0wT3h2WHpWUy1pd0HSAcsBQVVfeXFMTlQzMTQ3OHdqZHBXVWxSVHZ1VnhUVmhpTXBodlQ1VEk5T0JhNF9pdlEyYlo5bGNGTVUwLW96TlNRX2JjaTJnSm01UjBYUi0wQnBDTWdHOTFvZnBlbnZCNHhqVHFvUGRIVjVOeGhmOVloc1MzdjhaRDZZQV9vclBndlB4cVlPRXFkS1lmYWNINkNJTU93X3lqb0lMUmpYUjdVUGlNdEg3aHY1bnU1cFJuazRXd01TMXB4TmhURzBIajJjLTVscWl3WjRXRHM?oc=5",
         "published": "Sat, 14 Mar 2026 23:43:44 GMT",
         "source": "simplywall.st"
       },
       {
-        "title": "EOG Resources shows market leadership with jump to 81 RS rating - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFFvWUg1NktZbmlYY0NsU3dYTmhuQl9ZaFBnOHlvMlg5LWVZZWxGYUFBUTJUd3JfOUZ2cHhQQUNCaEdVWkxZRlp5SVM2TllrX01WR1lpbU1FeFYtU0VmU25Td3NkaFpKSGhPTmp0ZWtIUE8xNjNUajliaTk0dlE2YUR1TDZVMmZXVS1iN1ZaNDlGLV96WkZOSUc2NUNpd0NjN3FjS1VyOW5ycVZsY00yWHV3WVIxMThRWjRVOFZBNDZOZUdxS05lSDJ1UmYteTFlX0dOZ2JVSWFHTXM?oc=5",
-        "published": "Wed, 18 Mar 2026 14:49:46 GMT",
-        "source": "MSN"
+        "title": "Is EOG the best oil stock for long-term returns? - moneymag.com.au",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjFyWi1lOEJSNy1sLTZiQjdlaGd4N0x3TTI4LUhTU2dqejF0R2ZSNUp3M2RZV0R3NkdiMWhpS3ZWQ011NVhWcnowUXMtRDNEUzlZbkdDOHhIRUQwNEh3MlgtOTB6WnhfSG00R0lCanFXaHB4VWw3QVpMTTgyZ2hIYQ?oc=5",
+        "published": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "source": "moneymag.com.au"
+      },
+      {
+        "title": "5-Day Rally Sends EOG Resources Stock Up 6.1% - Trefis",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRW90ZmhmQThBbzNTNmtrWm5LOC1UQ0NqZFI3SjAwNGVFaTZnOG5BRTlaMUE1OWtDZmVHanlOMG5YVF80NlpCd0F4U0gtQVpreGJEZ1hKcXJ3R25YVGN5cjFyUDRjV1FERFZ4Y1RvekJuNjNWTUNrUU1wTGN2VW41Q19HZkFzdHBhbTVWV1VyUXFNVkt5bDV6X21B?oc=5",
+        "published": "Wed, 18 Mar 2026 11:50:52 GMT",
+        "source": "Trefis"
+      },
+      {
+        "title": "EOG Resources executive vice president Leitzell sells $484k in stock - Investing.com Australia",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHRXSVgwSFlDU0VfYVRQSjkzQWNZU0hPMDJPUVc5X0lscU4wRlQxYll6Y0R0Y2VJWWZ2ZjBQZGkzZWpFVEY2OVRhaGVxbzBKc2ZtOFhrM2xpcWJVb01aSnc2c1Zrb2lKbE56Y1ZWSUdTZndYVWFuTmV6ZzVjaWZxMVVxR2taNklHbzhOSkhoZVVpS1Q4bXNRREFEcElqMWM4Tkc2cnUzdWk3RFRJWjNVYVAtQmFnQ3lEVzJwZTVNbndsZEJ1WHdLYS1Zcw?oc=5",
+        "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "source": "Investing.com Australia"
       },
       {
         "title": "EOG Stock Sees Target Price Increase by Mizuho Amid Neutral Rati - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNWVdtcm9aSnl2Zzg2eWxIU3dpNGRybkdXMDcxVVVTeTk2dGF2Q1RnX1RWOTFiQks0clZIZFFyakRRZXROMzMyLWNUNnZ5SjZyYkFWYnM5V3E2blhzTkdnQnh0aHQ3cnQySzFOVVNzOGgwcVQ5UHhlQ3h1Vmw1bm84aGkySkwtdzMwYVhYdXN4d0NraXpKQUlfSjZ0Uzk1YzQ0c21HTTI3TW1YdENORnVGRm1BRVE1bXJqcWZEc0F1Q2QyOEFiWlZZbW94SU9OUzVCS3N6RHAzSmlEZ0hVRThGc3M0Q29qWU0ydTNTMEtnZGFyWDNKbENwdkMtdlU3WWJPQ2daUTE4aG9oNkw3M29YN1FaUDVFXzF3UDRVbXNQY040Nk9sZ3k0NUdMb3pVZHdLdWMtMW5wckNWYkxLZlNsVjIyenl1TEJPQmpoaUJRWjJzbWZ4ai1DRzNNdERPR2c?oc=5",
-        "published": "Wed, 18 Mar 2026 00:05:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzZKLV9ubFI0Q0FoTTdSYU94cENFbXg2bjllamlJMEpJeFFRX0Z1V2pLWl8tWjdoakY3RVFMM1M5WkFWRjNoWDQ5Uk1qZnRqbFMwUHhRdTRuOFlSTC1wT3JHZW01bjU1eWoxU0otM2UtYWUzazRHMDFXZGE1eUhmMEwzX1J1b0RUVnZlUUpHQkIzbnNuT0dBa1NXM0p3bUlTOWs1R3JuMFdZUzlVdlozWjBBWTBPT1FqYUYxbw?oc=5",
+        "published": "Tue, 17 Mar 2026 18:17:28 GMT",
         "source": "GuruFocus"
       },
       {
-        "title": "Is EOG Resources (EOG) Still Attractive After Strong Multi\u2011Year Share Price Gains - Sahm",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1FkS2VoTFp3TTJ1M1pIV2FXRDUyeENPYWhLRWRGcFNDTXEydlBBSWpQWmdMMkFJdV9VemNFMFZvT3RTRUNEU3pxUVM3cjRmV0tVQTBoVEdLdmYwOUF4YWk3WWo4cXFJcXdIdldlTWQ0N2czdGliX3NCQ2s3eEdaVmpZZmpRTktsSzRyWk02c3ZRUEUydm95ZlJMQlRwbWNMSzZ5ell6M1Z1UnJXMzRuT2J5QTlhdXlQOWJNeUNXYW1lWF9XSmNUUTl3?oc=5",
-        "published": "Sat, 14 Mar 2026 07:00:00 GMT",
-        "source": "Sahm"
+        "title": "EOG (NYSE: EOG) Form 144 notice: 4,161-share SAR sale planned - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlF6OEUtLU96NkRwX2ZGU0h0V3JaSGdjVHlUZ2IzQ3ZCZDE2aTlUYllYU3BkWklNY0liT2lHNnh1X2s0TFNTckRXdHZLS3J2QVAzWmZoYzFISVp2eUNDWmt4UGZJSkxKd20zazIxNm16U0ZjaE5pZkZ3RG1BZjFKSFNxREZxRmoybGpiZjNDWk8tLW90ODYtZA?oc=5",
+        "published": "Thu, 19 Mar 2026 17:51:28 GMT",
+        "source": "Stock Titan"
       }
     ],
     "NEE": [
@@ -2111,16 +1768,22 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "A Look At NextEra Energy (NEE) Valuation After New Data Center Power Expansion Plans - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUHoxQUY3MDZGcHQ3cHJ1STNUUXctTXdMVDlIczJldHNLZDNxVTMwdWE2QUhCaW1hZVpCNFVxdGNVeHdzN1FnX2pETUYwb2VXcU9uMW0wQjZJTFJKTmdPdkZIUE1sU2lRUGNyNzFKemtYZzl1ekJjUDhnYVhRZzdZeU9FbGhNNGpmY0hhRHI4S215Mk00U1JBcnMxdDJRWXhfandWZGhFaEY4ay1jdXdSekVoQjRfSkN1bjVLcWhCdXVvVDQzam8wSVhFRdIB0AFBVV95cUxPNXQ5Rk12RlZuRG5CWi15YkJpcWs3b2hheVM5Z2tqZUtBMEtZRWFpNU1rZjRKQ1FyYW9RNWRiWEJrU2VLS1pucTlFQ3BiQ0VsaUZURV90b1A5aS16bmx1c0E4TV92Ymo2aGpVMFlBWTNjbGRDVGNtS1VwQ2dxMGxacmRyaTltNnhkZ181S3UteXB6U1JvbjNWbnlWLVFtWmJ6SWllbFRxTUJiSnJPdUN2ZVlsbTZiZUlXWkdtbGtmOWtHRzhwalRWOFVBYzBMcnYx?oc=5",
-        "published": "Wed, 18 Mar 2026 02:20:05 GMT",
-        "source": "simplywall.st"
-      },
-      {
         "title": "The AI Energy Crisis Is Real. Here Are 2 Stocks Positioned to Profit in 2026. - The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0NKOUdWdnlHakVKektkQU5PNGstaFpUZGhhV1QyUkpvR05FRmFINU43QjVXMjZjeVBqMTBldUpEODJ1c3RmNFYzaDlHZHBVSGdIczR2Q2NESC1rVzdrc3p4czFnOTg2cmVSMy15RE94Rm1abmIzRDY1XzRyUkJsMXpoSDJ2S3hCSTdLS0oycHJLVjVDTkJ2cA?oc=5",
         "published": "Wed, 04 Mar 2026 08:00:00 GMT",
         "source": "The Motley Fool"
+      },
+      {
+        "title": "NEE Stock Price, Quote & Chart | NEXTERA ENERGY INC (NYSE:NEE) - ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtQVo2NlRLdFU4MkJYREEtbjlnbGFNTGdlaS1CYzlnZGRBSnJLNlpWN1RMdlB5WnY3OVZwalB5cFRXZ0xJcHU5dVpaaGp5bkRENmlRek1nQVA3RUhiSEE?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "source": "ChartMill"
+      },
+      {
+        "title": "NextEra Surges Past Industry Over a Year: How to Play the Stock? - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWUN5ejM1SWVkbks2Njk2YjB3elZwVTRoaHN3UHV3WDMzVFdPbjlLTVBuV1RtZXBTM2pBS0RWSnB4NU92S3hSXzZnNHJkWVJZVnYySmpQSThMWE9sY1h2cFpsMjRBZ1NYNDJERlg5N0lxYXB6ckUxZUhFdTFaa2F2RVRuZVdYNFlBZExQSXZrY3R2X0RpUE4yMWVUNGZqWkE3alFhLUZXMXRya0xPakxyclR1SVNwanRPT2MydEVDeUZndDlKd0twUV9TZW1jN3gxYWU3RTA0N0FmeXI1VVE?oc=5",
+        "published": "Mon, 16 Mar 2026 18:22:00 GMT",
+        "source": "The Globe and Mail"
       },
       {
         "title": "Jim Cramer: Stocks rising despite oil gains signals a new market message - CNBC",
@@ -2129,98 +1792,49 @@
         "source": "CNBC"
       },
       {
-        "title": "NextEra Surges Past Industry Over a Year: How to Play the Stock? - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ09DVXZwYklQSzRiWG1waVVOT3lCcFZiWXhVVmFPakhzOHpCYXg5MVhfV0owN203S2Ftb1pUZE15TXVONUo0Ry0ya0NaLVphWGhUSFFTS2dHVDh4TF9zNURwc2ZRYnNlYnFPdTc5aDJCNjk4aHg2aUdBU0h6eloyMWNzZlZWeW9yZ1A1UHJHVVNsdzN1N0paTWt6cV95c3pxX0RhTjJpRk5KdFNib0dUYjlmSGdQQ1BxQkNFRm5EOWlDUmd1anpHY1l6RzJpWnFaYmZSTHNhU2ZiemtfS0E?oc=5",
-        "published": "Mon, 16 Mar 2026 18:27:02 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Avity Investment Management Inc. Lowers Stock Holdings in NextEra Energy, Inc. $NEE - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUw0OTRvZ3ZnaFp2Nno0R1dGUDQ3Uzg1Y3UwcUttUmRBZ18xd2trSF9SVXlISTdRUHJMRmJqZWZNelA4bkltdUx5QnIxS0FMOVlRZVZGem0xcEVFNVUybjcxNjhydi1LdE9sNDd1S0dmbXRURnkxVFBKRXNzc1JkVkJRMEd4M2JOMmhyQXRqSmlZaDVSVDNjTXB4dDFyR0NHWDk0Y19mbkZwX181M1ZOVEo4SjBHVzJKWkhKdXdSRFJ4TndYamszbWQ2Q3MyeWx0ZFlnNXhpZw?oc=5",
-        "published": "Wed, 18 Mar 2026 08:40:44 GMT",
+        "title": "NextEra Energy, Inc. $NEE Stock Position Decreased by CSM Advisors LLC - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxqQlRocFNPR1V6bEZHSlEwRHRlQko0S19jNndwRlVoSDB6YXJVVEczZ1JOWnkyU3B0NXdVSEJCcnplblBhNW96QXQtZE1jVTFkaC1wb25uVDd3cmFZaVJRbnQ1aldRUEpxRFBYNFNTY0YtSUtGa29DVFNsMmtzZmV4YnVUMG5tTXh0cFFVR1Z0d050N0NDdWtmSmFBZV81YzBMVXdKYTB3UXZIanJEVW1xZWxqYThGU0M2OGRadkh4TG0xa2hv?oc=5",
+        "published": "Tue, 17 Mar 2026 08:23:38 GMT",
         "source": "MarketBeat"
-      },
-      {
-        "title": "NextEra Energy (NEE) director receives 47 phantom stock units in plan - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGZKRk5GZWgyalBWc2J3M2xFZi01Sl9DUDVJYUsxU1VwOVBvQzB6OTE5a08wYTViX0FhM21ub3JZYU1iQ2phc1NDcDNRckhVYUVVZmFJLXI2RnBYZmRLNUNvVHlURGlVUlRTR1R3NWxuMzFYeGd4OTFWT2ZFZmhGTFAyTnFqSUFxT3JwSEVDU19FbFhYZHZpUk41OUI2dVNsYVE2aFl6TWxVTzZQVDhsTw?oc=5",
-        "published": "Tue, 17 Mar 2026 20:07:42 GMT",
-        "source": "Stock Titan"
       },
       {
         "title": "NextEra Stock at $92: Here\u2019s Why It Could Set New Highs in 2026 - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmQ3N1haWHNiOG5BOXY4QnY4TjljRnh6MXI3b3RxU3ZudDk1cFFHR0ZUUFdzRlJNbTE4UGVMeEt1NzZ2VkNQZzFMRkZpOVF5b2FOUGZZX3A5OVdLTDFiNDVDZVhPMVN4SEg4dFFEQWFOMUVCNXF5UVFEc1cxbEZmb2tqeTlkTWZzV2lSU3JkMA?oc=5",
         "published": "Tue, 10 Mar 2026 07:00:00 GMT",
         "source": "TIKR.com"
+      },
+      {
+        "title": "NextEra Energy (NEE) officer faces 316-share tax withholding on vested stock - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJxcFVyUHV5TkdsZXlpZ2tNS2lobURJMUctVkFqZFM2cVhmS0htZFFzaFEyMmwzTm4xQ0VOaTliZXNvTjY2UW5MQnJIQVhiekp1UzlvbVlGSDBYSlhHUGVZU3BlM1l0NDc4cFFRU2JZQkhNbFZWSXotWWxfR2pLX2RaeHMtMXg2U0RucXFlNzRFVUI1cmNINzNjSFBwU3NsV0RvVDNxY2pTZm5icl9Jaw?oc=5",
+        "published": "Wed, 18 Mar 2026 20:09:35 GMT",
+        "source": "Stock Titan"
       }
     ],
-    "DUK": [
+    "DUK": [],
+    "SO": [
       {
-        "title": "Here's Why You Should Add Duke Energy Stock to Your Portfolio Now - Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZmNjYkI3bkphZVZkWU1DdGN1RGltNHFtNjhwMGZtMFhDN2VZSlZEUnNHVjV1Y1M0S0tnakZ1LWhGdFVMUFNSai1HLTNtRW82Q05nU3pkRXNjNzZSUlFDYUplSjdHc3BfNW9qS3ExaFY5MUxtTko1TktZNDdmSHc?oc=5",
-        "published": "Wed, 18 Mar 2026 15:41:00 GMT",
-        "source": "Yahoo Finance UK"
+        "title": "Micron Had a Blowout Quarter and Issued a Rosy Outlook. So Why Are Shares Sliding? - Investopedia",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmdRRm5YTFUzUFBhZG5uVzlVb1FYN2liNF9WWTNrLWpvajVndUZ2QnZMa0dLd0tZLU5sUGhsekE0RlRzNlRNMVRfdTRQMElDT3puS0dNTmo2dndCcGV1czlJVDJHam9uWmtiSmFIS1RpdjdUT0F5NWo3TjdFRm9DSTVmMWluM1BYaE0yLW5JamE3TDk5OGdETUR3Vmd3SVNrVkZPY2taTTJvWDNKWEVKUmdyQXhEaFlPbDFrZDRB?oc=5",
+        "published": "Thu, 19 Mar 2026 15:35:44 GMT",
+        "source": "Investopedia"
       },
       {
-        "title": "Here's Why You Should Add Duke Energy Stock to Your Portfolio Now - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHdZZ3VsZnpVdldOV3BVVmMteHJnTUZsN0VlUWl4Zm5xZ3lPdlc5OXFwcDJQZUQydDl4d1ZzMEdCVXgzaHB0YVQ1Z01wRFpVbFBrTV9ZWFZXWm1WanRMQTJ1dnl2RXdzcmhRVjM5SU8tTjNMcVFReGxJOFp0Z2FvVVJiSEJHY0FfLUhkcXNoNHRyRkp6NzMybVNUc205N2RWWDlaVEdjVFpURUFacU5xM1pBcUNlSnAyeFB1MGdn?oc=5",
-        "published": "Wed, 18 Mar 2026 15:41:00 GMT",
-        "source": "TradingView"
-      },
-      {
-        "title": "New S.C. solar farm will offset 25% of power use at 3 plants - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjVkckhCeGZBZ1l6aEZ1RzVzQnZQRFkxOXdQRVAwMVBjeXdXN3ZoaFhhNEZJZ2lyMHFuSGR4VmlrNThQWDA0NjF4R3pUWlI0aHZZSjdzUmVDQjB3TnhfeFpXSUNEcDNnYjBoSHllR1dzaDRCNS1qRGFSalF0a2wyMm12TnZoSUVreUZBLXpDc2ZLalN4YzZwb3hSb3FfSVB1TG9QQW9NNklyOTA2NE04LV94YmhSTjA3X19NaHFpcw?oc=5",
-        "published": "Wed, 18 Mar 2026 17:41:00 GMT",
+        "title": "Southern Co (NYSE: SO) COO Stan Connally sells 12,500 company shares - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3l4bGpxT19QbFh6aU5Vek43ckVhWVQ3TVdLdnhyQktxVzl6b0JMOTd4elY3WmJuTkU0LXZ1OEMyTzdLTjVRdEVld2o0MkFBaG9EalRfRGYzMlhUVkdUSWhLbkNvR3A5OFMtRWEtNm9Yek5qYW1RbFVyNmlPZWVrMnpUM3daZS1Ub29rLUt3dzZfeWQwOF9fakpEaTItUU5sYm9GbEN3?oc=5",
+        "published": "Thu, 19 Mar 2026 19:00:05 GMT",
         "source": "Stock Titan"
       },
       {
-        "title": "Is Duke Energy (DUK) Surpassing Other Utility Stocks in Performance This Year? - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tME94Vm96YlBITnd6WjA1Mm9kY0Q3QmR2UkM4Sm1ReXZkT1FNbVRtWU56ZGprZEJ0UHBGNHRFNjVKUF9wS0tSd1BRaWE0bWFWZERDYTNuaXZDb2tISmw1NHhyZ9IBY0FVX3lxTE8tME94Vm96YlBITnd6WjA1Mm9kY0Q3QmR2UkM4Sm1ReXZkT1FNbVRtWU56ZGprZEJ0UHBGNHRFNjVKUF9wS0tSd1BRaWE0bWFWZERDYTNuaXZDb2tISmw1NHhyZw?oc=5",
-        "published": "Tue, 17 Mar 2026 16:30:00 GMT",
-        "source": "Bitget"
+        "title": "Your March Madness bracket could wreck your stock portfolio \u2014 so \u2018sit on your hands\u2019 until April 6 - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1ZmaTN5NjVDWlN1RTdRTm80YjAwT3M1bFN0RHNVTnFNQ0thUXlmdVNYaGlvSnM5NjI5RkdUbmNuVnRZMksyZmZQS1VmR0phYVVlcGcwTWE2VHFWdnk4RzJWZF91TGJyNzJ2N3ozWnhOcVFhVHg2eWFaamZLQlpieTNlMWg1Z0sxRlBQd0FzN2hHeDNzWkx4cUVwZTUxUGQ1TWlPdnJ2WkI?oc=5",
+        "published": "Wed, 18 Mar 2026 12:10:00 GMT",
+        "source": "MarketWatch"
       },
-      {
-        "title": "How Duke\u2019s Expanded Equity and Convertible Debt Financing Will Impact Duke Energy (DUK) Investors - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU25lUDJqNlpzYmllRWNkM29rckpPTmNZN2U1RmpQNXQ0SGZkSHhsT01WbjR6UzlBQU4xdGl3X2hRYTZ0UTkxdW10bnk4TEN0TTNmajQ2T3N3X0dRWXg3UW5hZ0NaM01ybzd1bTROS3BXbXN3X3pjTFhRRXNkZkxtb2hEYTNiLXNERU5nQmlpQVBRWFN3S3Y3MWpzOHJ6ZVY3MzBXUVBEdERUS1o2QWNucjB3UTVvVy0tRF9QZkJ2eWJSVmV2Q2FF0gHMAUFVX3lxTE00eTBqQTNkNlJZa1RJNm1oSVU4VlEtcGRUbXF0NlZqRVh2RFU1c3hjcUR1bnZOczZZc0hOWG1ncmx4ZkN2eVZSVHpYQTlaeDhNZG5TOFdVdmN2LVpYeklLRnNfeHEwU3VQOGJ0blRvb3NiTXVydzFDUTV2ME5LY01Oc2diYUtsSV95U3N6SUtNVEIyd21mc01MT0V6dE9TR1FCeE5reDZSNjlodHZoV3l4TnBfOUROT1drX2ZEUkF2MXd1T3JfeW5FSEFxcw?oc=5",
-        "published": "Mon, 16 Mar 2026 06:25:43 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "How (DUK) Movements Inform Risk Allocation Models - Stock Traders Daily",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTktrT2dTVU94SW1mNktxUW8wWWJ0QnMyWHo4bU9yNEx2bEg2TjJNY2o0dFYxckVoTlFjSDc4ckUzaUxxY2hjWDg4T3dKOUhFZ2ktRC1QUjFTWE1VaThzakhSVm9ySHlCRmk2dGJwMXhRXzlOSzRGcWp1WWtSaFJBaVZOUDRqYVI2VmdVRk05U2I3M2JYeXlDOXo1YVhheGtLa1dFalVsR1ltM3FjeG80TnI2RmphR0tfYkw1T1luQ2RyREpJOHo4?oc=5",
-        "published": "Mon, 16 Mar 2026 11:54:02 GMT",
-        "source": "Stock Traders Daily"
-      },
-      {
-        "title": "Duke Energy (DUK) announces $6 billion common stock offering - MSN",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGQwUjE3cFV3TXdYajlTU0hTM1k3OTIzU2wyQndDQkFDUms4aWlkVktQdmtvb2NEYkxtOWVJLWJVRUN1VFZ0V256V0U3NG8zUWFNcURjVWtVTWZYR19ZT0x4OFZ3Rko1eGtrSk9iWWZsZ3dBTktYcXpPUHpNbHJZNzlIMnlGN18tc1FTUmZKaHNnS2dINDUwVExZbXBldFhmZzVYd1NqcnpJMFFUQmc?oc=5",
-        "published": "Sun, 15 Mar 2026 11:32:41 GMT",
-        "source": "MSN"
-      },
-      {
-        "title": "4 Dividend Stocks to Double Up On Right Now - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamtzZXdXbGQycnFyb3ZLMjVmZ0xCLUd5UUNXQnpib2R5MUk1SzRPUmZkbHdISkQtbEdUenhLMFlxMG9fU3YzUnN3WGdueEttRXByT3p5am5IWDdXemZ3MW9wbjBhbHFDWlpQaHJDbmJPYmxFVVlwVkFCbERoMUxnN0VBV3BRSFV5Q2NJTjZtaw?oc=5",
-        "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-        "source": "The Motley Fool"
-      }
-    ],
-    "SO": [
       {
         "title": "Here are the best-performing S&P 500 stocks in 2026 so far - Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUxFOG9SMVJCYkdsaTBHbXo4a1lrN2RWSFg4elFWM1BfNXhnNkdsdWhiX0hRZjFIT3hrMzdMWnlPVnU1MFFoTnFERi16WGhuN0VvM2N1OHppZXNDQnZ6X0I1c3FuRF80aTVnOThzdVJySXFiTlJxa3doOVZQWHFPRjNGMA?oc=5",
         "published": "Mon, 16 Mar 2026 07:31:00 GMT",
         "source": "Yahoo Finance UK"
-      },
-      {
-        "title": "Fuel Stock Down, But Not Unusually So \u2013 Nicola Willis - Scoop - New Zealand News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSG1xckl6WmdjR2tOdS1oOW1OZklILWlOQ24wb1VJcDJIRGpWSGgxMHVXbDF2cTZpU29oUFM3Wmp6R1J3TGtKVUppSkxyV3hnZmJ4dDZEMURwOG02TkQ0VzNkZHoyS2JMdnlMcXhrYUtoSWE4V0NkWmZjZWgtcTcxVkVHellPX2tKbm13QUV3cEkzWnN1U2c?oc=5",
-        "published": "Wed, 18 Mar 2026 03:06:46 GMT",
-        "source": "Scoop - New Zealand News"
-      },
-      {
-        "title": "This oversold ASX stock is so cheap it's crazy - The Motley Fool Australia",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmZxRGZTUVVkd1ZrX2p1dEtheHpvVlN6dkpIZ0RTUW9Id2F2M1JwX0xvam4yTEhrMkpBVlFESDBHVk1GZkJKaGJUVFZEUkt5WFgzVEd5dk1kVkpqNDc3RHJmUlJVU0dhVHIzOVJBVkRpT3BIVGJqNGlldlZnNTcxWkxVY19jU3Mz?oc=5",
-        "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "source": "The Motley Fool Australia"
       },
       {
         "title": "Why stocks are acting so weird about a spiraling war with Iran - CNN",
@@ -2229,85 +1843,30 @@
         "source": "CNN"
       },
       {
+        "title": "SO Stock Price, Quote & Chart | SOUTHERN CO/THE (NYSE:SO) - ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fdFp2QmZEY3lQemtOOUQyTDdHZWMwZnlZdk9lZlZMY3EwSEZkd2d3N0xMQXhGd2dIRGcyVVhUTS1XOXRxQzQzSy0xN0pHdkJWQmtZU2lLVnFxeXhS?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "source": "ChartMill"
+      },
+      {
+        "title": "This oversold ASX stock is so cheap it's crazy - The Motley Fool Australia",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmZxRGZTUVVkd1ZrX2p1dEtheHpvVlN6dkpIZ0RTUW9Id2F2M1JwX0xvam4yTEhrMkpBVlFESDBHVk1GZkJKaGJUVFZEUkt5WFgzVEd5dk1kVkpqNDc3RHJmUlJVU0dhVHIzOVJBVkRpT3BIVGJqNGlldlZnNTcxWkxVY19jU3Mz?oc=5",
+        "published": "Thu, 26 Feb 2026 08:00:00 GMT",
+        "source": "The Motley Fool Australia"
+      },
+      {
         "title": "Is Southern (SO) Still Attractive After Strong Multi\u2011Year Share Price Gains? - simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjRwNGFWLXZmeXNSSGF4R3ZOMzhyeW9uTjFpU0tNT1Z4YWlnWDI4bkYzNnhBWE5EZzAyRkF3QldCWnN2R2RDQ2hlY2dfdTEwc0NuamZMQ2EyRXNBSnJyZlcwbXZNZTVtakdQS1hlX3B4QTdveVI3Tkc1aVJPeFo0VHdDVURxSnR4WThMdDJRLWEwTHlISzRJanFHN1FWZDRacDJramxrN0cxRXU1MlFBT3RSbERVaUcxN2hqc19CY0pZZ9IBxwFBVV95cUxQdjNZTUpuMi1TVTVpTy1fT19oUVprbmFPeWY5SU9WcEhqRnpxVE0tellOdTR2dnZiMTVUTkUzV1BOV2FsOVBldzUzZHl5WEVDUmt4TWlncHFfUERZNmdCYkZURGcxV2VraWpWbnlKamxpb3FqZWZ4RmcwQkQyNUFmZzNGRGlrYUxrcDA1WVRXQzE4bDdVNlNSSTJWR2NpNFYtTHRMdk1qTUd1REJkMWdMMlpUNGMzZEIxOF9HS3lyZWd3RVNuMzFn?oc=5",
         "published": "Tue, 17 Mar 2026 12:25:58 GMT",
         "source": "simplywall.st"
-      },
-      {
-        "title": "When a Stock Becomes Easier to Trade, So Do Its Rivals - UCLA Anderson Review",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3c1RFlKUTZpeHBzMkZXemJiT3ltZTlNeUhrWmVHdDhWY1N5aUxiZXkyYnVocWV5LW1qMmFIR09FcTRaRXp1OTQ0ODV2NUUwT3ZSM2ozMkpzMXhaaHJTYzJDcTg0NVNIRTV4SlFQVVhDbTlMWXdHQmxmam5IdkVEQ0VtQUtNTmp3TmhybGVwY0c?oc=5",
-        "published": "Wed, 04 Mar 2026 17:15:08 GMT",
-        "source": "UCLA Anderson Review"
-      },
-      {
-        "title": "JB Hi-Fi earnings are up. So why is the stock getting smashed? - Market Index",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUNDZC1hX1RXWWh6bG1wbFNjMUFiVkZORzEwdW1UZEczSTlNcHpFUGtqcVJpRjdGX0x6TDVZZ1RCeU1PYzUydDE1TndHYjBJQXlpYUJxLXNCWkRxSHpybzQzZUdHRjUzTTlNTDJ6ZF83N0JEdWs4V2J1NlVIOUF2aDhuSTBCdnJyVXBJaXNEVVExR1oxXzhKR3lVOEQ?oc=5",
-        "published": "Mon, 11 Aug 2025 07:00:00 GMT",
-        "source": "Market Index"
-      },
-      {
-        "title": "Are Qantas shares nearing their peak altitude? Brokers think so - AFR",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEZDbldvWk43MjF5NWlsbEJ6ZFRHdHpEVi1PUHNaUWpXOGpwU2RnTWJKWE51THRhTmhRUllHcWV3UEVJSjBrTDRQOXBqZURXRWFra0tKRjZQNUVnS21JT2o5b3lPNHl3cFd6Qzk1eGlxS2JJTHNiaVBYc2UzZ3Q0TXVVenVGQXg3UUczQXFhalBWLTVKdTVrQlBmUThfcDhSMnFyaG1CNDlmYy1ablJ4X3B0QlZLSzhSeGVpRVFn?oc=5",
-        "published": "Mon, 01 Sep 2025 07:00:00 GMT",
-        "source": "AFR"
       }
     ],
-    "AEP": [
-      {
-        "title": "AEP Falls 0.4% to 328th Volume Rank as Analysts Boost Targets Institutions Trim Stakes - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVV3RwVEJhM3lNcFFtZ3hfQWxIZmpyZVNsNFN1cGJyR2Y2NnNRZGJMLXFCbUpxaE94c1Y2LUtaTERkMXY4cEZnUXlRUV9vRklpcG1mbTFzTmtRYjhZUkxuSTBoQdIBY0FVX3lxTFBVV3RwVEJhM3lNcFFtZ3hfQWxIZmpyZVNsNFN1cGJyR2Y2NnNRZGJMLXFCbUpxaE94c1Y2LUtaTERkMXY4cEZnUXlRUV9vRklpcG1mbTFzTmtRYjhZUkxuSTBoQQ?oc=5",
-        "published": "Wed, 18 Mar 2026 00:19:12 GMT",
-        "source": "Bitget"
-      },
-      {
-        "title": "Ulrich, American Electric Power EVP, sells $542,320 in stock - Investing.com Australia",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlZaMUJ5RFM4M0N5Q3BaR3Y5d3VpMVN4MjNxMUZpUzJyRzFFbU9jUlZhZHBkVVdCMmgzeDVMT1h2ZlN2MUpuRkp6bDVHY2gtYlJHT0thaGhEUXVrc18zZ2NRUnZ3ZnBFLW1oalZ1R1ZfbnVwV2ZlRlNGMC1WQ0ptWWltSzN5UEtGOWhUbTRrek9MT1JYV0RLMXlDZHB5amxNWGY0aFp5ZGhrVTJUUGlTWUw3d3hYdnVGZk0taA?oc=5",
-        "published": "Mon, 02 Mar 2026 18:04:51 GMT",
-        "source": "Investing.com Australia"
-      },
-      {
-        "title": "AEP Plantations Tightens Free Float With Latest Share Buyback Tranche - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2JXc2NrblJjalhDRXdRcVlIeGh4eUZfbmdJOVdMZFZ2LUxGdk5hb1dhODByOVB5eTM1UWtTbVpFeTFTUTNsU084a2NGRGpkWk1PLWItazVWQTVuVDQxbGUyWHl2dGVTVER6T01oMi1KQm5PVWF1NWxWZjg2anZvdlpPQm14OUhGdlVfekxhVUMyb0Jzb3JUVU1MZXlQT2I4Y2pLQVlQWjRSRjE0WGJ6UHMyTFI4SjJpU1EyWlZXamRCRmtjVk40Y08wUnpsWEtjdkNGaGVJdjhLME42NXp5NHNlaw?oc=5",
-        "published": "Wed, 18 Mar 2026 07:32:06 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "A Look At American Electric Power (AEP) Valuation As Recent Total Returns Gain Momentum - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVNNd1JuMmVCM05hcHowMmgyaTBMV2JYcFhabjA3b2NzNVh6R0tadE0tMDZXY1VMSFZqSENBa2VEZVBjS3EwUlJPYmhaSTdQejBUR2p1SWZsamViaEZPS2k1cnRYd0JMVGpnaFlhYzB0QTB4eTNOQTRfX1Z1WG9FYlowMF9UUVl6YnM4V3VtT0VadFU0QVJrWjR3el9TZ2NMaHpfQnlZMWlwVWx6aEJYaU1PeHBmUlo3VzMxU1V5bHlzeXl4OGhiMmd5OXZrWXAzVHlwT2s5Rm5kd9IB3wFBVV95cUxOd1FZdkZWV3pWdjk4QUF2Z1dqQVBGWVBhNnlBN3plMC1SeDlrdFFNb1dJRzBZd05FMVBGU1FzUThrdXFPV0tseElKV2FUYm94UmotWUcwdnJOSENqYmFnUWc1SnQzTUlGWDRXOGFZM19sUWJqTnNBbW83dS1hd0ItZDNITXRpVXVESEZBZVdzX3ZnVlZQZEs4eHA2ZFM3eWM1MHNxSHhvWGJ2OVpHdFk3Nlo2VmRQc0RWZF8xSGxVT1hfbFpIOVBsYUxqNlNWQ1Q0eUsyaW9OMGVCY2ZSYUxr?oc=5",
-        "published": "Fri, 13 Mar 2026 04:48:50 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "American Electric Power Company, Inc. $AEP Stock Holdings Lessened by Dodge & Cox - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjlyUHYyWWVOYlJrdUV1SXR2bngtWkExWTlNekZBU2cxdnh1Q3VnTk13QmExWXZqNTF2ZkF0TVlfam9PTlJfbVh6MDhJVlc3Q21EbGplS2pKRGUxNXBXVWRoNGZsWWdRUVQxY3NIQldMWjF5bVNGc09iVU9pVFJOeFM0OWVqbDA2NnNscGdHaUd2VUJuS0ZCOWRFMTVjckpSWTc2VmRZb2FTTDh4amZtMEZRYjFNZ29XVThUN0lOTHppX1lmQlRQNndjUjhrMDFNLWhn?oc=5",
-        "published": "Sat, 14 Mar 2026 08:18:01 GMT",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "AEP (AEP) sets 2026 virtual shareholder meeting, board elections and key votes - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUUxTWdPdXBjOVdJNzdNX0N3Q0VkYXZyZmxDc2hMdnFWczBrUnQ2OWV1SjBvSlpDRFcxTHl6d01hMloyVzJEeEl4Wk9HdHgxa1o0OUlqYXN1V2hUOG9iVjhUa2xzMHRIdWlfd1RrU21vVEZQTkpiWGg0ZFJtTzFpeWN1QjZaR3RIR2xZTkRISTlUeE1zbmY3bTFBSHlOZ3RuWXNKWmNwS0ptWHQzNXZOSTZLN0xCeU0tS0pIUlJpRHhZQ3Rt?oc=5",
-        "published": "Wed, 18 Mar 2026 18:00:32 GMT",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "CEG vs. AEP: Which Utility Is Best Positioned for Long-Term Growth? - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUjFtX1hlTEZYckNOVjA5Y3NoMGRKUXJzNkVaUFBGWEw5SlZnRFljemJtX1RDbVEzeDRFX01MbHl2OVFVR0NaekpsbDA1ckRkQXFPWnU1U1RKZFplUmNRWGEtVEtrZU85dmtwWmxyck14UkRrZ2dHUEN3a3o1UTJtVUNMNnpZVGZiVEJrMkNLbzhKcXpwckMydExYT1lYY3VRWFJGNUtiY3QwUW01UXRVSll0blRFQkNmTXFyNHhKaU8zakdmOW9pNmxUbjRuV1ZTeFRqT1BqS0E2TTJheEctZXM4VUthR29QQVFSQ1lRVG1XOXExUmhFVThITDdGaTB3YTVwdW94VlA4elJZQkp3VHRFazdMY0h6UkMzN2dOV2tPbFd0V2N2N3VwN1BReDFJdk0tZU8zb2hEU0tiRE9vR3NGOUFxclEzV2JvWjMzSHN5WllmSlZlZktmMUg?oc=5",
-        "published": "Wed, 18 Mar 2026 13:38:39 GMT",
-        "source": "MSN"
-      },
-      {
-        "title": "JPMorgan Raises Price Target on American Electric (AEP) - Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmFKZF9URF95cW9RZUctNDJiWUZvZzY0RU4wNmRzV0NyNFo5TkhhYUtHZmRlQW11UmVPY2NtNDVMX0ZkWkRqSzVVTGFXeTlfSmRXSFdBUUx1ME50YWVndkNaSGNEa0Zwb1RIWm41cWIyczJjNkdfRnpoZ25oTFpnRmQtMVlfNDctVF9pNTNVUQ?oc=5",
-        "published": "Tue, 17 Mar 2026 05:59:00 GMT",
-        "source": "Yahoo Finance UK"
-      }
-    ],
+    "AEP": [],
     "EXC": [
       {
         "title": "symbol__ Stock Quote Price and Forecast - CNN",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4cDdFak1jRTBvU19RUkNzLWF4YWFZaE5IZ1dSS3FCUzZZN1lIaG5HQTVWSVltOFVCMk9heTVCTmdidXh2QWQtLTZWNUJ5RkE?oc=5",
-        "published": "Mon, 16 Mar 2026 09:01:53 GMT",
+        "published": "Tue, 17 Mar 2026 21:32:22 GMT",
         "source": "CNN"
       },
       {
@@ -2317,10 +1876,28 @@
         "source": "Reuters"
       },
       {
-        "title": "Exelon (NASDAQ: EXC) outlines 2026 proxy votes, growth plans and capital spend - Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2NfRFYyZWt2elZQVTZqRTlicHlwaC1Db3hRUUc5V05UclJKWU8wWGM0UWRickllRU5EeGdSMlBEcGZqV3Bxbk5hME1FSjVLR2JiRHJRbDNGR3BmVURYQm1lQ25MalZJUWhjcXdyRUdqM1U2QnRkNjY0Y0pjRXVpdHdPb0dlZTB0N2FyQWIzc2NkM3ZkMm5GcTJ3OVI4Xzkya21LeC1aNTRUYTQ?oc=5",
-        "published": "Wed, 18 Mar 2026 18:10:31 GMT",
-        "source": "Stock Titan"
+        "title": "Exelon's 1.58% Stock Slide Hits 257th in Trading Volume Amid Earnings Volatility and Capital Plans - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02ME5fclgyN0dyWndlMkRkaHNjVWFuT2FnRjJFRGVqVWljYU4tOGE2YXljcjVHRWhyTGlsT1ZvYU90dVVxYkZHY0pIT21GbG43eUZuQ0pHMTZLcE0xdzJNdTdla9IBY0FVX3lxTE02ME5fclgyN0dyWndlMkRkaHNjVWFuT2FnRjJFRGVqVWljYU4tOGE2YXljcjVHRWhyTGlsT1ZvYU90dVVxYkZHY0pIT21GbG43eUZuQ0pHMTZLcE0xdzJNdTdlaw?oc=5",
+        "published": "Wed, 18 Mar 2026 23:58:43 GMT",
+        "source": "Bitget"
+      },
+      {
+        "title": "EXELON CORP ($EXC) President and CEO 2025 Pay Revealed - Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzNXTWhoR2FGV2g3c0pva2pxUTM2d1FyQ1NZMDF6b1BiWlRLN0F4QVY1NTJiREFBSkZPU2dlZUNabWpDalVuZnRQQjBNZGcxYnJkSjdoZzJJYVluLVo4dm9KNzFwVVhjSXRta2JRUEtla1ozczhrMVlmTWlyZ2xub1MxaVkxaVdlTXRpOGZxak9yVXZGSkdxYg?oc=5",
+        "published": "Wed, 18 Mar 2026 21:27:00 GMT",
+        "source": "Quiver Quantitative"
+      },
+      {
+        "title": "Exelon Corporation $EXC Shares Sold by Stance Capital LLC - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVMxcUV1NW4zVFRHRnB0YVFHVW4wZFVIejYwUkRXNWVfUTJsZDFxLVFUc0FlNi1nS2sxNXlvODU3QUxkWmh4QWpfbzBKUExBN1BDRGZfQTFQc1UwQUlsVEg3ODFJZ3RYS2ZPQWx1Yld0SXBrNmZFd1FmbC1heTMyNG5JWHdwUTNidUxPTGczRHFlSFhaWWpJclhjYzBIOFdpM3lrekJWN2dJTFRLam1WNmNCMG03emNP?oc=5",
+        "published": "Thu, 19 Mar 2026 08:56:05 GMT",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Exelon (EXC) price target raised by $3, 'outperform' rating maintained - MSN",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJhR3BfTlRNb0VhamRTcWJNdVNtMlR0azZMbFAzMXZMZERqT09KdjJXVUxIQXR6cmpjYXFBYzBsM2R1cVJEQl9iclZNXy0zbVVLYkxJRjVCTUtPODJpV0V5ank2WXNaamVlU2RqYUxocVBCaDh6bFVoWk84cmprWndEeFlHOTB0UEtZT2w1LVpnZjM3OTNyY1FlMFhJX3BJMUxJSWNENjBaaXdMWVF2aTI2RE9DSGc?oc=5",
+        "published": "Thu, 19 Mar 2026 00:13:31 GMT",
+        "source": "MSN"
       },
       {
         "title": "Assessing Exelon (EXC) Valuation After Earnings Beat And Ambitious Capital Spending Plan - simplywall.st",
@@ -2329,41 +1906,15 @@
         "source": "simplywall.st"
       },
       {
-        "title": "Exelon Shares Surge 0.94% on Earnings Beat and Dividend Hike Trading at 312th in 0.38 Billion Dollar Volume - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mSS1sX3hyZklxcG8yX3R0eWt1LTg3SFEtZnhFTTlsamF1Mk5HRlhSNWdkMVd2THpFOXdvZkRKeDB2bm54aDA0UzhIZjZYcHFDdk5OeVk4OXNsR3lBUS1mRWFmONIBY0FVX3lxTE1mSS1sX3hyZklxcG8yX3R0eWt1LTg3SFEtZnhFTTlsamF1Mk5HRlhSNWdkMVd2THpFOXdvZkRKeDB2bm54aDA0UzhIZjZYcHFDdk5OeVk4OXNsR3lBUS1mRWFmOA?oc=5",
-        "published": "Tue, 17 Mar 2026 00:14:07 GMT",
-        "source": "Bitget"
-      },
-      {
-        "title": "Exelon (EXC) Earnings Expected to Grow: Should You Buy? - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNNGhXSUxLSWtpYWtHUGFpU3pUTnFpd1NhbXgzTWNXS1BJNWhFOUxGaVBDX3pqSXdmNGdGaUoweDNFUTdLeWgwYy1la1RWUmpwSURLb1NLbm1OYlI4RzdhYkt4ZmM5d21uUmFXM2h2WklRRDRxeWhNR3BVTjV6eTVlZG9IR1R5QkU0VWs5U1YycmFYdlVweVZyV1pwXy1rVkJJY2doZDMwSm8xY2VjU0R5MVVieVhRd3lrSE9VYnluYnlJODFNMmthZC1rV2doaTNfNlpkSDVRb0N6a0xPaUoyS3gzUWFZQndoYm54em1fOWx6Nm5sczhuMXc4eXZVbWgzbUE5eVFDdlRpV09Mc1JtMkkydXJsbm9mVTVtZGplTE41UmM3dmNvMU0zZy1hNVdyR3RjZlF1TExTNFJYd05DVmdlbG9DX1YzaVp4bVNZdGtkNDJtVGd6ZmpJQXRmdFJpcnc?oc=5",
-        "published": "Wed, 18 Mar 2026 06:57:45 GMT",
-        "source": "MSN"
-      },
-      {
-        "title": "EXC: JP Morgan Maintains Neutral Rating but Raises Price Target to $53.00 | EXC Stock News - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHVoWHhxU1NmUjRXb1V6WlpsVWFLXzlrMGtoM0p4QmpfVmxHeV96cm1mcTVJZjZSRlNBaGg1LXNpZ214ZmZfa3Itdi1hQk1WN3JVai15SVRua2tNaUhJblFxWkxYUlhwSEQyeDJCcVZESkFPRW5VWmQ3b2ozYlRDaVZMb3oyNHBCc09DTmdBLVZNbmZsNmluVVB0X2NTMmZlN21BV3EzNXpMdzVvUU9oMU9kVWVTQUFtQ09RamVCNmJ5UQ?oc=5",
-        "published": "Thu, 12 Mar 2026 19:22:29 GMT",
-        "source": "GuruFocus"
-      },
-      {
-        "title": "Assessing Exelon (EXC) Valuation After Recent Share Price Momentum And Capex Growth Plans - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXdrTWxTU1ZhNFNiMi04U2pMRmpHcy1mcFN0SElib2tPTURfOW96UVdfY3hub3RlVU1XRGRwaUptZGVzUmIzQlAwRTJpZ280amNpNG5yclBEQzBDNU5KT3pqZHVTazNfR040SFhRS1BOZ3Y1QmxHai1NdEhoTDlaUUEwbmw4ejRMNmg0?oc=5",
-        "published": "Thu, 12 Mar 2026 08:09:30 GMT",
-        "source": "Yahoo Finance"
+        "title": "EXC Stock Price, Quote & Chart | EXELON CORP (NASDAQ:EXC) - ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jblVEOTNyRzUyOUI3N01ybzRwQUp2YUc5clhTaHhxR1RDWG12aFN0UkRHR0hlWEFKTktFd3g4blZWLWhDWUl0djkzSFhlcERWMTY1N2dmLXV2bzBCWUE?oc=5",
+        "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "source": "ChartMill"
       }
     ]
   },
   "prices": {
     "AAPL": [
-      {
-        "Date": "2025-03-20",
-        "Open": 213.261,
-        "High": 216.749,
-        "Low": 211.497,
-        "Close": 213.371,
-        "Volume": 49030034
-      },
       {
         "Date": "2025-03-21",
         "Open": 210.839,
@@ -4350,22 +3901,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 252.62,
+        "Open": 252.625,
         "High": 254.94,
-        "Low": 249.4101,
-        "Close": 249.4747,
-        "Volume": 11877665
+        "Low": 249.0,
+        "Close": 249.94,
+        "Volume": 35757874
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 249.4,
+        "High": 251.83,
+        "Low": 247.3,
+        "Close": 248.685,
+        "Volume": 14184666
       }
     ],
     "MSFT": [
-      {
-        "Date": "2025-03-20",
-        "Open": 385.735,
-        "High": 391.785,
-        "Low": 383.28,
-        "Close": 386.84,
-        "Volume": 18470542.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 383.215,
@@ -6352,22 +5903,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 397.03,
+        "Open": 397.125,
         "High": 398.0,
-        "Low": 391.72,
-        "Close": 392.27,
-        "Volume": 12034862.0
+        "Low": 391.0,
+        "Close": 391.79,
+        "Volume": 25908485.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 390.1,
+        "High": 392.49,
+        "Low": 387.06,
+        "Close": 388.2,
+        "Volume": 12998530.0
       }
     ],
     "NVDA": [
-      {
-        "Date": "2025-03-20",
-        "Open": 116.55,
-        "High": 120.2,
-        "Low": 116.47,
-        "Close": 118.53,
-        "Volume": 248829749
-      },
       {
         "Date": "2025-03-21",
         "Open": 116.94,
@@ -8354,22 +7905,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 182.47,
+        "Open": 182.48,
         "High": 183.38,
-        "Low": 180.72,
-        "Close": 180.925,
-        "Volume": 98246771
+        "Low": 180.33,
+        "Close": 180.4,
+        "Volume": 156683136
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 178.01,
+        "High": 179.98,
+        "Low": 175.785,
+        "Close": 178.48,
+        "Volume": 99363317
       }
     ],
     "AVGO": [
-      {
-        "Date": "2025-03-20",
-        "Open": 191.52,
-        "High": 193.8365,
-        "Low": 188.94,
-        "Close": 190.54,
-        "Volume": 31430022.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 188.21,
@@ -10359,19 +9910,19 @@
         "Open": 320.425,
         "High": 325.44,
         "Low": 315.55,
-        "Close": 316.67,
-        "Volume": 12636362.0
+        "Close": 315.93,
+        "Volume": 25460596.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 312.47,
+        "High": 323.27,
+        "Low": 308.51,
+        "Close": 319.204,
+        "Volume": 11201043.0
       }
     ],
     "ORCL": [
-      {
-        "Date": "2025-03-20",
-        "Open": 151.58,
-        "High": 154.49,
-        "Low": 150.82,
-        "Close": 152.72,
-        "Volume": 7051615.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 151.65,
@@ -12361,19 +11912,19 @@
         "Open": 153.205,
         "High": 154.9652,
         "Low": 152.04,
-        "Close": 153.2451,
-        "Volume": 11369806.0
+        "Close": 152.9,
+        "Volume": 18051075.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 150.46,
+        "High": 156.92,
+        "Low": 148.89,
+        "Close": 155.29,
+        "Volume": 15115416.0
       }
     ],
     "GOOGL": [
-      {
-        "Date": "2025-03-20",
-        "Open": 161.57,
-        "High": 164.89,
-        "Low": 160.96,
-        "Close": 162.8,
-        "Volume": 28138464
-      },
       {
         "Date": "2025-03-21",
         "Open": 161.205,
@@ -14360,22 +13911,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 309.205,
+        "Open": 309.27,
         "High": 312.47,
-        "Low": 307.6,
-        "Close": 307.695,
-        "Volume": 7357435
+        "Low": 306.932,
+        "Close": 307.69,
+        "Volume": 20009815
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 303.97,
+        "High": 308.06,
+        "Low": 302.35,
+        "Close": 306.895,
+        "Volume": 8615776
       }
     ],
     "META": [
-      {
-        "Date": "2025-03-20",
-        "Open": 582.755,
-        "High": 610.2,
-        "Low": 579.51,
-        "Close": 586.0,
-        "Volume": 24336505
-      },
       {
         "Date": "2025-03-21",
         "Open": 583.425,
@@ -16364,20 +15915,20 @@
         "Date": "2026-03-18",
         "Open": 616.34,
         "High": 622.65,
-        "Low": 615.02,
-        "Close": 615.99,
-        "Volume": 5359225
+        "Low": 614.61,
+        "Close": 615.68,
+        "Volume": 11726301
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 612.15,
+        "High": 613.0,
+        "Low": 602.26,
+        "Close": 606.04,
+        "Volume": 6180159
       }
     ],
     "NFLX": [
-      {
-        "Date": "2025-03-20",
-        "Open": 95.001,
-        "High": 96.7,
-        "Low": 94.55,
-        "Close": 95.084,
-        "Volume": 44663050
-      },
       {
         "Date": "2025-03-21",
         "Open": 94.1635,
@@ -18367,19 +17918,19 @@
         "Open": 94.445,
         "High": 95.335,
         "Low": 93.61,
-        "Close": 95.1,
-        "Volume": 18094129
+        "Close": 94.7,
+        "Volume": 27878318
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 94.31,
+        "High": 95.75,
+        "Low": 90.775,
+        "Close": 91.93,
+        "Volume": 26398107
       }
     ],
     "TMUS": [
-      {
-        "Date": "2025-03-20",
-        "Open": 258.33,
-        "High": 259.0,
-        "Low": 256.41,
-        "Close": 257.03,
-        "Volume": 3729149
-      },
       {
         "Date": "2025-03-21",
         "Open": 254.44,
@@ -20366,22 +19917,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 211.96,
-        "High": 212.07,
+        "Open": 211.93,
+        "High": 212.3665,
         "Low": 205.5,
-        "Close": 206.74,
-        "Volume": 2783999
+        "Close": 206.62,
+        "Volume": 5606673
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 208.305,
+        "High": 210.17,
+        "Low": 202.95,
+        "Close": 206.56,
+        "Volume": 3637322
       }
     ],
     "DIS": [
-      {
-        "Date": "2025-03-20",
-        "Open": 99.51,
-        "High": 100.05,
-        "Low": 98.64,
-        "Close": 98.86,
-        "Volume": 7836515
-      },
       {
         "Date": "2025-03-21",
         "Open": 98.275,
@@ -22368,22 +21919,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 100.32,
+        "Open": 99.84,
         "High": 101.02,
         "Low": 99.0,
-        "Close": 99.11,
-        "Volume": 6636606
+        "Close": 99.42,
+        "Volume": 12615136
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 99.03,
+        "High": 100.775,
+        "Low": 98.435,
+        "Close": 99.475,
+        "Volume": 7162994
       }
     ],
     "LLY": [
-      {
-        "Date": "2025-03-20",
-        "Open": 837.81,
-        "High": 854.3899,
-        "Low": 832.4647,
-        "Close": 842.57,
-        "Volume": 4402727.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 837.8,
@@ -24373,19 +23924,19 @@
         "Open": 925.0,
         "High": 929.0,
         "Low": 905.11,
-        "Close": 916.855,
-        "Volume": 1528953.0
+        "Close": 918.05,
+        "Volume": 3443808.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 914.0,
+        "High": 924.53,
+        "Low": 910.86,
+        "Close": 918.67,
+        "Volume": 926969.0
       }
     ],
     "JNJ": [
-      {
-        "Date": "2025-03-20",
-        "Open": 162.56,
-        "High": 163.2,
-        "Low": 161.925,
-        "Close": 163.02,
-        "Volume": 7485930.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 162.705,
@@ -26375,19 +25926,19 @@
         "Open": 237.84,
         "High": 239.11,
         "Low": 235.4169,
-        "Close": 237.16,
-        "Volume": 1880088.0
+        "Close": 237.28,
+        "Volume": 6811546.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 237.875,
+        "High": 239.12,
+        "Low": 236.31,
+        "Close": 237.81,
+        "Volume": 2287048.0
       }
     ],
     "UNH": [
-      {
-        "Date": "2025-03-20",
-        "Open": 501.44,
-        "High": 510.764,
-        "Low": 499.961,
-        "Close": 507.696,
-        "Volume": 5000638
-      },
       {
         "Date": "2025-03-21",
         "Open": 508.073,
@@ -28376,20 +27927,20 @@
         "Date": "2026-03-18",
         "Open": 285.2,
         "High": 288.4,
-        "Low": 284.17,
-        "Close": 284.45,
-        "Volume": 1720923
+        "Low": 283.07,
+        "Close": 284.33,
+        "Volume": 4544057
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 284.0,
+        "High": 287.545,
+        "Low": 281.37,
+        "Close": 283.62,
+        "Volume": 2654886
       }
     ],
     "ABBV": [
-      {
-        "Date": "2025-03-20",
-        "Open": 212.53,
-        "High": 213.42,
-        "Low": 211.11,
-        "Close": 211.96,
-        "Volume": 5836059.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 211.73,
@@ -30376,22 +29927,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 218.6,
+        "Open": 218.5,
         "High": 219.0,
         "Low": 207.6,
-        "Close": 208.652,
-        "Volume": 3731061.0
+        "Close": 208.34,
+        "Volume": 8597000.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 208.365,
+        "High": 210.425,
+        "Low": 204.3,
+        "Close": 205.775,
+        "Volume": 2530892.0
       }
     ],
     "MRK": [
-      {
-        "Date": "2025-03-20",
-        "Open": 93.995,
-        "High": 95.16,
-        "Low": 93.68,
-        "Close": 94.73,
-        "Volume": 12970165.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 94.58,
@@ -32381,19 +31932,19 @@
         "Open": 115.06,
         "High": 115.56,
         "Low": 113.345,
-        "Close": 114.31,
-        "Volume": 2630126.0
+        "Close": 114.5,
+        "Volume": 6736269.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 114.66,
+        "High": 115.76,
+        "Low": 113.75,
+        "Close": 114.65,
+        "Volume": 2944456.0
       }
     ],
     "XOM": [
-      {
-        "Date": "2025-03-20",
-        "Open": 114.72,
-        "High": 116.47,
-        "Low": 114.2125,
-        "Close": 115.9,
-        "Volume": 16230772.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 115.5,
@@ -34380,22 +33931,22 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 159.4,
+        "Open": 159.66,
         "High": 160.18,
-        "Low": 158.24,
-        "Close": 158.29,
-        "Volume": 7571054.0
+        "Low": 157.53,
+        "Close": 157.59,
+        "Volume": 18947142.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 158.25,
+        "High": 159.56,
+        "Low": 154.84,
+        "Close": 158.23,
+        "Volume": 13751618.0
       }
     ],
     "CVX": [
-      {
-        "Date": "2025-03-20",
-        "Open": 163.13,
-        "High": 165.31,
-        "Low": 162.41,
-        "Close": 164.77,
-        "Volume": 9545886.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 164.49,
@@ -36384,20 +35935,20 @@
         "Date": "2026-03-18",
         "Open": 199.22,
         "High": 200.73,
-        "Low": 198.52,
-        "Close": 199.435,
-        "Volume": 5305211.0
+        "Low": 198.51,
+        "Close": 198.61,
+        "Volume": 13305001.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 199.84,
+        "High": 202.44,
+        "Low": 199.0,
+        "Close": 201.2,
+        "Volume": 8417192.0
       }
     ],
     "COP": [
-      {
-        "Date": "2025-03-20",
-        "Open": 101.15,
-        "High": 102.63,
-        "Low": 100.84,
-        "Close": 102.31,
-        "Volume": 11577818.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 102.41,
@@ -38387,19 +37938,19 @@
         "Open": 123.8125,
         "High": 124.87,
         "Low": 123.11,
-        "Close": 124.14,
-        "Volume": 4161597.0
+        "Close": 123.65,
+        "Volume": 10273029.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 124.705,
+        "High": 126.35,
+        "Low": 123.965,
+        "Close": 125.57,
+        "Volume": 5106492.0
       }
     ],
     "SLB": [
-      {
-        "Date": "2025-03-20",
-        "Open": 40.705,
-        "High": 41.78,
-        "Low": 40.6,
-        "Close": 41.28,
-        "Volume": 12753109.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 40.98,
@@ -40388,20 +39939,20 @@
         "Date": "2026-03-18",
         "Open": 45.89,
         "High": 46.32,
-        "Low": 45.29,
-        "Close": 45.37,
-        "Volume": 6454406.0
+        "Low": 45.19,
+        "Close": 45.32,
+        "Volume": 13276982.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 45.215,
+        "High": 47.67,
+        "Low": 44.7,
+        "Close": 47.66,
+        "Volume": 17957438.0
       }
     ],
     "EOG": [
-      {
-        "Date": "2025-03-20",
-        "Open": 123.96,
-        "High": 125.49,
-        "Low": 123.0049,
-        "Close": 124.3,
-        "Volume": 4074876.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 123.535,
@@ -42391,19 +41942,19 @@
         "Open": 136.94,
         "High": 137.81,
         "Low": 136.3001,
-        "Close": 137.22,
-        "Volume": 2048551.0
+        "Close": 137.52,
+        "Volume": 4689998.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 139.0,
+        "High": 140.37,
+        "Low": 137.611,
+        "Close": 138.64,
+        "Volume": 2419802.0
       }
     ],
     "NEE": [
-      {
-        "Date": "2025-03-20",
-        "Open": 71.12,
-        "High": 72.09,
-        "Low": 70.59,
-        "Close": 71.15,
-        "Volume": 11816011.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 71.02,
@@ -44393,19 +43944,19 @@
         "Open": 92.4,
         "High": 92.53,
         "Low": 90.61,
-        "Close": 91.13,
-        "Volume": 2740771.0
+        "Close": 90.96,
+        "Volume": 7053722.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 90.89,
+        "High": 92.29,
+        "Low": 90.301,
+        "Close": 92.21,
+        "Volume": 4403981.0
       }
     ],
     "DUK": [
-      {
-        "Date": "2025-03-20",
-        "Open": 119.915,
-        "High": 120.26,
-        "Low": 119.11,
-        "Close": 120.16,
-        "Volume": 4343944.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 119.98,
@@ -46394,20 +45945,20 @@
         "Date": "2026-03-18",
         "Open": 132.5,
         "High": 132.635,
-        "Low": 131.12,
-        "Close": 131.165,
-        "Volume": 1183707.0
+        "Low": 130.7,
+        "Close": 130.75,
+        "Volume": 3454698.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 131.14,
+        "High": 131.41,
+        "Low": 128.88,
+        "Close": 130.01,
+        "Volume": 1862735.0
       }
     ],
     "SO": [
-      {
-        "Date": "2025-03-20",
-        "Open": 89.865,
-        "High": 90.06,
-        "Low": 89.14,
-        "Close": 89.97,
-        "Volume": 4652757.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 89.75,
@@ -48396,20 +47947,20 @@
         "Date": "2026-03-18",
         "Open": 97.84,
         "High": 97.895,
-        "Low": 96.75,
-        "Close": 96.79,
-        "Volume": 1550435.0
+        "Low": 96.53,
+        "Close": 96.54,
+        "Volume": 4184808.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 96.7,
+        "High": 96.98,
+        "Low": 95.455,
+        "Close": 96.33,
+        "Volume": 2199918.0
       }
     ],
     "AEP": [
-      {
-        "Date": "2025-03-20",
-        "Open": 105.8,
-        "High": 106.59,
-        "Low": 105.55,
-        "Close": 106.21,
-        "Volume": 2946596.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 106.14,
@@ -50398,20 +49949,20 @@
         "Date": "2026-03-18",
         "Open": 133.04,
         "High": 133.43,
-        "Low": 130.96,
-        "Close": 131.025,
-        "Volume": 1083227.0
+        "Low": 130.8947,
+        "Close": 130.97,
+        "Volume": 3800075.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 131.0,
+        "High": 131.45,
+        "Low": 126.71,
+        "Close": 128.81,
+        "Volume": 1942783.0
       }
     ],
     "EXC": [
-      {
-        "Date": "2025-03-20",
-        "Open": 44.415,
-        "High": 44.7,
-        "Low": 44.22,
-        "Close": 44.59,
-        "Volume": 6306868.0
-      },
       {
         "Date": "2025-03-21",
         "Open": 44.54,
@@ -52398,11 +51949,19 @@
       },
       {
         "Date": "2026-03-18",
-        "Open": 49.75,
+        "Open": 49.755,
         "High": 49.88,
         "Low": 49.205,
-        "Close": 49.31,
-        "Volume": 4284921.0
+        "Close": 49.25,
+        "Volume": 9315655.0
+      },
+      {
+        "Date": "2026-03-19",
+        "Open": 49.45,
+        "High": 49.57,
+        "Low": 47.855,
+        "Close": 48.125,
+        "Volume": 3777024.0
       }
     ]
   },
