@@ -1,51 +1,51 @@
 region,category,ticker,status,error,action,confidence,last_close,trend,mom_3m,mom_6m,vol_20d_ann,rsi14,range_1d,range_1w,range_1m
-asx,Technology,XRO.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Technology,WTC.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Technology,CPU.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Technology,NEA.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Technology,ALU.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Communication Services,REA.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Communication Services,CAR.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Communication Services,SEK.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Communication Services,TPG.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Communication Services,SGP.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Health Care,CSL.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Health Care,RMD.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Health Care,ANN.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Health Care,COH.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Health Care,PME.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Energy,WDS.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Energy,STO.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Energy,BPT.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Energy,ORG.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Energy,AGL.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Utilities,APA.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Utilities,AST.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Utilities,SKI.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Utilities,MCY.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-asx,Utilities,MGR.AX,NO_DATA,Stooq response missing Date column,HOLD,0,,0,,,,,,,
-us,Technology,AAPL,OK,,HOLD,45,248.69,1,-0.09174244914356677,-0.03090549877056037,0.16146878403154225,37.83070850822546,"{'low': -0.010171577310653764, 'high': 0.010171577310653764}","{'low': -0.022744338305016314, 'high': 0.022744338305016314}","{'low': -0.04661202296316622, 'high': 0.04661202296316622}"
-us,Technology,MSFT,OK,,SELL,45,357.36071,-1,-0.2677334740379492,-0.2951882334378636,0.1976081902880406,22.52768171418856,"{'low': -0.01244814591742106, 'high': 0.01244814591742106}","{'low': -0.027834900465189976, 'high': 0.027834900465189976}","{'low': -0.05704457092843752, 'high': 0.05704457092843752}"
-us,Technology,NVDA,OK,,HOLD,39,167.495,1,-0.1119505858650125,-0.057375204006978375,0.32739149356625874,35.845969131859874,"{'low': -0.02062372555557913, 'high': 0.02062372555557913}","{'low': -0.046116052291574554, 'high': 0.046116052291574554}","{'low': -0.09450978347043655, 'high': 0.09450978347043655}"
-us,Technology,AVGO,OK,,HOLD,34,301.72,1,-0.13848438124607387,-0.10229098482594468,0.39179377105498503,36.8400160398675,"{'low': -0.024680687700849205, 'high': 0.024680687700849205}","{'low': -0.05518769543054182, 'high': 0.05518769543054182}","{'low': -0.11310111959270709, 'high': 0.11310111959270709}"
-us,Technology,ORCL,OK,,SELL,36,139.825,-1,-0.29198946782115565,-0.5200459959496104,0.4831426401953714,36.950392981232646,"{'low': -0.030435125564955038, 'high': 0.030435125564955038}","{'low': -0.06805500966698116, 'high': 0.06805500966698116}","{'low': -0.13947126668689208, 'high': 0.13947126668689208}"
-us,Communication Services,GOOGL,OK,,BUY,63,274.6,1,-0.1257282944378998,0.11721388176898984,0.2541079886077999,25.25932419245042,"{'low': -0.0160072986669303, 'high': 0.0160072986669303}","{'low': -0.03579340795539791, 'high': 0.03579340795539791}","{'low': -0.0733546578129738, 'high': 0.0733546578129738}"
-us,Communication Services,META,OK,,SELL,39,526.1311,-1,-0.21184765186128385,-0.2974708576464462,0.3851617266163674,22.584079487581803,"{'low': -0.024262908170646556, 'high': 0.024262908170646556}","{'low': -0.054253512001400765, 'high': 0.054253512001400765}","{'low': -0.11118661327175036, 'high': 0.11118661327175036}"
-us,Communication Services,NFLX,OK,,SELL,44,93.385,-1,-0.0027231952157197314,-0.227098920744223,0.21382586205979007,54.808411595859845,"{'low': -0.01346976321152871, 'high': 0.01346976321152871}","{'low': -0.030119306181804077, 'high': 0.030119306181804077}","{'low': -0.061726209509961785, 'high': 0.061726209509961785}"
-us,Communication Services,TMUS,OK,,SELL,50,211.415,-1,0.06228017284694998,-0.11147768344960918,0.19233866662832638,49.52940385496322,"{'low': -0.012116197128578803, 'high': 0.012116197128578803}","{'low': -0.027092640408289962, 'high': 0.027092640408289962}","{'low': -0.055523390476718955, 'high': 0.055523390476718955}"
-us,Communication Services,DIS,OK,,SELL,47,92.54,-1,-0.1916491963661775,-0.18098946809452154,0.1378695200982578,22.67000741565724,"{'low': -0.00868496341799551, 'high': 0.00868496341799551}","{'low': -0.019420168584736882, 'high': 0.019420168584736882}","{'low': -0.03979950227088682, 'high': 0.03979950227088682}"
-us,Health Care,LLY,OK,,BUY,67,881.01,1,-0.18196252483797293,0.23288878937572588,0.2821867783672192,29.510376412267718,"{'low': -0.017776096162622934, 'high': 0.017776096162622934}","{'low': -0.03974855939419804, 'high': 0.03974855939419804}","{'low': -0.08146030622603363, 'high': 0.08146030622603363}"
-us,Health Care,JNJ,OK,,BUY,71,239.92,1,0.15468283761670998,0.34991278906206036,0.15029078036427315,52.242829921942665,"{'low': -0.009467429266421336, 'high': 0.009467429266421336}","{'low': -0.021169815411889076, 'high': 0.021169815411889076}","{'low': -0.04338521125001601, 'high': 0.04338521125001601}"
-us,Health Care,UNH,OK,,SELL,43,257.11,-1,-0.2151230233836009,-0.2559613381178377,0.24215015679185267,29.8843289075824,"{'low': -0.01525402606682239, 'high': 0.01525402606682239}","{'low': -0.03410903921596861, 'high': 0.03410903921596861}","{'low': -0.0699027291040431, 'high': 0.0699027291040431}"
-us,Health Care,ABBV,OK,,HOLD,42,210.115,1,-0.08601940058288737,-0.038551294957444804,0.24162103966561596,38.31715512809862,"{'low': -0.015220694820859353, 'high': 0.015220694820859353}","{'low': -0.0340345082842205, 'high': 0.0340345082842205}","{'low': -0.0697499861464103, 'high': 0.0697499861464103}"
-us,Health Care,MRK,OK,,BUY,69,119.8,1,0.12541099107562226,0.5438144329896908,0.20103398011220752,59.393434964521774,"{'low': -0.01266395039167633, 'high': 0.01266395039167633}","{'low': -0.028317453939473363, 'high': 0.028317453939473363}","{'low': -0.05803351126702244, 'high': 0.05803351126702244}"
-us,Energy,XOM,OK,,HOLD,54,170.4296,1,0.4295386680087234,0.47443204429448915,0.21706474882221938,75.64940932937085,"{'low': -0.013673793899578403, 'high': 0.013673793899578403}","{'low': -0.030575532669779245, 'high': 0.030575532669779245}","{'low': -0.06266119558204343, 'high': 0.06266119558204343}"
-us,Energy,CVX,OK,,HOLD,54,211.09,1,0.4025913621262458,0.31340219014435045,0.20249962579676056,80.2238185733169,"{'low': -0.012756277391473054, 'high': 0.012756277391473054}","{'low': -0.028523903387177446, 'high': 0.028523903387177446}","{'low': -0.05845660673227909, 'high': 0.05845660673227909}"
-us,Energy,COP,OK,,HOLD,53,133.9401,1,0.4590424836601308,0.3835357917570499,0.26577009759088993,81.3994552042832,"{'low': -0.01674194247959193, 'high': 0.01674194247959193}","{'low': -0.03743612145975895, 'high': 0.03743612145975895}","{'low': -0.0767212186933267, 'high': 0.0767212186933267}"
-us,Energy,SLB,OK,,BUY,61,53.29,1,0.4034764287595469,0.5406186759178953,0.4988573268912432,66.18341599024552,"{'low': -0.03142505777754009, 'high': 0.03142505777754009}","{'low': -0.0702685653874381, 'high': 0.0702685653874381}","{'low': -0.1440077059839382, 'high': 0.1440077059839382}"
-us,Energy,EOG,OK,,HOLD,53,149.2,1,0.43641089823818224,0.27195225916453536,0.2399379765519794,85.12265880034471,"{'low': -0.015114671810394869, 'high': 0.015114671810394869}","{'low': -0.03379743362564274, 'high': 0.03379743362564274}","{'low': -0.06926412767554971, 'high': 0.06926412767554971}"
-us,Utilities,NEE,OK,,BUY,70,91.32,1,0.1351149782473584,0.2233087742799731,0.18226186783498616,50.49890091901937,"{'low': -0.011481418470987994, 'high': 0.011481418470987994}","{'low': -0.02567323217925085, 'high': 0.02567323217925085}","{'low': -0.05261446922876662, 'high': 0.05261446922876662}"
-us,Utilities,DUK,OK,,HOLD,49,130.13,1,0.10767790262172272,0.06384892086330929,0.14867950921821263,55.0139541177047,"{'low': -0.009365928724822045, 'high': 0.009365928724822045}","{'low': -0.020942853301120015, 'high': 0.020942853301120015}","{'low': -0.042920077335058246, 'high': 0.042920077335058246}"
-us,Utilities,SO,OK,,HOLD,47,95.83,1,0.09934610531146038,0.022841285089123753,0.16452033816769931,52.931709491589245,"{'low': -0.01036380715247572, 'high': 0.01036380715247572}","{'low': -0.02317417729863424, 'high': 0.02317417729863424}","{'low': -0.04749293076414473, 'high': 0.04749293076414473}"
-us,Utilities,AEP,OK,,BUY,70,130.225,1,0.12934697771225379,0.20735212312256635,0.17843088036659807,52.81532595983014,"{'low': -0.011240088944388951, 'high': 0.011240088944388951}","{'low': -0.02513360295279755, 'high': 0.02513360295279755}","{'low': -0.05150855840569865, 'high': 0.05150855840569865}"
-us,Utilities,EXC,OK,,BUY,64,48.3451,1,0.11087086397058821,0.10427364093193248,0.20590652254147532,52.20473853507995,"{'low': -0.01297089171359188, 'high': 0.01297089171359188}","{'low': -0.02900379560038018, 'high': 0.02900379560038018}","{'low': -0.05944009310861025, 'high': 0.05944009310861025}"
+asx,Technology,XRO.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Technology,WTC.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Technology,CPU.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Technology,NEA.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Technology,ALU.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Communication Services,REA.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Communication Services,CAR.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Communication Services,SEK.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Communication Services,TPG.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Communication Services,SGP.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Health Care,CSL.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Health Care,RMD.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Health Care,ANN.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Health Care,COH.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Health Care,PME.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Energy,WDS.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Energy,STO.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Energy,BPT.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Energy,ORG.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Energy,AGL.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Utilities,APA.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Utilities,AST.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Utilities,SKI.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Utilities,MCY.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+asx,Utilities,MGR.AX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Technology,AAPL,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Technology,MSFT,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Technology,NVDA,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Technology,AVGO,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Technology,ORCL,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Communication Services,GOOGL,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Communication Services,META,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Communication Services,NFLX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Communication Services,TMUS,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Communication Services,DIS,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Health Care,LLY,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Health Care,JNJ,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Health Care,UNH,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Health Care,ABBV,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Health Care,MRK,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Energy,XOM,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Energy,CVX,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Energy,COP,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Energy,SLB,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Energy,EOG,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Utilities,NEE,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Utilities,DUK,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Utilities,SO,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Utilities,AEP,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
+us,Utilities,EXC,NO_DATA,No columns to parse from file,HOLD,0,,0,,,,,,,
